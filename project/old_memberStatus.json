@@ -1,0 +1,1798 @@
+{
+    "1": {
+        "id": 1,
+        "name": "\u6708\u30ce\u7f8e\u514e",
+        "picPath": "src/member/tsukino_mito.png",
+        "channelid": "UCD-miitqNY3nyukJ4Fnf4_A",
+        "vocabulary": [
+            [
+                "\u3042\u3063\u3001\u5f85\u3063\u3066\u3001\u4eba\u3058\u3083\u306a\u3044\u3053\u308c\u3002",
+                "1_Amattekorehitojanai",
+                "surprise"
+            ],
+            [
+                "\u3046\u309b\u3045\u309b\u3042\u309b\u3041\u3041\u3041\u3041\u3049\uff01\uff01\uff01",
+                "1_Uwaaaaaaaohh",
+                "bad"
+            ],
+            [
+                "Old Old that place.",
+                "1_Oldthatplace",
+                "other"
+            ],
+            [
+                "\u304a\u308b\u3084\u3093\u3051\uff01\u304a\u308b\u3084\u3093\u3051\uff01\u3069\u306a\u305f\u304b\u304a\u308b\u3084\u3093\u3051\uff01",
+                "1_Oruyanke",
+                "surprise"
+            ],
+            [
+                "\u30af\u30bd\u30b2\u30fc\u4e59\uff01",
+                "1_Kusoge-otu",
+                "anger"
+            ],
+            [
+                "\u30af\u30bd\u96d1\u9b5a\u30d1\u30f3\u30c1\u3084\u3081\u3066\u304f\u3060\u3055\u3044\u3061\u3087\u3063\u3068\uff57",
+                "1_Kusozakopanti",
+                "laugh"
+            ],
+            [
+                "\u3053\u306e\u4e16\u754c\u89b3\u3001\u975e\u5e38\u306b\u30b0\u30c3\u30c9\uff01",
+                "1_Konosekaikan",
+                "joy"
+            ],
+            [
+                "\u3053\u308c\u304cVRYoutuber\u306a\u3093\u3060\u3088\u306a\u3041",
+                "1_Koregavrytnandayo",
+                "sad"
+            ],
+            [
+                "\u8d77\u7acb\uff01 \u6c17\u3092\u3064\u3051\uff01\u3053\u3093\u306b\u3061\u306f \u6708\u30ce\u7f8e\u514e\u3067\u3059",
+                "1_Kiritukiotuke",
+                "greeting"
+            ],
+            [
+                "\u30cb\u30ef\u30c8\u30ea\u4e26\u307f\u306e\u8133\u307f\u305d\u3055\u308c\u3066\u307e\u3059\u3051\u3069\u5927\u4e08\u592b\u306a\u3093\u3067\u3059\u304b\u3053\u306e\u4eba\u306f",
+                "1_Niwatorinamino",
+                "other"
+            ],
+            [
+                "\u5c65\u3044\u3066\u306a\u3044\u3088",
+                "1_Haitenaiyo",
+                "bad"
+            ],
+            [
+                "\u30d3\u30f3\u30bf\u3057\u3066\uff01\u30d3\u30f3\u30bf\uff01",
+                "1_Bintasitebinta",
+                "joy"
+            ],
+            [
+                "\u30d6\u30cf\u30cf\u30a1\uff57\uff57",
+                "1_Buha-",
+                "laugh"
+            ],
+            [
+                "\u3075\u3056\u3051\u3093\u306a\uff57\u304a\u524d\uff57..\u307e\u3066\uff57..\u307e\u3066\uff57..\u307e\u3066\u307e\u3066\u307e\u3066\u307e\u3066\uff57",
+                "1_Huzakennayo",
+                "joy"
+            ],
+            [
+                "\u307e\u3060\u3042\u308b\u306e\u304b\uff6f",
+                "1_Madaarunoka",
+                "sad"
+            ],
+            [
+                "\u3084\u3089\u306d\u3070\u306a\u3089\u306c\u3002VRYoutuber\u305f\u308b\u3082\u306e\u30db\u30e9\u30fc\u30b2\u30fc\u306f\u907f\u3051\u3066\u306f\u901a\u308c\u306c\u9053",
+                "1_Yaranebanaranu",
+                "other"
+            ],
+            [
+                "\u308f\u305f\u304f\u3057\u6210\u7e3e\u512a\u79c0\u3001\u5bb9\u59ff\u7aef\u9e97\u3001\uff85\uff9d\uff81\uff6c\uff97\uff76\uff9d\uff81\uff6c\uff97..\u306a\u3093\u304b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc",
+                "1_Watashiseisekiyuusyuu",
+                "other"
+            ],
+            [
+                "\u308f\u305f\u304f\u3057\u3067\u96a0\u3055\u306a\u304d\u3083",
+                "1_Watakusidekakusanakya",
+                "surprise"
+            ],
+            [
+                "\u305d\u308c\u3067\u306f\u3001\u6c17\u3092\u3064\u3051\uff01\u7740\u5e2d\uff01\u4ee5\u4e0a\u3001\u6708\u30ce\u7f8e\u514e\u304c\u304a\u9001\u308a\u3044\u305f\u3057\u307e\u3057\u305f",
+                "1_Kiwotuketyakuseki",
+                "greeting"
+            ]
+        ]
+    },
+    "2": {
+        "id": 2,
+        "name": "\u52c7\u6c17\u3061\u3072\u308d",
+        "picPath": "src/member/yuuki_chihiro.png",
+        "channelid": "UCLO9QDxVL4bnvRRsz6K4bsQ",
+        "vocabulary": [
+            [
+                "\u30a2\u30c3\u30cf\u30c3\u30cf\u30c3\u30cf\u30a1\u2191",
+                "2_Ahahaha",
+                "laugh"
+            ],
+            [
+                "\u3042\u9593\u9055\u3048\u3066\u97f3\u697d\u6d88\u3057\u3061\u3083\u3063\u305f..\u307e\u3063\u3066",
+                "2_Matigaete",
+                "sad"
+            ],
+            [
+                "\uff73\uff71\uff71\uff71\uff71\uff71\uff71\uff71\uff71\uff71\uff71\uff71\uff71\u30fc\u30fc",
+                "2_Uwaaaa",
+                "surprise"
+            ],
+            [
+                "\u30a2\u30cf\u30cf\u30cf\u30cf\u30c3\uff01",
+                "2_Ahahahau",
+                "laugh"
+            ],
+            [
+                "\u3042\u3093\u307e\u308a\u4eba\u306b\u6bba\u610f\u62b1\u304b\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u306d\u3061\u3072\u308d",
+                "2_Annmatihito",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u3001\u4fe1\u3058\u3089\u308c\u306a\u3044\u304f\u3089\u3044\u30b4\u30df\u3058\u3083\u3093",
+                "2_Omaesinji",
+                "anger"
+            ],
+            [
+                "\u304a\u3064\u3061\u30fc\uff01",
+                "2_Otuti",
+                "greeting"
+            ],
+            [
+                "\u30d6\u30bf\u306e\u8caf\u91d1\u7bb1\u5272\u3063\u3066\u3053\u3044\u3084",
+                "2_Butanotyokin",
+                "other"
+            ],
+            [
+                "\u307f\u306a\u3055\u3093\u3053\u3093\u3070\u3093\u306f\u52c7\u6c17\u3061\u3072\u308d\u3067\u3059",
+                "2_Minasankonbanha",
+                "greeting"
+            ],
+            [
+                "\u3082\u3046\u6301\u3063\u3066\u308b\u304b\u3089\u3044\u3089\u306d\u3047\u3093\u3060\u3088",
+                "2_Moumotterukara",
+                "other"
+            ],
+            [
+                "\u306a\u3093\u3067100\u5186\u306a\u3093\u3060\u3088\u30a2\u30b4\u30fc\u30c3\uff01",
+                "2_Nandehyakuenn",
+                "anger"
+            ],
+            [
+                "\u3046\u308b\u3063\u305b\u30fc\u306a\u30fc\u5b89\u5fc3\u3057\u308d\u3088\u3059\u3050\u6bba\u3057\u3066\u3084\u3063\u304b\u3089",
+                "2_Urusseenaa",
+                "anger"
+            ]
+        ]
+    },
+    "3": {
+        "id": 3,
+        "name": "\u3048\u308b",
+        "picPath": "src/member/elu.png",
+        "channelid": "UCYKP16oMX9KKPbrNgo_Kgag",
+        "vocabulary": [
+            [
+                "\u304a\u3064\u3048\u308b\u3048\u308b\u30fc\uff01",
+                "3_Otsueluelu",
+                "greeting"
+            ]
+        ]
+    },
+    "4": {
+        "id": 4,
+        "name": "\u6a0b\u53e3\u6953",
+        "picPath": "src/member/higuchi_kaede.png",
+        "channelid": "UCsg-YqdqQ-KFF0LNk23BY4A",
+        "vocabulary": [
+            [
+                "\u3084\u3063\u305f\u305c",
+                "4_Yattaze",
+                "joy"
+            ],
+            [
+                "\u30d5\uff9d\u30c3w............www.......www",
+                "4_laughlaugh",
+                "laugh"
+            ]
+        ]
+    },
+    "5": {
+        "id": 5,
+        "name": "\u9759\u51db",
+        "picPath": "src/member/shizuka_rin.png",
+        "channelid": "UC6oDys1BGgBsIC3WhG1BovQ",
+        "vocabulary": [
+            [
+                "\u30cf\u30c3..\u30cf\u30ec\u30f3\u30c1\u3067\u3059",
+                "5_Hrentidesu",
+                "other"
+            ],
+            [
+                "\u3061\u3087\u3063\u3068..\u8868\u60c5\u7b4b\u304c\u30e4\u30d0\u3044\u3067\u3059",
+                "5_Tyottohyouzyo",
+                "surprise"
+            ],
+            [
+                "\u30c9\u30b4\u30fc\uff1f\uff1f",
+                "5_Doko",
+                "surprise"
+            ]
+        ]
+    },
+    "6": {
+        "id": 6,
+        "name": "\u6e0b\u8c37\u30cf\u30b8\u30e1",
+        "picPath": "src/member/shibuya_hajime.png",
+        "channelid": "UCeK9HFcRZoTrvqcUCtccMoQ",
+        "vocabulary": []
+    },
+    "7": {
+        "id": 7,
+        "name": "\u9234\u8c37\u30a2\u30ad",
+        "picPath": "src/member/suzuya_aki.png",
+        "channelid": "UCpnvhOIJ6BN-vPkYU9ls-Eg",
+        "vocabulary": []
+    },
+    "8": {
+        "id": 8,
+        "name": "\u30e2\u30a4\u30e9",
+        "picPath": "src/member/moira.png",
+        "channelid": "UCvmppcdYf4HOv-tFQhHHJMA",
+        "vocabulary": [
+            [
+                "\u30e2\u30a4\u30e2\u30a4\u30e2\u30e2\u30fc\u30a4\u30e2\u30a4\u30e2\u30e2\u30a4\u30e2\u30a4\u30c3",
+                "8_Moimoimomoi",
+                "greeting"
+            ]
+        ]
+    },
+    "9": {
+        "id": 9,
+        "name": "\u9234\u9e7f\u8a69\u5b50",
+        "picPath": "src/member/suzuka_utako.png",
+        "channelid": "UCwokZsOK_uEre70XayaFnzA",
+        "vocabulary": [
+            [
+                "18\u7981\u3092\u89b3\u3066\u308b",
+                "9_Zyuhatikin",
+                "other"
+            ]
+        ]
+    },
+    "10": {
+        "id": 10,
+        "name": "\u5bb6\u9577\u3080\u304e",
+        "picPath": "src/member/ienaga_mugi.png",
+        "channelid": "UC_GCs6GARLxEHxy1w40d6VQ",
+        "vocabulary": []
+    },
+    "11": {
+        "id": 11,
+        "name": "\u5b87\u5fd7\u6d77\u3044\u3061\u3054",
+        "picPath": "src/member/ushimi_ichigo.png",
+        "channelid": "UCmUjjW5zF1MMOhYUwwwQv9Q",
+        "vocabulary": []
+    },
+    "12": {
+        "id": 12,
+        "name": "\u5915\u967d\u30ea\u30ea",
+        "picPath": "src/member/yuuhi_riri.png",
+        "channelid": "UC48jH1ul-6HOrcSSfoR02fQ",
+        "vocabulary": []
+    },
+    "13": {
+        "id": 13,
+        "name": "\u7269\u8ff0\u6709\u6816",
+        "picPath": "src/member/mononobe_arisu.png",
+        "channelid": "UCt0clH12Xk1-Ej5PXKGfdPA",
+        "vocabulary": [
+            [
+                "\u3093\uff5e\u307e\u3063\uff01 \u3042\u30fc\u3067\u304d\u306a\u3044...",
+                "12_Nnnma",
+                "other"
+            ]
+        ]
+    },
+    "14": {
+        "id": 14,
+        "name": "\u6587\u91ce\u74b0",
+        "picPath": "src/member/humino_tamaki.png",
+        "channelid": "UCBiqkFJljoxAj10SoP2w2Cg",
+        "vocabulary": []
+    },
+    "15": {
+        "id": 15,
+        "name": "\u4f0f\u898b\u30ac\u30af",
+        "picPath": "src/member/hushimi_gaku.png",
+        "channelid": "UCXU7YYxy_iQd3ulXyO-zC2w",
+        "vocabulary": []
+    },
+    "16": {
+        "id": 16,
+        "name": "\u30ae\u30eb\u30b6\u30ec\u30f3\u2162\u4e16",
+        "picPath": "src/member/giruzaren_sansei.png",
+        "channelid": "UCUzJ90o1EjqUbk2pBAy0_aw",
+        "vocabulary": [
+            [
+                "\u305d\u308c\u3067\u306f\u8af8\u541b\u3001\u307e\u305f\u6e80\u6708\u306e\u591c\u306b\u304a\u4f1a\u3044\u3057\u307e\u3057\u3087\u3046",
+                "15_Mangetunoyoru",
+                "greeting"
+            ]
+        ]
+    },
+    "17": {
+        "id": 17,
+        "name": "\u5263\u6301\u5200\u4e5f",
+        "picPath": "src/member/kenmoti_touya.png",
+        "channelid": "UCv1fFr156jc65EMiLbaLImw",
+        "vocabulary": [
+            [
+                "\u30ed\u30ea\u30b3\u30f3\u306f\u884c\u304d\u3064\u304f\u5148\u306f\u30ed\u30ea\u306a\u3093\u3067\u306d",
+                "16_Rorikon",
+                "other"
+            ]
+        ]
+    },
+    "18": {
+        "id": 18,
+        "name": "\u68ee\u4e2d\u82b1\u54b2",
+        "picPath": "src/member/morinaka_kazaki.png",
+        "channelid": "UCtpB6Bvhs1Um93ziEDACQ8g",
+        "vocabulary": []
+    },
+    "19": {
+        "id": 19,
+        "name": "\u53f6",
+        "picPath": "src/member/kanae.png",
+        "channelid": "UCspv01oxUFf_MTSipURRhkA",
+        "vocabulary": []
+    },
+    "20": {
+        "id": 20,
+        "name": "\u8d64\u7fbd\u8449\u5b50",
+        "picPath": "src/member/akabane_youko.png",
+        "channelid": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
+        "vocabulary": []
+    },
+    "21": {
+        "id": 21,
+        "name": "\u7b39\u6728\u54b2",
+        "picPath": "src/member/sasaki_saku.png",
+        "channelid": "UCoztvTULBYd3WmStqYeoHcA",
+        "vocabulary": [
+            [
+                "\u3044\u306b\u3085\u3044\uff1f",
+                "20_Inui",
+                "other"
+            ],
+            [
+                "\u3046\u3061\u306b...\u6575\u3046\u3068\u601d\u3046\u306a\u3088",
+                "20_Uchinikanau",
+                "anger"
+            ],
+            [
+                "\u3046\u308f\u30fc\u30c3\uff8a\uff6f\uff8a\uff6f..\u3046\u308b\u305b\u30fc\u3044\u304f\u305e\u30b3\u30e9",
+                "20_Uwahahaha",
+                "anger"
+            ],
+            [
+                "\u539f\u59cb\u4eba\u306e...\u622f\u308c\u304c\u3041\uff01",
+                "20_Gensizinno",
+                "anger"
+            ],
+            [
+                "\u7b39\u6728\u54b2\u3084\u3088\uff5e",
+                "20_Sasakisakuyayo",
+                "greeting"
+            ],
+            [
+                "\u3061\u304c\u3046\u3067\u30b6\u30a6\u30eb\u30b9",
+                "20_Tigaudezaurusu",
+                "anger"
+            ],
+            [
+                "\u30c9\u30b3\u30c9\u30b3\u30c9\u30b3\u30c9\u30b3\u30c9\u30b3",
+                "20_Dokodoko",
+                "surprise"
+            ],
+            [
+                "\u8210\u3081\u8150\u3063\u305f...\u30b3\u30e1\u30f3\u30c8\u3092\u6253\u3061\u3042\u304c\u3063\u3066",
+                "20_Namekusatta",
+                "anger"
+            ],
+            [
+                "\u3078\u3063\u3050\u3057\u3087\u3093..\u3046\u3047\u3047\u3047\u3059\uff6f",
+                "20_Heggushun",
+                "other"
+            ],
+            [
+                "\u30ed\uff69\u30ed\uff99\uff69\u30ed\uff99\uff69\u30ed\u30ed\u30ed\u30ed\uff69\u30ed\uff69\u30ed\uff99\uff69\u30ed\uff99\uff69\u30ed\u30ed\u30ed\u30ed\u30a2\u3061\u3083\u3041\uff5e\u3093\uff01\uff1f\uff01\uff1f",
+                "20_Rororoorooooooo",
+                "joy"
+            ],
+            [
+                "\u30ed\uff69\u30ed\uff69\u30ed\uff99\uff69\u30ed\uff99\uff69\u30ed\u30ed\u30ed\u30ed\u30a2\u3061\u3083\u3041\u3093\u306e\u30d1\u30f3\u30c4\uff01",
+                "20_Roatyannopantu",
+                "joy"
+            ],
+            [
+                "\u30c1\u30e3\u30a4\u30ab\u3044\u3051\u3044\u3051\u30fc\uff01",
+                "20_Chaikaikeike",
+                "other"
+            ],
+            [
+                "\u30a8\u30dd\u30ca",
+                "20_Epona",
+                "other"
+            ],
+            [
+                "\u30d2\u30e3\u30c3\u30db\uff69\uff70\u30fc\u2191\u2191",
+                "20_Hyahoo",
+                "joy"
+            ],
+            [
+                "\u30d7\u30cf\u30a1\u30fc\u30fc",
+                "20_Phaaaa",
+                "other"
+            ],
+            [
+                "\u306a\u3093\u3067\u305d\u3093\u306a\u3053\u3068\u8a00\u3046\u306e\uff01",
+                "20_Nandesonnakoto",
+                "sad"
+            ],
+            [
+                "\u304a\u524d\u306e\u3053\u3068\u7d76\u5bfe\u8a31\u3055\u3078\u3093\u304b\u3089\u306a\uff01",
+                "20_Omaenokoto",
+                "anger"
+            ]
+        ]
+    },
+    "22": {
+        "id": 22,
+        "name": "\u672c\u9593\u3072\u307e\u308f\u308a",
+        "picPath": "src/member/honma_himawari.png",
+        "channelid": "UC0g1AE0DOjBYnLhkgoRWN1w",
+        "vocabulary": [
+            [
+                "",
+                "VoiceLink",
+                "greeting"
+            ],
+            [
+                "\u304a\u524d\u8ab0\u3060\u3088\u3001\u3042\u3041...\u3072\u307e\u308f\u308a\u304b",
+                "21_Omaedare",
+                "surprise"
+            ],
+            [
+                "What the \u30d5\u30a1\u30fc\u30d5\u30a1\u30fc",
+                "21_Whatthefafa",
+                "surprise"
+            ],
+            [
+                "\u672c\u65e5\u3082\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u306e\u5dfb",
+                "21_Honjitu",
+                "greeting"
+            ],
+            [
+                "\u884c\u304f\u306e\u3084\u3060...",
+                "21_Ikunoyada",
+                "other"
+            ],
+            [
+                "\u3058\u3083\u307f\u3058\u3083\u307f\u5922\u3067\u898b\u305f...",
+                "21_Zyamizyami",
+                "other"
+            ],
+            [
+                "\u673a\u3092\u982d\u306e\u4e0b\u306b\uff01",
+                "21_Tukuewoatamanositani",
+                "other"
+            ]
+        ]
+    },
+    "23": {
+        "id": 23,
+        "name": "\u9b54\u754c\u30ce\u308a\u308a\u3080",
+        "picPath": "src/member/makainoririmu.png",
+        "channelid": "UC9EjSJ8pvxtvPdxLOElv73w",
+        "vocabulary": [
+            [
+                "\u611b\u3057\u3066\u307e\u3059...",
+                "22_Aisitemasu",
+                "other"
+            ],
+            [
+                "\u304a\u306f\u307d\u3048\uff5e",
+                "22_Ohapoe",
+                "greeting"
+            ],
+            [
+                "\u3059\u304d",
+                "22_Suki",
+                "other"
+            ]
+        ]
+    },
+    "24": {
+        "id": 24,
+        "name": "\u845b\u8449",
+        "picPath": "src/member/kuzuha.png",
+        "channelid": "UCSFCh5NL4qXrAy9u-u2lX3g",
+        "vocabulary": [
+            [
+                "",
+                "VoiceLink",
+                "greeting"
+            ],
+            [
+                "\u5929\u624d\u4e86\u89e3\u30b8\u30fc\u30cb\u30a2\u30b9",
+                "23_Tensairyoukai",
+                "joy"
+            ]
+        ]
+    },
+    "25": {
+        "id": 25,
+        "name": "\u96ea\u6c5d",
+        "picPath": "src/member/setsuna.png",
+        "channelid": "UCfM_A7lE6LkGrzx6_mOtI4g",
+        "vocabulary": []
+    },
+    "26": {
+        "id": 26,
+        "name": "\u690e\u540d\u552f\u83ef",
+        "picPath": "src/member/shiina_yuika.png",
+        "channelid": "UC_4tXjqecqox5Uc05ncxpxg",
+        "vocabulary": [
+            [
+                "\u8b1d\u3089\u306a\u3044\u3088\u30bc\u30c3\u30bf\u30a4\uff01",
+                "25_Ayamaranaiyo",
+                "anger"
+            ],
+            [
+                "\u4e00\u306b\u7761\u7720\u4e8c\u306b\u7761\u7720\u3001\u4e09\u4e0b\u306a\u3093\u3066\u8a00\u308f\u306a\u3044\u3067",
+                "25_Ichinisuimin",
+                "other"
+            ],
+            [
+                "\u30a6\u30f3\u30c1\u3067\u3059\u306d",
+                "25_Unchidesune",
+                "other"
+            ],
+            [
+                "\u304a\u3055\u3089\u3070\u690e\u540d\uff01",
+                "25_Osarabashiina",
+                "greeting"
+            ],
+            [
+                "\u304a\u3064\u304b\u308c\u4e09\u4e0b\uff01\uff01",
+                "25_Otukaresansita",
+                "greeting"
+            ],
+            [
+                "\u304a\u306f\u3057\u3043\u306a\u3041\uff5e",
+                "25_Ohashiina",
+                "greeting"
+            ],
+            [
+                "\u3053\u3063\u3061\u306f\u52dd\u3061\u306b\u6765\u3066\u3093\u3060\u3088",
+                "25_Kottihakatinikitendayo",
+                "anger"
+            ],
+            [
+                "SEEDs\u306fSEEDs\u3057\u3068\u3051",
+                "25_Seezhaseezsitoke",
+                "other"
+            ],
+            [
+                "\u3061\u3087\u3063\u3068\u597d\u304d\u306b\u306a\u3063\u3066\u305f\u3093\u3067\u3059\u3088\u306d",
+                "25_Chottosukininatteta",
+                "other"
+            ],
+            [
+                "\u30cf\u30a4\u51fa\u305f\u30b2\u30fc\u30de\u30fc\u30ba\u5dee\u5225",
+                "25_Haidatage-ma-zusabetu",
+                "anger"
+            ],
+            [
+                "\u8db3\u306e\u88cf\u63a5\u7740\u5264\u3067\u304f\u3063\u3064\u3044\u3066\u3093\u306e? \u3046\u308b\u305b\u3047",
+                "25_Ashinoura",
+                "other"
+            ],
+            [
+                "\u306f\u3044\u3069\u3049\u30fc\u3082\u30fc\u30ad\u30c5\u30ca\u30a2\u30a4\u3067\u3059",
+                "25_Haidoomoo",
+                "greeting"
+            ],
+            [
+                "\u306f\u3058\u3081\u307e\u3057\u3066...\u3067\u3059\u306d",
+                "25_Hajimemashitedesune",
+                "greeting"
+            ]
+        ]
+    },
+    "27": {
+        "id": 27,
+        "name": "\u30c9\u30fc\u30e9",
+        "picPath": "src/member/doora.png",
+        "channelid": "UC53UDnhAAYwvNO7j_2Ju1cQ",
+        "vocabulary": [
+            [
+                "\u304a\u8336\u3092\u98f2\u307f\u307e\u3059",
+                "26_Otyaonomu",
+                "other"
+            ],
+            [
+                "\u304a\u308b\u3084\u3093\u3051",
+                "26_Oruyanke",
+                "joy"
+            ]
+        ]
+    },
+    "28": {
+        "id": 28,
+        "name": "\u51fa\u96f2\u971e",
+        "picPath": "src/member/izumo_kasumi.png",
+        "channelid": "UCLpYMk5h1bq8_GAFVBgXhPQ",
+        "vocabulary": []
+    },
+    "29": {
+        "id": 29,
+        "name": "\u8f5f\u4eac\u5b50",
+        "picPath": "src/member/todoro_kyouko.png",
+        "channelid": "UCRV9d6YCYIMUszK-83TwxVA",
+        "vocabulary": [
+            [
+                "\u9b42\u3060\u3051\u306b\u7389\u3063\u3066\u306a",
+                "28_Tamasiidakeni",
+                "other"
+            ],
+            [
+                "\u90aa\u9b54\u3060\u8c5a\u30a1\u6b7b\u306b\u3055\u3089\u305b\u3047",
+                "28_Zyamadabutaa",
+                "anger"
+            ]
+        ]
+    },
+    "30": {
+        "id": 30,
+        "name": "\u30b7\u30b9\u30bf\u30fc\u30fb\u30af\u30ec\u30a2",
+        "picPath": "src/member/sister_claire.png",
+        "channelid": "UC1zFJrfEKvCixhsjNSb1toQ",
+        "vocabulary": []
+    },
+    "31": {
+        "id": 31,
+        "name": "\u82b1\u7551\u30c1\u30e3\u30a4\u30ab",
+        "picPath": "src/member/hanabatake_chaika.png",
+        "channelid": "UCsFn_ueskBkMCEyzCEqAOvg",
+        "vocabulary": [
+            [
+                "\u304a\u3045\u2191\uff1f",
+                "30_Oh",
+                "surprise"
+            ],
+            [
+                "\u304a\u3045\u2191\uff1f\uff1f",
+                "30_Oh2",
+                "surprise"
+            ],
+            [
+                "\u5b9f\u306b\u3044\u3044\u306e\u3060",
+                "30_Zituniiinoda",
+                "other"
+            ],
+            [
+                "\u60aa\u304f\u306a\u3044\u306e\u3060",
+                "30_Warukunainoda",
+                "other"
+            ]
+        ]
+    },
+    "32": {
+        "id": 32,
+        "name": "\u793e\u7bc9",
+        "picPath": "src/member/yashiro_kizuku.png",
+        "channelid": "UCKMYISTJAQ8xTplUPHiABlA",
+        "vocabulary": [
+            [
+                "Hey! Johnny \u3053\u306e\u30ad\u30e2\u30a4\u30aa\u30bf\u30af\u306f\u8ab0\u306a\u3093\u3060\u3044",
+                "31_Heyjony",
+                "other"
+            ],
+            [
+                "\u30ad\u30e2\u30a4\u30c8\u30fc\u30af\u3057\u304b\u4eca\u65e5\u306f\u3057\u306a\u3044",
+                "31_Kimoitoku",
+                "other"
+            ],
+            [
+                "\u79c1\u306f\u305f\u3060\u306e\u30ad\u30e2\u30aa\u30bf\u3060",
+                "31_Watashiha",
+                "other"
+            ],
+            [
+                "\u3053\u308c\u306f\u7533\u3057\u8a33\u306a\u3044",
+                "31_Korehamousiwakenai",
+                "other"
+            ]
+        ]
+    },
+    "33": {
+        "id": 33,
+        "name": "\u5b89\u571f\u6843",
+        "picPath": "src/member/aduti_momo.png",
+        "channelid": "UC6TfqY40Xt1Y0J-N18c85qQ",
+        "vocabulary": []
+    },
+    "34": {
+        "id": 34,
+        "name": "\u536f\u6708\u30b3\u30a6",
+        "picPath": "src/member/uduki_kou.png",
+        "channelid": "UC3lNFeJiTq6L3UWoz4g1e-A",
+        "vocabulary": [
+            [
+                "\u3044\u305f\u3060\u304d\u534d",
+                "33_Itadakimanzi",
+                "other"
+            ],
+            [
+                "\u3044\u3063\u305e",
+                "33_Izzo",
+                "other"
+            ],
+            [
+                "\u306c\u3041\uff1f",
+                "33_Nua",
+                "other"
+            ],
+            [
+                "\u308f\u305f\u304f\u3057\u306b\u3058\u3055\u3093\u3058\u3067\u3057\u3066\u3088\uff1f",
+                "33_Watakushi",
+                "other"
+            ],
+            [
+                "\u4f59\u88d5\u3060",
+                "33_Yoyuuda",
+                "other"
+            ]
+        ]
+    },
+    "35": {
+        "id": 35,
+        "name": "\u9234\u6728\u52dd",
+        "picPath": "src/member/suzuki_masaru.png",
+        "channelid": "UCryOPk2GZ1meIDt53tL30Tw",
+        "vocabulary": []
+    },
+    "36": {
+        "id": 36,
+        "name": "\u7dd1\u4ed9",
+        "picPath": "src/member/ryuusyen.png",
+        "channelid": "UCt5-0i4AVHXaWJrL8Wql3mw",
+        "vocabulary": []
+    },
+    "37": {
+        "id": 37,
+        "name": "\u795e\u7530\u7b11\u4e00",
+        "picPath": "src/member/kanda_shouichi.png",
+        "channelid": "UCWz0CSYCxf4MhRKPDm220AQ",
+        "vocabulary": []
+    },
+    "38": {
+        "id": 38,
+        "name": "\u98db\u9ce5\u3072\u306a",
+        "picPath": "src/member/asuka_hina.png",
+        "channelid": "UCiSRx1a2k-0tOg-fs6gAolQ",
+        "vocabulary": []
+    },
+    "39": {
+        "id": 39,
+        "name": "\u6625\u5d0e\u30a8\u30a2\u30eb",
+        "picPath": "src/member/harusaki_earu.png",
+        "channelid": "UCtAvQ5U0aXyKwm2i4GqFgJg",
+        "vocabulary": []
+    },
+    "40": {
+        "id": 40,
+        "name": "\u96e8\u68ee\u5c0f\u591c",
+        "picPath": "src/member/amemori_sayo.png",
+        "channelid": "UCRWOdwLRsenx2jLaiCAIU4A",
+        "vocabulary": []
+    },
+    "41": {
+        "id": 41,
+        "name": "\u9df9\u5bae\u30ea\u30aa\u30f3",
+        "picPath": "src/member/takamiya_rion.png",
+        "channelid": "UCV5ZZlLjk5MKGg3L0n0vbzw",
+        "vocabulary": [
+            [
+                "\u3084\u3063\u305f\u3041",
+                "40_Yatta-",
+                "joy"
+            ],
+            [
+                "\u8a31\u305b\u306d\u3047\u3088\u306a\u3041\u3041",
+                "40_Yuruseneyonaa",
+                "anger"
+            ],
+            [
+                "\u3053\u308c\u30de\u30b8\u6c38\u9060\u306b\u6012\u308c\u308b\u305e\u79c1",
+                "40_Koremaji",
+                "anger"
+            ],
+            [
+                "\u308f\u3051\u308f\u304b\u3093\u306a\u304f\u306a\u3044\uff1f",
+                "40_Wakewakannai",
+                "anger"
+            ],
+            [
+                "\u30cf\u30cf\u30c3\u30c3",
+                "40_Hahha",
+                "laugh"
+            ]
+        ]
+    },
+    "42": {
+        "id": 42,
+        "name": "\u821e\u5143\u5553\u4ecb",
+        "picPath": "src/member/maimoto_keisuke.png",
+        "channelid": "UCJubINhCcFXlsBwnHp0wl_g",
+        "vocabulary": [
+            [
+                "\u4ffa\u305f\u3061\u306f\u898b\u5b88\u3063\u3066\u308b\u3088",
+                "41_Oretatiha",
+                "other"
+            ]
+        ]
+    },
+    "43": {
+        "id": 43,
+        "name": "\u7adc\u80c6\u5c0a",
+        "picPath": "src/member/rindou_mikoto.png",
+        "channelid": "UCPvGypSgfDkVe7JG2KygK7A",
+        "vocabulary": [
+            [
+                "\u304c\u30a9\u30fc",
+                "42_Gaooo",
+                "other"
+            ],
+            [
+                "\u3066\u3043\u3063\u304f\u2191\u3068\u3063\u304f\u2193",
+                "42_Tiktok",
+                "other"
+            ]
+        ]
+    },
+    "44": {
+        "id": 44,
+        "name": "\u3067\u3073\u3067\u3073\u30fb\u3067\u3073\u308b",
+        "picPath": "src/member/devidevi_devil.png",
+        "channelid": "UCjlmCrq4TP1I4xguOtJ-31w",
+        "vocabulary": []
+    },
+    "45": {
+        "id": 45,
+        "name": "\u685c\u51db\u6708",
+        "picPath": "src/member/sakura_ritsuki.png",
+        "channelid": "UCfQVs_KuXeNAlGa3fb8rlnQ",
+        "vocabulary": []
+    },
+    "46": {
+        "id": 46,
+        "name": "\u753a\u7530\u3061\u307e",
+        "picPath": "src/member/machida_chima.png",
+        "channelid": "UCo7TRj3cS-f_1D9ZDmuTsjw",
+        "vocabulary": []
+    },
+    "47": {
+        "id": 47,
+        "name": "\u6708\u898b\u3057\u305a\u304f",
+        "picPath": "src/member/tsukimi_shizuku.png",
+        "channelid": "UCqQV8xEBWd5SVZBLlYrS_5Q",
+        "vocabulary": []
+    },
+    "48": {
+        "id": 48,
+        "name": "\u30b8\u30e7\u30fc\u30fb\u529b\u4e00",
+        "picPath": "src/member/jo_rikiichi.png",
+        "channelid": "UChUJbHiTVeGrSkTdBzVfNCQ",
+        "vocabulary": []
+    },
+    "49": {
+        "id": 49,
+        "name": "\u9060\u5317\u5343\u5357",
+        "picPath": "src/member/achikita_chinami.png",
+        "channelid": "UCuz0vzQgC8LRdS6lVV0UkUg",
+        "vocabulary": []
+    },
+    "50": {
+        "id": 50,
+        "name": "\u6210\u702c\u9cf4",
+        "picPath": "src/member/naruse_naru.png",
+        "channelid": "UCoM_XmK45j504hfUWvN06Qg",
+        "vocabulary": []
+    },
+    "51": {
+        "id": 51,
+        "name": "\u30d9\u30eb\u30e2\u30f3\u30c9\u30fb\u30d0\u30f3\u30c7\u30e9\u30b9",
+        "picPath": "src/member/belmondo_banderasu.png",
+        "channelid": "UCbc8fwhdUNlqi-J99ISYu4A",
+        "vocabulary": []
+    },
+    "52": {
+        "id": 52,
+        "name": "\u77e2\u8eca\u308a\u306d",
+        "picPath": "src/member/yaguruma_rine.png",
+        "channelid": "UCvzVB-EYuHFXHZrObB8a_Og",
+        "vocabulary": []
+    },
+    "53": {
+        "id": 53,
+        "name": "\u5922\u8ffd\u7fd4",
+        "picPath": "src/member/yumeoi_kakeru.png",
+        "channelid": "UCTIE7LM5X15NVugV7Krp9Hw",
+        "vocabulary": []
+    },
+    "54": {
+        "id": 54,
+        "name": "\u9ed2\u4e95\u3057\u3070",
+        "picPath": "src/member/kuroi_shiba.png",
+        "channelid": "UCmeyo5pRj_6PXG-CsGUuWWg",
+        "vocabulary": []
+    },
+    "55": {
+        "id": 55,
+        "name": "\u7ae5\u7530\u660e\u6cbb",
+        "picPath": "src/member/warabeda_meiji.png",
+        "channelid": "UCveZ9Ic1VtcXbsyaBgxPMvg",
+        "vocabulary": []
+    },
+    "56": {
+        "id": 56,
+        "name": "\u90e1\u9053\u7f8e\u73b2",
+        "picPath": "src/member/gundou_mirei.png",
+        "channelid": "UCeShTCVgZyq2lsBW9QwIJcw",
+        "vocabulary": [
+            [
+                "\u3054\u3081\u3093\u306a\u3055\u3044\u306d",
+                "55_Gomennasaine",
+                "other"
+            ],
+            [
+                "\u611b\u3057\u3066\u308b\u3088\u690e\u540d",
+                "55_Aisiteruyo",
+                "other"
+            ],
+            [
+                "\u5927\u597d\u304d\u3060\u3088\u690e\u540d",
+                "55_Daisukidayo",
+                "other"
+            ],
+            [
+                "\u304a..\u304a\u3045",
+                "55_Ohhh",
+                "surprise"
+            ],
+            [
+                "\u5922\u306e\u4e2d\u3067\u3082\u79c1\u306b\u4f1a\u3044\u305f\u304f\u3066\u5bdd\u3061\u3083\u3063\u305f\u306e\uff1f",
+                "55_Yumenonakademo",
+                "other"
+            ]
+        ]
+    },
+    "57": {
+        "id": 57,
+        "name": "\u5922\u6708\u30ed\u30a2",
+        "picPath": "src/member/yuzuki_roa.png",
+        "channelid": "UCCVwhI5trmaSxfcze_Ovzfw",
+        "vocabulary": [
+            [
+                "\u3042\u308a\u304c\u3068\u3049\u3049\u3049\u3049",
+                "56_Arigato",
+                "joy"
+            ],
+            [
+                "\u5f35\u308a\u307c\u3066\u306e\u8863\u88c5\u304c\u30d0\u30ec\u308b\u306e\u3060",
+                "56_Haribote",
+                "other"
+            ],
+            [
+                "\u306a\u3093\u3067\u4eca\u304a\u304b\u305a\u306e\u8a71\u3057\u3066\u3044\u308b\u306e\u3049\uff1f",
+                "56_Nandeokazu",
+                "surprise"
+            ],
+            [
+                "\u30cf\u30f3\u30e0\u30e9\u30d3\u6cd5\u5178",
+                "56_Hanmurabi",
+                "other"
+            ],
+            [
+                "\u6f22\u5b57\u304c...\u6f22\u5b57\u304c\u308d\u304f\u306b\u8aad\u3081\u306a\u3044\u306e\u3060",
+                "56_Kanjiga",
+                "sad"
+            ],
+            [
+                "\u821e\u9234\u30d6\u30bf\u7f6e\u3044\u3066\u304d\u305f",
+                "56_Marinbuta",
+                "other"
+            ],
+            [
+                "\u30d1\u30c3\u30d1\u30d1\u30e4\u30c3\u30d1",
+                "56_Pappapaya",
+                "joy"
+            ],
+            [
+                "\u30b5\u30b0\u30e9\u30c0\u30d5\u30a1\u30df\u30ea\u30a2",
+                "56_Sakurada",
+                "other"
+            ],
+            [
+                "\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\uff01\u4e00\u767a...\u4e00\u767a\u6bba\u3089\u305b\u308d",
+                "56_Chottomatteippatu",
+                "anger"
+            ],
+            [
+                "\u30c0\u30e1\u3067\u3088\u3049",
+                "56_Damedeyoo",
+                "other"
+            ],
+            [
+                "\u30c0\u30e1\u3067\u3088\u30fc\uff01",
+                "56_Damedeyooo",
+                "other"
+            ],
+            [
+                "\u5de6\u5411\u3051\uff5e\uff5e\u53f3\uff01",
+                "56_Hidarimukemigi",
+                "other"
+            ],
+            [
+                "\u4eca\u306f\u919c\u3044\u30d6\u30bf",
+                "56_Imaha",
+                "other"
+            ],
+            [
+                "\u3044\u3063\u3071\u3044\u51fa\u305f\uff01\u8912\u3081\u3066\u30fc\uff01",
+                "56_Ippaidetahomete",
+                "joy"
+            ],
+            [
+                "\u304a\u3081\u3081\u30ad\u30e9\u30ad\u30e9\u3060\u304b\u3089\u3088\u30fc\u304f\u307f\u308b\u306e\u3060",
+                "56_Omemekirakira",
+                "other"
+            ],
+            [
+                "\u304a\u9858\u3044\u3057\u307e\u3059\u306a\u306e\u3060",
+                "56_Onegaisimasu",
+                "other"
+            ],
+            [
+                "\u30ed\u30a2\u3082\u30b4\u30df\u6368\u3066\u5834\u306e\u30d6\u30ed\u30c3\u30af\u306b\u7a81\u3063\u8fbc\u3093\u3060\u306e\u3060",
+                "56_Roamogomi",
+                "other"
+            ],
+            [
+                "\u54b2\u3061\u3083\u3093\u4eca\u306e\u3046\u3061\u3060\u3051\u306a\u306e\u3060",
+                "56_Sakutyann",
+                "sad"
+            ],
+            [
+                "\u3059\u307e\u30fc\u3093",
+                "56_Suman",
+                "other"
+            ],
+            [
+                "\u30b9\u30c8\u30c3\u30d7\uff01",
+                "56_Sutopp",
+                "other"
+            ],
+            [
+                "\uff73\uff6f\uff8b\uff6f\uff8b\uff8c\uff8cw",
+                "56_Uhihihi",
+                "laugh"
+            ],
+            [
+                "\u30a6\u30eb\u30c8\u30e9\u738b\u9053\u8cde\u91d1\u30b2\u30c3\u30c8",
+                "56_Urutora",
+                "joy"
+            ],
+            [
+                "\u3042\u3041\u3041\u3041\u3041\u3041!!",
+                "56_Aaaaaaaaaaaaaa",
+                "surprise"
+            ],
+            [
+                "\u30a2\u30f3\u30b8\u30e5\u3061\u3083\u3093\u672a\u3060\u306b\u30ed\u30a2\u3061\u3083\u3093\u3068\u306e\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u53cd\u7701",
+                "56_Angetyanimadani",
+                "other"
+            ],
+            [
+                "\u3070\u3063\u3061\u308a\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\uff01",
+                "56_Battiricommunication",
+                "other"
+            ],
+            [
+                "\u304a\u308f\u308a\u30fc\uff01",
+                "56_Owariiii",
+                "greeting"
+            ],
+            [
+                "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
+                "56_Oyasuminasai",
+                "greeting"
+            ],
+            [
+                "\u306a\u3093\u3067\u305d\u3046\u3044\u3046\u30b3\u30c8\u805e\u304f\u306e\u3060",
+                "56_Nandesouiukoto",
+                "anger"
+            ],
+            [
+                "\u3084\u3081\u308b\u306e\u3060",
+                "56_Yamerunoda",
+                "anger"
+            ]
+        ]
+    },
+    "58": {
+        "id": 58,
+        "name": "\u5c0f\u91ce\u753a\u6625\u9999",
+        "picPath": "src/member/onomachi_haruka.png",
+        "channelid": "UCg63a3lk6PNeWhVvMRM_mrQ",
+        "vocabulary": []
+    },
+    "59": {
+        "id": 59,
+        "name": "\u8a9e\u90e8\u7d21",
+        "picPath": "src/member/kataribe_tumugu.png",
+        "channelid": "UCufQu4q65z63IgE4cfKs1BQ",
+        "vocabulary": []
+    },
+    "60": {
+        "id": 60,
+        "name": "\u702c\u6238\u7f8e\u591c\u5b50",
+        "picPath": "src/member/seto_miyako.png",
+        "channelid": "UCHK5wkevfaGrPr7j3g56Jmw",
+        "vocabulary": []
+    },
+    "61": {
+        "id": 61,
+        "name": "\u5fa1\u4f3d\u539f\u6c5f\u826f",
+        "picPath": "src/member/otogibara_era.png",
+        "channelid": "UCwQ9Uv-m8xkE5PzRc7Bqx3Q",
+        "vocabulary": [
+            [
+                "\u6211\u306b\u3058\u3055\u3093\u3058\u305e\uff01",
+                "60_Warenijisanji",
+                "anger"
+            ],
+            [
+                "\u30ba\u30c3\u30b3\u30f3\u30d0\u30c3\u30b3\u30f3\u30ba\u30c3\u30b3\u30f3\u30d0\u30c3\u30b3\u30f3",
+                "60_Zukkonnbakkonn",
+                "other"
+            ],
+            [
+                "\u697d\u3057\u304f\u306a\u3063\u3066\u304d\u3061\u3083\u3063\u305f\u306a\u3041",
+                "60_Tanosikunattekittyatta",
+                "joy"
+            ],
+            [
+                "\u4f55\u304c\u30d6\u30f3\u30d6\u30f3\u30cf\u30ed\u30fc\u30de\u30ea\u30aa\u30e1\u30fc\u30ab\u30fc\uff12\u3058\u3083",
+                "60_Nanigabunbun",
+                "anger"
+            ],
+            [
+                "*\u52b9\u679c\u97f3 \u53ef\u611b\u3044\u673a\u30d0\u30f3\u30d0\u30f3",
+                "60_Tukuebanban",
+                "other"
+            ],
+            [
+                "\u30f4\u30a8\u30c3...",
+                "60_Uee",
+                "bad"
+            ]
+        ]
+    },
+    "62": {
+        "id": 62,
+        "name": "\u620c\u4ea5\u3068\u3053",
+        "picPath": "src/member/inui_toko.png",
+        "channelid": "UCXRlIK3Cw_TJIQC5kSJJQMg",
+        "vocabulary": [
+            [
+                "\u3076\u3044\u3061\u3085\u3063\u3070\u3061\u3063\u3077\u3059",
+                "61_Vtuppatippusu",
+                "other"
+            ]
+        ]
+    },
+    "63": {
+        "id": 63,
+        "name": "\u30a2\u30f3\u30b8\u30e5\u30fb\u30ab\u30c8\u30ea\u30fc\u30ca",
+        "picPath": "src/member/ange_katrina.png",
+        "channelid": "UCHVXbQzkl3rDfsXWo8xi2qw",
+        "vocabulary": [
+            [
+                "\u30a2\u30f3\u30b8\u30e5\u306e\u5fc3\u3092\u5c04\u6b62\u3081\u3088\u3046\u3063\u305f\u3063\u3066\u305d\u3046\u7c21\u5358\u306b\u306f\u3044\u304b\u306a\u3044\u3093\u3060\u304b\u3089\u306d",
+                "62_Angenokokoro",
+                "other"
+            ],
+            [
+                "\u79c1\u306e\u4e73\u3067\u631f\u307f\u6f70\u3057\u3066\u3084\u308d\u3046\u304b",
+                "62_Watashinotiti",
+                "anger"
+            ],
+            [
+                "\u3042\u3001\u4eca\u304a\u3007\u3071\u3044\u89e6\u308a\u307e\u3057\u305f\u306d!",
+                "62_Aimaoppai",
+                "other"
+            ],
+            [
+                "\u30a2\u30f3\u30b8\u30e5\u306f\u30a2\u30e9\u30d5\u30a9\u30fc\u306b\u306f\u306a\u3089\u306a\u3044\uff01",
+                "62_Angehaarafo",
+                "other"
+            ],
+            [
+                "\u3069\u3046\u3082\u3001\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u306e\u516c\u5f0f\u7f8e\u5c11\u5973\u30e9\u30a4\u30d0\u30fc\u3001\u30a2\u30f3\u30b8\u30e5\u30fb\u30ab\u30c8\u30ea\u30fc\u30ca\u3067\u3059",
+                "62_Doumo",
+                "greeting"
+            ],
+            [
+                "\u5909\u3058\u3083\u3063\u305f",
+                "62_Henjatta",
+                "other"
+            ],
+            [
+                "\u30a2\u30cf\u2661",
+                "62_Aha",
+                "joy"
+            ],
+            [
+                "\u30a2\u30f3\u30b8\u30e5\u3060\u3063\u3066\u53ef\u611b\u3044\u3082\u3093",
+                "62_Angedattekawaiimon",
+                "other"
+            ],
+            [
+                "\u3082\u3046\u30d0\u30ab...",
+                "62_Moubaka",
+                "anger"
+            ],
+            [
+                "\u4f55\u3057\u3066\u308b\u306e\u3049\uff1f",
+                "62_Nanisiteruno",
+                "other"
+            ],
+            [
+                "\u3077\u3093\uff01",
+                "62_Pun",
+                "anger"
+            ],
+            [
+                "\u8996\u8074\u8005\u541b\u306e\u30d0\u30ab...\u3082\u3046\u77e5\u3089\u306a\u3044",
+                "62_Sityousyakunnobaka",
+                "anger"
+            ],
+            [
+                "\u59cb\u307e\u3063\u3068\u3049\u3084\u3093\u304b",
+                "62_Hajimattoo",
+                "other"
+            ]
+        ]
+    },
+    "64": {
+        "id": 64,
+        "name": "\u30ea\u30bc\u30fb\u30d8\u30eb\u30a8\u30b9\u30bf",
+        "picPath": "src/member/rize_heruesuta.png",
+        "channelid": "UCZ1xuCK1kNmn5RzPYIZop3w",
+        "vocabulary": [
+            [
+                "*\u307f\u3068\u307f\u3068\u4e16\u754c\u3067\u4e00\u756a\u611b\u3057\u3066\u308b",
+                "63_Iitaikotogaarundayo",
+                "other"
+            ]
+        ]
+    },
+    "65": {
+        "id": 65,
+        "name": "\u4e09\u679d\u660e\u90a3",
+        "picPath": "src/member/saegusa_akina.png",
+        "channelid": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
+        "vocabulary": []
+    },
+    "66": {
+        "id": 66,
+        "name": "\u611b\u5712\u611b\u7f8e",
+        "picPath": "src/member/aizono_manami.png",
+        "channelid": "UC0WwEfE-jOM2rzjpdfhTzZA",
+        "vocabulary": []
+    },
+    "67": {
+        "id": 67,
+        "name": "\u9234\u539f\u308b\u308b",
+        "picPath": "src/member/suzuhara_lulu.png",
+        "channelid": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+        "vocabulary": [
+            [
+                "\u601d\u3063\u3066\u305f\u3088\u308a\u305a\u3063\u3068\u3064\u3088\u3044\uff01",
+                "66_Omottetayorizuttotuyoi",
+                "other"
+            ],
+            [
+                "\u9234\u539f\u6012\u3063\u305f\uff01",
+                "66_Suzuharaokotta",
+                "anger"
+            ],
+            [
+                "\u3064\u3088\u3044\uff01",
+                "66_Tuyoi",
+                "other"
+            ]
+        ]
+    },
+    "68": {
+        "id": 68,
+        "name": "\u96ea\u57ce\u771e\u5c0b",
+        "picPath": "src/member/yukishiro_mahiro.png",
+        "channelid": "UCHX7YpFG8rVwhsHCx34xt7w",
+        "vocabulary": []
+    },
+    "69": {
+        "id": 69,
+        "name": "\u30a8\u30af\u30b9\u30fb\u30a2\u30eb\u30d3\u30aa",
+        "picPath": "src/member/ex_albio.png",
+        "channelid": "UCIytNcoz4pWzXfLda0DoULQ",
+        "vocabulary": [
+            [
+                "\u30d1\u30f3\u7c89\u3063\u3066\u30d1\u30f3\u306e\u3053\u3068\u306a\u306e\uff1f",
+                "68_Pankotte",
+                "other"
+            ],
+            [
+                "\u3048\u3002\u30de\u30b8\u3067\u8a00\u3063\u3066\u308b!?",
+                "68_Emajide",
+                "joy"
+            ],
+            [
+                "\u4eca\u307e\u3067...\u3069\u3046\u3060\u3063\u305f\u3068\u3044\u3046\u3088\u308a\u3053\u308c\u304b\u3089...\u3069\u3046\u3059\u308b\u304b",
+                "68_Imamade",
+                "other"
+            ],
+            [
+                "\u30af\u30ea\u30fc\u30d1\u30fc\u30c9\uff76\uff9d\u30dc\uff9d\u30d3\uff6f\uff70\uff9d\u3057\u3066\u3047\u306a",
+                "68_Kuripadokan",
+                "other"
+            ],
+            [
+                "\u3048\u3002\u305d\u3093\u306a\u3053\u3068\u51fa\u6765\u308b\u308f\u3051\u306a\u304f\u306a\u3044!?",
+                "68_Sonnakoto",
+                "surprise"
+            ],
+            [
+                "\u3084\u3063\u305f\u306a\u3041w",
+                "68_Yattana",
+                "joy"
+            ],
+            [
+                "\uff71\u309b\uff67\uff67\uff67\u6b7b\u306d\u3088",
+                "68_Aaasineyo",
+                "anger"
+            ]
+        ]
+    },
+    "70": {
+        "id": 70,
+        "name": "\u30ec\u30f4\u30a3\u30fb\u30a8\u30ea\u30d5\u30a1",
+        "picPath": "src/member/levi_elipha.png",
+        "channelid": "UCtnO2N4kPTXmyvedjGWdx3Q/videos",
+        "vocabulary": [
+            [
+                "\u3053\u3093\u3070\u3093\u30d5\u30a1",
+                "69_Konbanfa",
+                "greeting"
+            ],
+            [
+                "\u4eba\u9593\u306e\u307f\u306a\u3055\u3093\u3053\u3093\u3070\u3093\u30d5\u30a1\uff5e",
+                "69_Ningenno",
+                "greeting"
+            ]
+        ]
+    },
+    "71": {
+        "id": 71,
+        "name": "\u8449\u5c71\u821e\u9234",
+        "picPath": "src/member/hayama_marin.png",
+        "channelid": "UCfipDDn7wY-C-SoUChgxCQQ",
+        "vocabulary": [
+            [
+                "\u30b1\u30c4\u3067\u304b\u3044\u3088\u30fc",
+                "70_Ketsudekaiyoo",
+                "sad"
+            ],
+            [
+                "\u30b1\u30c4\u304c\u3067\u304b\u304f\u3066\u5165\u3089\u3093\u306e...",
+                "70_Ketsugadekai",
+                "sad"
+            ],
+            [
+                "!\u25b3&\u3007%$\u25a1!#\uff5e\uff5e",
+                "70_aerhugidfjkd",
+                "other"
+            ]
+        ]
+    },
+    "72": {
+        "id": 72,
+        "name": "\u30cb\u30e5\u30a4\u30fb\u30bd\u30b7\u30a8\u30fc\u30eb",
+        "picPath": "src/member/nui_sociere.png",
+        "channelid": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
+        "vocabulary": []
+    },
+    "73": {
+        "id": 73,
+        "name": "\u8449\u52a0\u702c\u51ac\u96ea",
+        "picPath": "src/member/hakase_fuyuki.png",
+        "channelid": "UCGYAYLDE7TZiiC8U6teciDQ",
+        "vocabulary": []
+    },
+    "74": {
+        "id": 74,
+        "name": "\u52a0\u8cc0\u7f8e\u30cf\u30e4\u30c8",
+        "picPath": "src/member/kagami_hayato.png",
+        "channelid": "UCmovZ2th3Sqpd00F5RdeigQ",
+        "vocabulary": []
+    },
+    "75": {
+        "id": 75,
+        "name": "\u591c\u898b\u308c\u306a",
+        "picPath": "src/member/yorumi_rena.png",
+        "channelid": "UCL34fAoFim9oHLbVzMKFavQ",
+        "vocabulary": []
+    },
+    "76": {
+        "id": 76,
+        "name": "\u9edb\u7070",
+        "picPath": "src/member/mayuzumi_kai.png",
+        "channelid": "UCb5JxV6vKlYVknoJB8TnyYg",
+        "vocabulary": [
+            [
+                "\u306a\u306b",
+                "75_Nani",
+                "other"
+            ],
+            [
+                "\u8ab0\u3053\u3044\u3064",
+                "75_Darekoitu",
+                "other"
+            ],
+            [
+                "\u3061\u3087\u3044\u3061\u3087\u3044\u3061\u3087\u30fc\u3044\uff01\u305d...\u308c...\u306f...\u30d5\u30a3\u30c3\u30b7\u30e5\u3067\u3057\u3087\u3046\u304c\u3088\u30fc\uff01",
+                "75_Tyoityoi",
+                "joy"
+            ]
+        ]
+    },
+    "77": {
+        "id": 77,
+        "name": "\u30a2\u30eb\u30b9\u30fb\u30a2\u30eb\u30de\u30eb",
+        "picPath": "src/member/ars_almal.png",
+        "channelid": "UCdpUojq0KWZCN9bxXnZwz5w",
+        "vocabulary": [
+            [
+                "\u50d5\u306f\u8a00\u3046\u3051\u3069\u306d",
+                "76_Bokuhaiu",
+                "other"
+            ],
+            [
+                "\u3075\u3047\uff01\uff01",
+                "76_Ueee",
+                "joy"
+            ],
+            [
+                "\u3042\u3044\u3064\u717d\u3063\u3066\u3093\u306e\uff1f",
+                "76_Aitsuaottennno",
+                "anger"
+            ],
+            [
+                "\u50d5\u306f\u8a00\u3046\u3051\u3069\u306d",
+                "76_Bokuhaiukedone",
+                "other"
+            ],
+            [
+                "\u30d5\u30c3\u30d5\uff8a\uff6f\uff8aw",
+                "76_Huhhuhahha",
+                "laugh"
+            ],
+            [
+                "\u611f\u60f3\u8a00\u308f\u305b\u3066\u304f\u308c\u3088\u983c\u3080\u3088\uff5e",
+                "76_Kansouiwasitekureyo",
+                "other"
+            ],
+            [
+                "\u6bba\u3057\u3066\u596a\u3048",
+                "76_Korositeubae",
+                "other"
+            ],
+            [
+                "\u30de\u30a4\u30af\u30e9\u306f\u3059\u308b\u304b\u3089\u5f85\u3063\u3066\u3066\u3047\u2191",
+                "76_Maikurahasuru",
+                "other"
+            ],
+            [
+                "\u3064\u3088\u3064\u3088\u5263\u3060\u305e",
+                "76_Tuyotuyo",
+                "other"
+            ],
+            [
+                "#@$\u25b3\uff1f\u3007&\u25a1**",
+                "76_atiosdgntri",
+                "other"
+            ],
+            [
+                "\u30cf\u30ca\u30df\u30ba\u30c7\u30c6\u30eb\u30e8...",
+                "76_Hanamizu",
+                "other"
+            ],
+            [
+                "\u30d5\u30a1\u30fc\uff57",
+                "76_Faaaa",
+                "laugh"
+            ],
+            [
+                "\u3084\u3060\u3041\uff5e",
+                "76_Hahhayadaaa",
+                "laugh"
+            ],
+            [
+                "\u767a\u5c04\uff01",
+                "76_Hassya",
+                "other"
+            ],
+            [
+                "\u30d5\u30c3\u30cf\u30c3\u30cf\u30c3\u30cf\uff57",
+                "76_Huhhahhahha",
+                "laugh"
+            ],
+            [
+                "GO!",
+                "76_go",
+                "other"
+            ],
+            [
+                "\u66b4\u308c\u8db3\u3093\u306d\u30fc\u306a\u30fc",
+                "76_Abaretanne",
+                "joy"
+            ],
+            [
+                "\u3053\u3063\u3061\u6765\u3044\u3063\u3064\u3063\u3066\u3093\u3060\u30aa\u30eb\u30a1",
+                "76_Kottikoi",
+                "anger"
+            ],
+            [
+                "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306d\u30fc\u306a\u30fc",
+                "76_Makerukigasine",
+                "other"
+            ],
+            [
+                "\u306a\u3093\u3060\u3053\u308c",
+                "76_Nandakore",
+                "other"
+            ],
+            [
+                "\u306d\u3047...\u3061\u3085\u30fc\u3057\u3088\u3063",
+                "76_Neetyuusiyo",
+                "other"
+            ],
+            [
+                "7\u00d74 = 32",
+                "76_Sitisisanjuni",
+                "other"
+            ],
+            [
+                "\u3084\u308a\u304d\u308b\u3053\u3068\u304c\u5927\u4e8b\u306a\u3093\u3067\u3059\uff01",
+                "76_Yarikiru",
+                "other"
+            ]
+        ]
+    },
+    "78": {
+        "id": 78,
+        "name": "\u76f8\u7fbd\u3046\u3044\u306f",
+        "picPath": "src/member/aiba_uiha.png",
+        "channelid": "UCnRQYHTnRLSF0cLJwMnedCg",
+        "vocabulary": [
+            [
+                "\u592a\u967d\u304c\u307f\u305f\u3044\u3088\u3046",
+                "77_Taiyouga",
+                "other"
+            ],
+            [
+                "\u30d0\u30ab\u30d0\u30fc\u30ab",
+                "77_Bakabaka",
+                "other"
+            ],
+            [
+                "\u30b4\u30df\u7bb1\u306b\u7a81\u3063\u8fbc\u3093\u3058\u3083\u3063\u305f\u30a2\u30a4\u30c9\u30eb",
+                "77_Gomibakoni",
+                "other"
+            ]
+        ]
+    },
+    "79": {
+        "id": 79,
+        "name": "\u5929\u5bae\u3053\u3053\u308d",
+        "picPath": "src/member/amamiya_kokoro.png",
+        "channelid": "UCkIimWZ9gBJRamKF0rmPU8w",
+        "vocabulary": [
+            [
+                "\u5929\u5bae\u6012\u3063\u3066\u3044\u308b\uff01",
+                "78_Amamiyaokoteiru",
+                "anger"
+            ],
+            [
+                "\u304a\u306b\u3083\u3041\uff01\uff01",
+                "78_Onya",
+                "other"
+            ],
+            [
+                "\u3061\u3087\u3063\u3068\u6ed1\u820c\u304c\u60aa\u304b\u3063\u305f\u304b\u3089\u3063\u3066...",
+                "78_Tyottokatyuzetyu",
+                "anger"
+            ],
+            [
+                "\u3046\u306b\u3083\u3041\uff01\uff01",
+                "78_Unya",
+                "anger"
+            ]
+        ]
+    },
+    "80": {
+        "id": 80,
+        "name": "\u30a8\u30ea\u30fc\u30fb\u30b3\u30cb\u30d5\u30a1\u30fc",
+        "picPath": "src/member/eli_conifer.png",
+        "channelid": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
+        "vocabulary": [
+            [
+                "\u30b3\u30cb\u30d5\u30a1\u30fc\u306f\u767d\u8eab\u304c\u597d\u304d\u3067\u3059...\u3067\u3082\u4e00\u756a\u306f\u9ec4\u8eab\u304c\u597d\u304d\u3067\u3059...",
+                "79_Konikimi",
+                "other"
+            ],
+            [
+                "\u306b\u3083\u3063\u306f\u308d\u30fc",
+                "79_Nyahharoo",
+                "greeting"
+            ],
+            [
+                "\u30aa\u30e8\u30a9\u30fc\u30fc\u30fc\u30fc\uff01",
+                "79_Oyooooooo",
+                "surprise"
+            ]
+        ]
+    },
+    "81": {
+        "id": 81,
+        "name": "\u30e9\u30c8\u30ca\u30fb\u30d7\u30c6\u30a3",
+        "picPath": "src/member/ratna_petit.png",
+        "channelid": "UCIG9rDtgR45VCZmYnd-4DUw",
+        "vocabulary": []
+    },
+    "82": {
+        "id": 82,
+        "name": "\u65e9\u702c\u8d70",
+        "picPath": "src/member/hayase_sou.png",
+        "channelid": "UC2OacIzd2UxGHRGhdHl1Rhw",
+        "vocabulary": []
+    },
+    "83": {
+        "id": 83,
+        "name": "\u5065\u5c4b\u82b1\u90a3",
+        "picPath": "src/member/sukoya_kana.png",
+        "channelid": "UC8C1LLhBhf_E2IBPLSDJXlQ",
+        "vocabulary": []
+    },
+    "84": {
+        "id": 84,
+        "name": "\u30b7\u30a7\u30ea\u30f3\u30fb\u30d0\u30fc\u30ac\u30f3\u30c7\u30a3",
+        "picPath": "src/member/shellin_burgundy.png",
+        "channelid": "UCHBhnG2G-qN0JrrWmMO2FTA",
+        "vocabulary": [
+            [
+                "\u540d\u63a2\u5075\u30a2\u30fb\u30b7\u30a7\u30ea\u30f3\u3060\u3088",
+                "83_Meitantei",
+                "other"
+            ]
+        ]
+    },
+    "85": {
+        "id": 85,
+        "name": "\u30d5\u30df",
+        "picPath": "src/member/fumi.png",
+        "channelid": "UCwrjITPwG4q71HzihV2C7Nw",
+        "vocabulary": [
+            [
+                "\u30c7\u30ab",
+                "84_Deka",
+                "other"
+            ],
+            [
+                "\u30b2\u30fc\u30e0\u3067\u304d\u307e\u305b\u3093\uff01",
+                "84_Gamedekimasen",
+                "other"
+            ],
+            [
+                "\u3053\u3093\u306a\u3042\u3063\u305f\u304b\u3044\u3068\u3053\u308d\u304c\u4ed6\u306b\u3042\u3063\u3066\u305f\u307e\u308b\u304b",
+                "84_Konnna",
+                "other"
+            ],
+            [
+                "\u30d6\u30a4\u30c1\u30e5\u30fc\u30d0\u30fc\u306e\u6b74\u53f2\u306b\u722a\u75d5\u3092\u6b8b\u3059",
+                "84_Vtubernorekisi",
+                "other"
+            ]
+        ]
+    },
+    "86": {
+        "id": 86,
+        "name": "\u5c71\u795e\u30ab\u30eb\u30bf",
+        "picPath": "src/member/yamagami_karuta.png",
+        "channelid": "UCllKI7VjyANuS1RXatizfLQ",
+        "vocabulary": [
+            [
+                "\u3044\u3044\u611f\u3058\u3067\u8e0f\u3081\u308b\u3058\u3083\u3093\u306b\u3058\u3055\u3093\u3058\u3068\u3044\u3044\u611f\u3058\u3067",
+                "85_Iikanjide",
+                "other"
+            ],
+            [
+                "\u5e38\u306b\u5fc3\u306e\u4e2d\u306b\u30a4\u30de\u30b8\u30ca\u30ea\u30fc\u30a4\u30b1\u30e1\u30f3\u3092\u98fc\u3063\u3066\u3044\u308b\u3093\u3067\u3059\u3051\u308c\u3069\u3082",
+                "85_Tunenikokorononakani",
+                "other"
+            ]
+        ]
+    },
+    "87": {
+        "id": 87,
+        "name": "\u661f\u5ddd\u30b5\u30e9",
+        "picPath": "src/member/hoshikawa_sara.png",
+        "channelid": "UC9V3Y3_uzU5e-usObb6IE1w",
+        "vocabulary": [
+            [
+                "\u30a2\u30cf\u30cf\u30cf",
+                "86_Ahahaha",
+                "laugh"
+            ],
+            [
+                "\u30a2\u30f3\u30c1\u304b\uff1f",
+                "86_Anchika",
+                "anger"
+            ],
+            [
+                "\u307e\u3072\u307e\u3072\u5148\u8f29\u3058\u3083\u306a\u3044\u3067\u3059\u304b",
+                "86_Mahimahisenpai",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30dd\u30f3\u512a\u79c0 \u30dd\u30f3\u30d5\u30df\u30dd\u30f3\u30ab\u30eb\u512a\u79c0\u661f\u5ddd\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059",
+                "86_Ponhumi",
+                "greeting"
+            ],
+            [
+                "\u3059\u3044\u307e\u305b\u3093\u5148\u8f29",
+                "86_Sumimasensenpai",
+                "other"
+            ],
+            [
+                "\u3046\u308b\u3055\u3044\u3093\u3060\u3051\u3069",
+                "86_Urusaindakedo",
+                "anger"
+            ],
+            [
+                "\u4e0a\u624b\u3044\u3067\u3057\u3087\uff01",
+                "86_Umaidesyo",
+                "joy"
+            ]
+        ]
+    }
+}

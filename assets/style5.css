@@ -1,0 +1,136 @@
+html,
+body,
+.main{
+    height: 100%;
+}
+p{
+    font-family: Arial, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Osaka", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+body.dark{
+    background-color: #303131;
+}
+body.dark p.heading{
+    color: #eee;
+}
+body.dark div.kategori a.btn{
+    color: #eee;
+    border: solid 1px #eee;
+}
+body.dark div.vocabulary .btn p{
+    color: #eee;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background: #fff;
+    border: none;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background: #ccc;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+p.heading{
+    font-size: 5vw;
+    font-weight: bold;
+    margin: 0px;
+}
+div.kategori{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+div.kategori a.btn{
+    padding: 0px 3px 0px 3px;
+    border: solid 1px #000000;
+    color: #000000;
+    border-radius: 5px;
+    text-decoration:none;
+    font-size: 5vw;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+div.vocabulary {
+    width: 100%;
+    height: 69%;
+    border: solid 1px #000000;
+    border-radius: 10px;
+    overflow: scroll;
+}
+div.vocabulary .btn{
+    margin: 5px;
+    text-decoration: none;
+}
+div.vocabulary .btn p{
+    display: inline;
+    color: #000000;
+    margin: 17px 0px 17px 0px;
+    font-weight: bold;
+}
+.liver{
+    width: 100%;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+.icon{
+    width: 20%;
+    height: auto;
+    margin-right: 5px;
+    display: inline-block;
+}
+.icon img{
+    border-radius: 50%;
+    border: solid 1px #e44f4f;
+}
+.icon-home{
+    width: 20%;
+    height: auto;
+    margin-right: 5px;
+    display: inline-block;
+}
+.icon-hom img{
+    border-radius: 50%;
+}
+ul{
+    padding: 0px;
+    list-style: none;
+}
+li{
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+/* 表示 */
+.is-none{
+    display: block;
+}
+/* 非表示 */
+.is-hide{
+    display: none;
+}
+
+@media only screen and (min-width: 1600px){
+    body{
+        width: 20%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    p.heading{
+        font-size: 1vw;
+    }
+    div.kategori a.btn{
+        font-size: 1vw;
+    }
+
+}

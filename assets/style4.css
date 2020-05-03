@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+    background-color: #f4f4f4;
+}
+p{
+    font-family: Arial, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Osaka", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    margin: 0px;
+}
+div.title{
+    padding: 8px;
+    background-color: #f9b283;
+    display: flex;
+    justify-content: space-around;
+}
+div.title a{
+    text-decoration: none;
+    font-size: 5vw;
+    font-weight: bold;
+    color: #ffffff;
+}
+div.title p{
+    font-size: 6vw;
+    font-weight: bold;
+    color: #ffffff;
+}
+div.main{
+    width: 90%;
+    margin: 30px auto 30px auto;
+    background-color: #f9b283;
+    border-radius: 10px;
+}
+div.wr{
+    padding: 6px;
+}
+p.header{
+    font-size: 5vw;
+    font-weight: bold;
+    color: #ffffff;
+    padding-bottom: 5px;
+}
+div.sentence{
+    padding-bottom: 5px;
+}
+div.sentence p{
+    color: #ffffff;
+    font-size: 3vw;
+}
+
+
+/* PC */
+@media only screen and (min-width: 1600px) {
+    div.title p{
+        font-size: 1.5vw;
+    }
+    div.title a{
+        font-size: 1.3vw;
+    }
+    div.main{
+        width: 60%;
+        margin: 60px auto 60px auto;
+    }
+    div.wr{
+        width: 93%;
+        padding-top: 18px;
+        margin: 0px auto 0px auto;
+    }
+    p.header{
+        font-size: 1.2vw;
+        padding-bottom: 20px;
+    }
+    div.sentence{
+        padding-bottom: 20px;
+    }
+    div.sentence p{
+        color: #ffffff;
+        font-size: 0.8vw;
+    }
+}

@@ -1,0 +1,20 @@
+.id{
+    width: 23px;
+}
+.voiceText{
+    width: 200px;
+}
+.voicePath{
+    width: 200px;
+}
+.category{
+    width: 100px;
+}
+.warning{
+    color: #ff2323;
+}
+div.main{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
