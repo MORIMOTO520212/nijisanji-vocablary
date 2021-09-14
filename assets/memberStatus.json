@@ -2768,7 +2768,7 @@
         "vocabulary": []
     },
     "97": {
-        "id": "97",
+        "id": 97,
         "name": "\u30d5\u30ec\u30f3\u30fbE\u30fb\u30eb\u30b9\u30bf\u30ea\u30aa",
         "picPath": "src/member/furen_e_lustario.png",
         "channelid": "UCuep1JCrMvSxOGgGhBfJuYw",
@@ -2776,7 +2776,7 @@
         "vocabulary": []
     },
     "98": {
-        "id": "98",
+        "id": 98,
         "name": "\u30a4\u30d6\u30e9\u30d2\u30e0",
         "picPath": "src/member/ibrahim.png",
         "channelid": "UCmZ1Rbthn-6Jm_qOGjYsh5A",

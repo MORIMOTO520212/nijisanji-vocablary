@@ -5,7 +5,6 @@ import json, os
 memberStatus = {}
 subscribersdata = []
 
-
 def inp():
     print("-------------------------------")
     name = input("ライバー名 >")
@@ -20,7 +19,7 @@ def inp():
         return name, channelid, twitterid, picPath
     return 0
 
-def add(self):
+def add(data):
     try:
         with open('assets/memberStatus.json', 'r') as f:
             json_data = json.load(f)
@@ -35,10 +34,10 @@ def add(self):
         print("新規追加ライバーID :"+str(memberStatus_liver_count+1))
         memberStatus[str(memberStatus_liver_count+1)] = {
             "id": str(memberStatus_liver_count+1),
-            "name": self[0],        # name
-            "picPath": self[3],     # picPath
-            "channelid": self[1],   # channelid
-            "twitterid": self[2],   # twitterid
+            "name": data[0],        # name
+            "picPath": data[3],     # picPath
+            "channelid": data[1],   # channelid
+            "twitterid": data[2],   # twitterid
             "vocabulary": []
         }
         print(memberStatus)
@@ -46,7 +45,7 @@ def add(self):
         with open('assets/memberStatus.json', 'w') as f:
             json.dump(memberStatus, f, indent=4)
         print("memberStatus.json 書き込み完了")
-        print("{}の登録者数を subscribersdata.json に保存します。".format(self[0]))
+        print("{}の登録者数を subscribersdata.json に保存します。".format(data[0]))
         with open('assets/subscribersdata.json', 'r') as f:
             json_data = json.load(f)
             subscribersdata = json_data
@@ -61,7 +60,7 @@ def add(self):
         print("subscribersdata.json をソート中")
         os.system("python sort_subscribe.py")
         print("ソート完了")
-        return self[0]
+        return data[0]
     except Exception as e:
         input(str(e))
 
