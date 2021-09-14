@@ -33,14 +33,13 @@ def add(data):
                 break
         print("新規追加ライバーID :"+str(memberStatus_liver_count+1))
         memberStatus[str(memberStatus_liver_count+1)] = {
-            "id": str(memberStatus_liver_count+1),
+            "id": memberStatus_liver_count+1,
             "name": data[0],        # name
             "picPath": data[3],     # picPath
             "channelid": data[1],   # channelid
             "twitterid": data[2],   # twitterid
             "vocabulary": []
         }
-        print(memberStatus)
         print("-------------------------------\nmemberStatus.json 上書き完了")
         with open('assets/memberStatus.json', 'w') as f:
             json.dump(memberStatus, f, indent=4)
@@ -51,15 +50,11 @@ def add(data):
             subscribersdata = json_data
         print("subscribersdata.json 読み込み")
         subscribersdata.append([str(memberStatus_liver_count+1), 0])
-        print(subscribersdata)
         print("-------------------------------\nsubscribersdata.json 上書き完了")
         with open("assets/subscribersdata.json", "w") as f:
             json.dump(subscribersdata, f, indent=4)
         print("subscribersdata.json 書き込み完了")
         print("-------------------------------")
-        print("subscribersdata.json をソート中")
-        os.system("python sort_subscribe.py")
-        print("ソート完了")
         return data[0]
     except Exception as e:
         input(str(e))

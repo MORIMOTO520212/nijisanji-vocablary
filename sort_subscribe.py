@@ -1,10 +1,10 @@
 # coding:utf-8
 
-import os, json
+import json
 from googleapiclient.discovery import build
 
 input("<全ライバーの登録者を取得して整列します。> Enter.")
-YOUTUBE_API_KEY = "AIzaSyCq9T245NouODle2uaypkIPZnkWjq09b_o"
+YOUTUBE_API_KEY = "AIzaSyDuixjP8mVYvEZdMNCVWvUlPg3b5a-x2I8"
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 
 with open("assets/memberStatus.json", "r") as f:
@@ -16,8 +16,11 @@ nijidict = {}
 
 while i <= users:
     subscriptions_response = youtube.channels().list(part="statistics", id=nijiStatus[str(i)]["channelid"]).execute()
-    for items in subscriptions_response['items']:
+    try:
+        items = subscriptions_response['items'][0]
         print(nijiStatus[str(i)]["name"]+"   "+items['statistics']['subscriberCount'])
+    except:
+        print(nijiStatus[str(i)]["name"]+"のアカウントが存在しません。")
     
     nijidict[str(i)] = int(items['statistics']['subscriberCount'])
     i=i+1

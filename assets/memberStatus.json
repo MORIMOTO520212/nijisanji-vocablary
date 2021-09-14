@@ -2782,5 +2782,125 @@
         "channelid": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
         "twitterid": "honmono_ibrahim",
         "vocabulary": []
+    },
+    "99": {
+        "id": 99,
+        "name": "\u30e1\u30ea\u30c3\u30b5\u30fb\u30ad\u30f3\u30ec\u30f3\u30ab",
+        "picPath": "src/member/melissa_kinrenka.png",
+        "channelid": "UCwcyyxn6h9ex4sMXGtpQE_g",
+        "twitterid": "melissa_2434",
+        "vocabulary": []
+    },
+    "100": {
+        "id": 100,
+        "name": "\u9577\u5c3e\u666f",
+        "picPath": "src/member/kei_nagao.png",
+        "channelid": "UCXW4MqCQn-jCaxlX-nn-BYg",
+        "twitterid": "kei_nagao2434",
+        "vocabulary": []
+    },
+    "101": {
+        "id": 101,
+        "name": "\u5f26\u6708\u85e4\u58eb\u90ce",
+        "picPath": "src/member/tojiro_genzuki.png",
+        "channelid": "UCGw7lrT-rVZCWHfdG9Frcgg",
+        "twitterid": "1O46V",
+        "vocabulary": []
+    },
+    "102": {
+        "id": 102,
+        "name": "\u7532\u6590\u7530\u6674",
+        "picPath": "src/member/haru_kaida.png",
+        "channelid": "UCo2N7C-Z91waaR6lF3LL_jw",
+        "twitterid": "Kaida_Haru",
+        "vocabulary": []
+    },
+    "103": {
+        "id": 103,
+        "name": "\u7a7a\u661f\u304d\u3089\u3081",
+        "picPath": "src/member/kirame_sorahoshi.png",
+        "channelid": "UC_82HBGtvwN1hcGeOGHzUBQ",
+        "twitterid": "kirame_2434",
+        "vocabulary": []
+    },
+    "104": {
+        "id": 104,
+        "name": "\u671d\u65e5\u5357\u30a2\u30ab\u30cd",
+        "picPath": "src/member/akane_asahina.png",
+        "channelid": "UCe_p3YEuYJb8Np0Ip9dk-FQ",
+        "twitterid": "Akane_Asahina__",
+        "vocabulary": []
+    },
+    "105": {
+        "id": 105,
+        "name": "\u5468\u592e\u30b5\u30f3\u30b4",
+        "picPath": "src/member/sango_suo.png",
+        "channelid": "UCL_O_HXgLJx3Auteer0n0pA",
+        "twitterid": "Suo_Sango",
+        "vocabulary": []
+    },
+    "106": {
+        "id": 106,
+        "name": "\u6771\u5802\u30b3\u30cf\u30af",
+        "picPath": "src/member/kohaku_todo.png",
+        "channelid": "UCebT4Aq-3XWb5je1S1FvR_A",
+        "twitterid": "kohaku_todo",
+        "vocabulary": []
+    },
+    "107": {
+        "id": 107,
+        "name": "\u5317\u5c0f\u8def\u30d2\u30b9\u30a4",
+        "picPath": "src/member/hisui_kitakoji.png",
+        "channelid": "UCRqBKoKuX30ruKAq05pCeRQ",
+        "twitterid": "Hisui_Kitakoji",
+        "vocabulary": []
+    },
+    "108": {
+        "id": 108,
+        "name": "\u897f\u5712\u30c1\u30b0\u30b5",
+        "picPath": "src/member/chigusa_nishizono.png",
+        "channelid": "UCkngxfPbmGyGl_RIq4FA3MQ",
+        "twitterid": "Chigusa_24zono",
+        "vocabulary": []
+    },
+    "109": {
+        "id": 109,
+        "name": "\u30a2\u30af\u30b7\u30a2\u30fb\u30af\u30ed\u30fc\u30cd",
+        "picPath": "src/member/axia_krone.png",
+        "channelid": "UC8oPnditPSp5lZu45fnXWCA",
+        "twitterid": "AXIA_96NE",
+        "vocabulary": []
+    },
+    "110": {
+        "id": 110,
+        "name": "\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9",
+        "picPath": "src/member/lauren_iroas.png",
+        "channelid": "UCgmFrRcyH7d1zR9sIVQhFow",
+        "twitterid": "Lauren_iroas",
+        "vocabulary": []
+    },
+    "111": {
+        "id": 111,
+        "name": "\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8",
+        "picPath": "src/member/leos_vincent.png",
+        "channelid": "UC-6rZgmxZSIbq786j3RD5ow",
+        "twitterid": "Leos_Vincent",
+        "vocabulary": []
+    },
+    "112": {
+        "id": 112,
+        "name": "\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9",
+        "picPath": "src/member/oliver_evans.png",
+        "channelid": "UCqjTqdVlvIipZXIKeCkHKUA",
+        "twitterid": "oliverD_23",
+        "vocabulary": []
+    },
+    "113": {
+        "id": 113,
+        "name": "\u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3",
+        "picPath": "src/member/lain_paterson.png",
+        "channelid": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+        "twitterid": "Lain_Paterson",
+        "vocabulary": []
     }
 }
