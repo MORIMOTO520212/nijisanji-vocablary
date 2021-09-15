@@ -25,7 +25,7 @@ if (@$_COOKIE["voice_add"] == True){
 <!doctype html>
 <html lang="ja">
     <head>
-        <title>にじさんじ語録ｽﾞ</title>
+        <title>にじさんじ語録</title>
         <link rel="shortcut icon" href="src/logo.jpg">
         <link rel="stylesheet" type="text/css" href="assets/style.css">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
