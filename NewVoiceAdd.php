@@ -16,7 +16,9 @@ $status = json_decode($json,true);
 foreach ($result as $value) {
     $rere = str_replace('./src/newvoice/','',$value);
     $fileName = str_replace('.mp3','',$rere); // ファイル名
-    $id = preg_replace('/[^0-9]/', '', $fileName);  // ライバーID
+    //$id = preg_replace('/[^0-9]/', '', $fileName);
+    preg_match('/\d+/', $fileName, $id);  // ライバーID
+    $id = $id[0];
     if (!in_array($status[$id]["name"], $liver_Name)){ // ライバー名を格納
         array_push($liver_Name, $status[$id]["name"]); 
     }

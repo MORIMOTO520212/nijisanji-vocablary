@@ -2,7 +2,7 @@
     "1": {
         "id": 1,
         "name": "\u6708\u30ce\u7f8e\u514e",
-        "picPath": "src/member/tsukino_mito.png",
+        "picPath": "src\/member\/tsukino_mito.png",
         "channelid": "UCD-miitqNY3nyukJ4Fnf4_A",
         "twitterid": "MitoTsukino",
         "vocabulary": [
@@ -100,13 +100,18 @@
                 "\u3084\u3089\u306d\u3070\u306a\u3089\u306c\u3002VRYoutuber\u305f\u308b\u3082\u306e\u30db\u30e9\u30fc\u30b2\u30fc\u306f\u907f\u3051\u3066\u306f\u901a\u308c\u306c\u9053",
                 "1_Yaranebanaranu",
                 "other"
+            ],
+            [
+                "\u306c\u308b\u307d",
+                "1_Nurpo",
+                "other"
             ]
         ]
     },
     "2": {
         "id": 2,
         "name": "\u52c7\u6c17\u3061\u3072\u308d",
-        "picPath": "src/member/yuuki_chihiro.png",
+        "picPath": "src\/member\/yuuki_chihiro.png",
         "channelid": "UCLO9QDxVL4bnvRRsz6K4bsQ",
         "twitterid": "Chihiro_yuki23",
         "vocabulary": [
@@ -190,7 +195,7 @@
     "3": {
         "id": 3,
         "name": "\u3048\u308b",
-        "picPath": "src/member/elu.png",
+        "picPath": "src\/member\/elu.png",
         "channelid": "UCYKP16oMX9KKPbrNgo_Kgag",
         "twitterid": "Elu_World",
         "vocabulary": [
@@ -229,7 +234,7 @@
     "4": {
         "id": 4,
         "name": "\u6a0b\u53e3\u6953",
-        "picPath": "src/member/higuchi_kaede.png",
+        "picPath": "src\/member\/higuchi_kaede.png",
         "channelid": "UCsg-YqdqQ-KFF0LNk23BY4A",
         "twitterid": "HiguchiKaede",
         "vocabulary": [
@@ -263,7 +268,7 @@
     "5": {
         "id": 5,
         "name": "\u9759\u51db",
-        "picPath": "src/member/shizuka_rin.png",
+        "picPath": "src\/member\/shizuka_rin.png",
         "channelid": "UC6oDys1BGgBsIC3WhG1BovQ",
         "twitterid": "ShizuRin23",
         "vocabulary": [
@@ -287,7 +292,7 @@
     "6": {
         "id": 6,
         "name": "\u6e0b\u8c37\u30cf\u30b8\u30e1",
-        "picPath": "src/member/shibuya_hajime.png",
+        "picPath": "src\/member\/shibuya_hajime.png",
         "channelid": "UCeK9HFcRZoTrvqcUCtccMoQ",
         "twitterid": "sibuya_hajime",
         "vocabulary": [
@@ -311,7 +316,7 @@
     "7": {
         "id": 7,
         "name": "\u9234\u8c37\u30a2\u30ad",
-        "picPath": "src/member/suzuya_aki.png",
+        "picPath": "src\/member\/suzuya_aki.png",
         "channelid": "UCpnvhOIJ6BN-vPkYU9ls-Eg",
         "twitterid": "aki_suzuya",
         "vocabulary": [
@@ -325,7 +330,7 @@
     "8": {
         "id": 8,
         "name": "\u30e2\u30a4\u30e9",
-        "picPath": "src/member/moira.png",
+        "picPath": "src\/member\/moira.png",
         "channelid": "UCvmppcdYf4HOv-tFQhHHJMA",
         "twitterid": "Moiramoimoimoi",
         "vocabulary": [
@@ -339,7 +344,7 @@
     "9": {
         "id": 9,
         "name": "\u9234\u9e7f\u8a69\u5b50",
-        "picPath": "src/member/suzuka_utako.png",
+        "picPath": "src\/member\/suzuka_utako.png",
         "channelid": "UCwokZsOK_uEre70XayaFnzA",
         "twitterid": "suzukautako",
         "vocabulary": [
@@ -352,13 +357,23 @@
                 "\u304a\u5c3b\u898b\u305b\u306a\u3055\u3044\u3088\uff01",
                 "9_Oshirimisenasaiyo",
                 "other"
+            ],
+            [
+                "\u3042\u3001\u79c1M\u3060\u3063\u305f\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u306a",
+                "9_Awatasimdattanokamo",
+                "other"
+            ],
+            [
+                "\u79c1\u3001\u3061\u3043\u304f\u3093\u306e\u70ba\u306a\u3089\u30c9M\u306b\u3067\u3082M\u306b\u3067\u3082\u30d6\u30bf\u306b\u3067\u3082\u306a\u3093\u3067\u3082\u306a\u308a\u307e\u3059\u306e\u3067...",
+                "9_Watashitiikunnotamenara",
+                "other"
             ]
         ]
     },
     "10": {
         "id": 10,
         "name": "\u5bb6\u9577\u3080\u304e",
-        "picPath": "src/member/ienaga_mugi.png",
+        "picPath": "src\/member\/ienaga_mugi.png",
         "channelid": "UC_GCs6GARLxEHxy1w40d6VQ",
         "twitterid": "ienaga_mugi23",
         "vocabulary": [
@@ -387,7 +402,7 @@
     "11": {
         "id": 11,
         "name": "\u5b87\u5fd7\u6d77\u3044\u3061\u3054",
-        "picPath": "src/member/ushimi_ichigo.png",
+        "picPath": "src\/member\/ushimi_ichigo.png",
         "channelid": "UCmUjjW5zF1MMOhYUwwwQv9Q",
         "twitterid": "ushimi_ichigo",
         "vocabulary": [
@@ -426,7 +441,7 @@
     "12": {
         "id": 12,
         "name": "\u5915\u967d\u30ea\u30ea",
-        "picPath": "src/member/yuuhi_riri.png",
+        "picPath": "src\/member\/yuuhi_riri.png",
         "channelid": "UC48jH1ul-6HOrcSSfoR02fQ",
         "twitterid": "Yuuhi_Riri",
         "vocabulary": []
@@ -434,7 +449,7 @@
     "13": {
         "id": 13,
         "name": "\u7269\u8ff0\u6709\u6816",
-        "picPath": "src/member/mononobe_arisu.png",
+        "picPath": "src\/member\/mononobe_arisu.png",
         "channelid": "UCt0clH12Xk1-Ej5PXKGfdPA",
         "twitterid": "AliceMononobe",
         "vocabulary": [
@@ -448,7 +463,7 @@
     "14": {
         "id": 14,
         "name": "\u6587\u91ce\u74b0",
-        "picPath": "src/member/humino_tamaki.png",
+        "picPath": "src\/member\/humino_tamaki.png",
         "channelid": "UCBiqkFJljoxAj10SoP2w2Cg",
         "twitterid": "nekokan_chu",
         "vocabulary": []
@@ -456,7 +471,7 @@
     "15": {
         "id": 15,
         "name": "\u4f0f\u898b\u30ac\u30af",
-        "picPath": "src/member/hushimi_gaku.png",
+        "picPath": "src\/member\/hushimi_gaku.png",
         "channelid": "UCXU7YYxy_iQd3ulXyO-zC2w",
         "twitterid": "gaku_fushimi",
         "vocabulary": []
@@ -464,7 +479,7 @@
     "16": {
         "id": 16,
         "name": "\u30ae\u30eb\u30b6\u30ec\u30f3\u2162\u4e16",
-        "picPath": "src/member/giruzaren_sansei.png",
+        "picPath": "src\/member\/giruzaren_sansei.png",
         "channelid": "UCUzJ90o1EjqUbk2pBAy0_aw",
         "twitterid": "Gilzaren_III",
         "vocabulary": [
@@ -478,7 +493,7 @@
     "17": {
         "id": 17,
         "name": "\u5263\u6301\u5200\u4e5f",
-        "picPath": "src/member/kenmoti_touya.png",
+        "picPath": "src\/member\/kenmoti_touya.png",
         "channelid": "UCv1fFr156jc65EMiLbaLImw",
         "twitterid": "rei_Toya_rei",
         "vocabulary": [
@@ -486,13 +501,18 @@
                 "\u30ed\u30ea\u30b3\u30f3\u306f\u884c\u304d\u3064\u304f\u5148\u306f\u30ed\u30ea\u306a\u3093\u3067\u306d",
                 "17_Rorikon",
                 "other"
+            ],
+            [
+                "\u50d5\u30d7\u30ea\u30f3\uff01",
+                "17_Bokupurin",
+                "bad"
             ]
         ]
     },
     "18": {
         "id": 18,
         "name": "\u68ee\u4e2d\u82b1\u54b2",
-        "picPath": "src/member/morinaka_kazaki.png",
+        "picPath": "src\/member\/morinaka_kazaki.png",
         "channelid": "UCtpB6Bvhs1Um93ziEDACQ8g",
         "twitterid": "KazakiMorinaka",
         "vocabulary": [
@@ -506,7 +526,7 @@
     "19": {
         "id": 19,
         "name": "\u53f6",
-        "picPath": "src/member/kanae.png",
+        "picPath": "src\/member\/kanae.png",
         "channelid": "UCspv01oxUFf_MTSipURRhkA",
         "twitterid": "Kanae_2434",
         "vocabulary": []
@@ -514,7 +534,7 @@
     "20": {
         "id": 20,
         "name": "\u8d64\u7fbd\u8449\u5b50",
-        "picPath": "src/member/akabane_youko.png",
+        "picPath": "src\/member\/akabane_youko.png",
         "channelid": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
         "twitterid": "Youko_Akabane",
         "vocabulary": [
@@ -533,7 +553,7 @@
     "21": {
         "id": 21,
         "name": "\u7b39\u6728\u54b2",
-        "picPath": "src/member/sasaki_saku.png",
+        "picPath": "src\/member\/sasaki_saku.png",
         "channelid": "UCoztvTULBYd3WmStqYeoHcA",
         "twitterid": "saku_sasaki",
         "vocabulary": [
@@ -671,13 +691,18 @@
                 "\u308f\u308a\u3043\u3001\u4ffa\u6b7b\u3093\u3060",
                 "21_Warioreshinda",
                 "other"
+            ],
+            [
+                "\u30d9\u30eb\u30e2\u30f3\u30c9\u30d0\u30f3\u30c7\u30e9\u30b9\u8ab0\u3084\u306d\u3093",
+                "21_Berumondobanderasudareyanen",
+                "other"
             ]
         ]
     },
     "22": {
         "id": 22,
         "name": "\u672c\u9593\u3072\u307e\u308f\u308a",
-        "picPath": "src/member/honma_himawari.png",
+        "picPath": "src\/member\/honma_himawari.png",
         "channelid": "UC0g1AE0DOjBYnLhkgoRWN1w",
         "twitterid": "honmahimawari",
         "vocabulary": [
@@ -731,7 +756,7 @@
     "23": {
         "id": 23,
         "name": "\u9b54\u754c\u30ce\u308a\u308a\u3080",
-        "picPath": "src/member/makainoririmu.png",
+        "picPath": "src\/member\/makainoririmu.png",
         "channelid": "UC9EjSJ8pvxtvPdxLOElv73w",
         "twitterid": "makaino_ririmu",
         "vocabulary": [
@@ -749,13 +774,18 @@
                 "\u3059\u304d",
                 "23_Suki",
                 "other"
+            ],
+            [
+                "\u3042\u30fc\u6765\u3066\u308b\u6765\u3066\u308b\uff01",
+                "23_Akiterukiteru",
+                "other"
             ]
         ]
     },
     "24": {
         "id": 24,
         "name": "\u845b\u8449",
-        "picPath": "src/member/kuzuha.png",
+        "picPath": "src\/member\/kuzuha.png",
         "channelid": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "twitterid": "Vamp_Kuzu",
         "vocabulary": [
@@ -768,13 +798,18 @@
                 "\uff11\uff12\uff13\uff14\uff15\u30c8\u30a5\u30fc\u30fc\uff01\uff01",
                 "24_Itinisansigoto",
                 "other"
+            ],
+            [
+                "\u30cf\u30f3\u30cb\u30f3\u30cb\u30c4\u30b0\uff01\u4eca\u65e5\u306e\u3054\u306f\u3093\u306f\u30db\u30c3\u30c8\u30d1\u30a4",
+                "24_Kyonogohanhahottopai",
+                "other"
             ]
         ]
     },
     "25": {
         "id": 25,
         "name": "\u96ea\u6c5d",
-        "picPath": "src/member/setsuna.png",
+        "picPath": "src\/member\/setsuna.png",
         "channelid": "UCfM_A7lE6LkGrzx6_mOtI4g",
         "twitterid": "setsuna2434",
         "vocabulary": []
@@ -782,7 +817,7 @@
     "26": {
         "id": 26,
         "name": "\u690e\u540d\u552f\u83ef",
-        "picPath": "src/member/shiina_yuika.png",
+        "picPath": "src\/member\/shiina_yuika.png",
         "channelid": "UC_4tXjqecqox5Uc05ncxpxg",
         "twitterid": "yuika_siina",
         "vocabulary": [
@@ -856,7 +891,7 @@
     "27": {
         "id": 27,
         "name": "\u30c9\u30fc\u30e9",
-        "picPath": "src/member/doora.png",
+        "picPath": "src\/member\/doora.png",
         "channelid": "UC53UDnhAAYwvNO7j_2Ju1cQ",
         "twitterid": "___Dola",
         "vocabulary": [
@@ -875,7 +910,7 @@
     "28": {
         "id": 28,
         "name": "\u51fa\u96f2\u971e",
-        "picPath": "src/member/izumo_kasumi.png",
+        "picPath": "src\/member\/izumo_kasumi.png",
         "channelid": "UCLpYMk5h1bq8_GAFVBgXhPQ",
         "twitterid": "ikasumi_zzz",
         "vocabulary": []
@@ -883,7 +918,7 @@
     "29": {
         "id": 29,
         "name": "\u8f5f\u4eac\u5b50",
-        "picPath": "src/member/todoro_kyouko.png",
+        "picPath": "src\/member\/todoro_kyouko.png",
         "channelid": "UCRV9d6YCYIMUszK-83TwxVA",
         "twitterid": "KT_seeds",
         "vocabulary": [
@@ -902,7 +937,7 @@
     "30": {
         "id": 30,
         "name": "\u30b7\u30b9\u30bf\u30fc\u30fb\u30af\u30ec\u30a2",
-        "picPath": "src/member/sister_claire.png",
+        "picPath": "src\/member\/sister_claire.png",
         "channelid": "UC1zFJrfEKvCixhsjNSb1toQ",
         "twitterid": "SisterCleaire",
         "vocabulary": [
@@ -925,13 +960,18 @@
                 "\u6fe1\u308c\u3061\u3083\u3063\u305f\uff08\u30ea\u30f3\u30b0\u30d5\u30a3\u30c3\u30c8\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u914d\u4fe1\uff09",
                 "30_Nuretyatta",
                 "other"
+            ],
+            [
+                "\u30d1\u30f3\u30c4\u30af\u30ec\u30a2\uff01",
+                "30_Pantsukurea",
+                "bad"
             ]
         ]
     },
     "31": {
         "id": 31,
         "name": "\u82b1\u7551\u30c1\u30e3\u30a4\u30ab",
-        "picPath": "src/member/hanabatake_chaika.png",
+        "picPath": "src\/member\/hanabatake_chaika.png",
         "channelid": "UCsFn_ueskBkMCEyzCEqAOvg",
         "twitterid": "ZulmIhP1nlMOT5y",
         "vocabulary": [
@@ -965,7 +1005,7 @@
     "32": {
         "id": 32,
         "name": "\u793e\u7bc9",
-        "picPath": "src/member/yashiro_kizuku.png",
+        "picPath": "src\/member\/yashiro_kizuku.png",
         "channelid": "UCKMYISTJAQ8xTplUPHiABlA",
         "twitterid": "846kizuQ",
         "vocabulary": [
@@ -994,7 +1034,7 @@
     "33": {
         "id": 33,
         "name": "\u5b89\u571f\u6843",
-        "picPath": "src/member/aduti_momo.png",
+        "picPath": "src\/member\/aduti_momo.png",
         "channelid": "UC6TfqY40Xt1Y0J-N18c85qQ",
         "twitterid": "momo_aduchi",
         "vocabulary": []
@@ -1002,7 +1042,7 @@
     "34": {
         "id": 34,
         "name": "\u536f\u6708\u30b3\u30a6",
-        "picPath": "src/member/uduki_kou.png",
+        "picPath": "src\/member\/uduki_kou.png",
         "channelid": "UC3lNFeJiTq6L3UWoz4g1e-A",
         "twitterid": "udukikohh",
         "vocabulary": [
@@ -1030,13 +1070,508 @@
                 "\u4f59\u88d5\u3060",
                 "34_Yoyuuda",
                 "other"
+            ],
+            [
+                "\u3073\u3063\u304f\u308a\u3057\u3061\u3083\u3063\u305f",
+                "34_04FFZeAwzJ",
+                "other"
+            ],
+            [
+                "\u984e\u5148\u8f29\u767b\u5834",
+                "34_04GUvofrOT",
+                "other"
+            ],
+            [
+                "\u4f55\u304c\u3044\u3063\u305e\u3060\u3088",
+                "34_04W1HLbQf4",
+                "other"
+            ],
+            [
+                "\u3070\u3044\u3070\u3044",
+                "34_0QX34jA9hA",
+                "other"
+            ],
+            [
+                "\u767d\u3044\u3069\u308d\u3069\u308d\u3057\u305f\u6db2\u72b6\u306e\u3082\u306e\u304c\u304b\u304b\u3063\u3066\u308b\u3088",
+                "34_0fzWuR8mKo",
+                "other"
+            ],
+            [
+                "\u8ab0\u304b\u306e\u53eb\u3076\u58f0\u304c\u3059\u308b\u3001\u8ab0\u304b\u306e\u53eb\u3076\u58f0\u304c\u3059\u308b",
+                "34_1C9lH40maB",
+                "other"
+            ],
+            [
+                "\u3064\u308c\u3048\u30de\u30b8\u3067",
+                "34_1HdnTjJnNF",
+                "other"
+            ],
+            [
+                "\u3046\u3093\u3046\u3093\u3001\u305d\u308c\u3082\u3001\u306b\u3058\u3055\u3093\u3058\u3060\u306d\uff01\u2026\u3066\u3044\u3046\u304b\u3053\u308c\u3063\u3066\u306b\u3058\u3055\u3093\u3058\u304b\uff1f",
+                "34_1Mh6LTw4aY",
+                "other"
+            ],
+            [
+                "\u8d70\u99ac\u71c8",
+                "34_1SozwYGkyC",
+                "other"
+            ],
+            [
+                "\u7d9a\u3051\u308b\uff1f\u308f\u304b\u3063\u305f",
+                "34_1ls0gKdF2F",
+                "other"
+            ],
+            [
+                "\u30d0\u30a4\u30ce\u30fc\u30e9\u30eb\u7d0d\u8c46",
+                "34_1sBbYSpkVx",
+                "other"
+            ],
+            [
+                "\u30b1\u30d5\u30a3\u30a2\u3060\u304b\u3089",
+                "34_1yE1JOiXsM",
+                "other"
+            ],
+            [
+                "\u30e1\u30b9\u5316\u3057\u306d\u3047\u305c",
+                "34_2UE4UP0sfM",
+                "other"
+            ],
+            [
+                "\u4f59\u88d5\u3060\u308f",
+                "34_2nGvY2ACS1",
+                "other"
+            ],
+            [
+                "\u308f\u304b\u3063\u305f\u308f\u304b\u3063\u305f\u3001\u7d9a\u3051\u307e\u3059",
+                "34_3X1a7RMy4T",
+                "other"
+            ],
+            [
+                "\u308f\u3056\u3068\u5598\u3044\u3067\u308b\u3068\u304b\u3058\u3083\u306a\u3044\u3088",
+                "34_4NKTymcnXA",
+                "other"
+            ],
+            [
+                "\u5b8c\u98f2\uff01\u3044\u305f\u3060\u304d\u534d\uff01",
+                "34_5qsEqsPqi5",
+                "other"
+            ],
+            [
+                "\u305f\u3060\u8f9b\u3044\u3060\u3051\u306e\u6d99\u3001\u305f\u3060\u3064\u3089\u3044\u3060\u3051\u306e\u6d99\u3060",
+                "34_63Dnri0MiV",
+                "other"
+            ],
+            [
+                "\u3057\u3093\u3058\u3083\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089",
+                "34_6akNqTnuX9",
+                "other"
+            ],
+            [
+                "\u3044\u3084\u4f59\u88d5\u306a\u3044\u3088\u3001\u30cd\u30bf\u306b\u8d70\u3093\u306a\u304d\u3083\u4f59\u88d5\u306a\u3044\u3082\u3093",
+                "34_72FMMydb7p",
+                "other"
+            ],
+            [
+                "\u3088\u3044\u3057\u3087\u3063\u30681",
+                "34_7c3b48grmu",
+                "other"
+            ],
+            [
+                "\u521d\u3081\u3066\u914d\u4fe1\u4e2d\u306b\u6ce3\u3044\u3061\u3083\u3063\u305f",
+                "34_7oIG1XUI9k",
+                "other"
+            ],
+            [
+                "\u4ffa\u306e\u304a\u3068\u3069\u304a\u3069\u304a\u3069\u7537\u6c17",
+                "34_Bj38LqHq35",
+                "other"
+            ],
+            [
+                "Connecting",
+                "34_BqgsvMXR2f",
+                "other"
+            ],
+            [
+                "\u555c\u308a\u97f3(\u9f3b)",
+                "34_CNZatTgmOa",
+                "other"
+            ],
+            [
+                "\u6d99\u304c\u6b62\u307e\u3089\u306d\u3048",
+                "34_CUbqbaer5i",
+                "other"
+            ],
+            [
+                "\u3057\u3085\u3093\u2026\u3063\u3066\u306a\u3063\u305f\u3088\u2026\u3057\u3085\u3093\u2026\u3063\u3066",
+                "34_CpdiWgQaYT",
+                "other"
+            ],
+            [
+                "\u4eca\u65e5\u4ffa\u5b89\u5168\u65e5\u3058\u3083\u306a\u3044\u3001\u5371\u967a\u65e5\u3067\u3059",
+                "34_Dzyp3fSoCP",
+                "other"
+            ],
+            [
+                "\u30d4\u30fc\u30b9",
+                "34_E9zMfDNIp9",
+                "other"
+            ],
+            [
+                "\u3046\u3093\u3061\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+                "34_FGg8tBqpjg",
+                "other"
+            ],
+            [
+                "\u8ab0\u304b\u306e\u53eb\u3076\u58f0\u304c\u3059\u308b\u3088",
+                "34_FS7P0EnvLv",
+                "other"
+            ],
+            [
+                "\u3044\u3063\u305e\uff01\u3046\u304a\u304a\u304a\u304a",
+                "34_GucYObFGoD",
+                "other"
+            ],
+            [
+                "\u2026\u3044\u3063\u305e",
+                "34_HStsJHFoc5",
+                "other"
+            ],
+            [
+                "\u3042\u30fc\u3001\u8f9b\u3044\u8f9b\u3044\u3001\u7d50\u5c40\u8f9b\u3044\u3088\u304a",
+                "34_HWjSd2e6Ik",
+                "other"
+            ],
+            [
+                "\u3053\u308c\u304c\u306b\u3058\u3055\u3093\u3058\u7537\u5b50\u30e1\u30f3\u30d0\u30fc\u3001\u3042\u306a\u305f\u3092\u898b\u3066\u5b66\u3093\u3060\u3053\u3068\u3067\u3059",
+                "34_HgSGSswBil",
+                "other"
+            ],
+            [
+                "\u9593\u63a5\u30ad\u30b9\u306b\u306a\u3063\u3061\u3083\u3046\u3051\u3069",
+                "34_I5smTCcYxD",
+                "other"
+            ],
+            [
+                "\u3073\u3063\u304f\u308a\u3057\u3066\u5c3b\u3082\u3061\u3064\u3044\u3061\u3083\u3063\u305f",
+                "34_IRybwlU1fy",
+                "other"
+            ],
+            [
+                "\u6d99\u51fa\u3066\u304d\u305f",
+                "34_J2M30zC5be",
+                "other"
+            ],
+            [
+                "\u304a\u307e\u3048\u3089\u3001\u3044\u3063\u305e\uff01",
+                "34_KTsqgvc7Pd",
+                "other"
+            ],
+            [
+                "\u3042\u309b\u3042\u309b\u3042\u309b\u3042\u309b\u3001\u3060\u3081\u3060\u3041",
+                "34_KbpXjqQs6h",
+                "other"
+            ],
+            [
+                "\u3044\u305f\u3044",
+                "34_LOk2efEg0V",
+                "other"
+            ],
+            [
+                "\uff12\u901f\u3086\u305a",
+                "34_LhBRAU4crE",
+                "other"
+            ],
+            [
+                "\u7b11\u3044\u58f03(\u9577)",
+                "34_LlHM7I4I21",
+                "other"
+            ],
+            [
+                "\u306f\u30fc\u3001\u8f9b\u3044",
+                "34_LyUMDM8jKD",
+                "other"
+            ],
+            [
+                "\u3075\u3045\u3001\u3075\u3045\u3001\u3063\u3066\u306a\u3063\u3066\u308b\u3051\u3069",
+                "34_M4jZh4sCFc",
+                "other"
+            ],
+            [
+                "\u4eca\u65e5\u306b\u3087\u98ef\u306b\u611f\u8b1d\u3092\u3053\u3081\u3066",
+                "34_M5nW4rL1vj",
+                "other"
+            ],
+            [
+                "\u3046\u3093\u3061\u5207\u3089\u3057\u3066\u305f\u3067\u3057\u3087\u7686",
+                "34_MaEXTOikhJ",
+                "other"
+            ],
+            [
+                "\u3042\u30fc\u3001\u307f\u3093\u306a\u3001\u3044\u305f\u3044",
+                "34_NXDecSQ6T4",
+                "other"
+            ],
+            [
+                "\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\uff01",
+                "34_Ovh5zSIicO",
+                "other"
+            ],
+            [
+                "\u3053\u3093\u306a\u8f9b\u3044\u30d5\u30ea\u3057\u3066\u308b\u3093\u3060\u304b\u3089\u8996\u8074\u8005\u6570\u5897\u3048\u3066\u3088\u3049\uff01",
+                "34_P3FL9lDezA",
+                "other"
+            ],
+            [
+                "\u3046\u3093\u3061",
+                "34_PXYq4zXlXz",
+                "other"
+            ],
+            [
+                "\u30c6\u30a3\u30c3\u30b7\u30e5\u30c6\u30a3\u30c3\u30b7\u30e5",
+                "34_Pm3MSAzJUu",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u3001\u4ffa\u306b\u5f7c\u5973\u306b\u306a\u3063\u3066\u6b32\u3057\u3044\u306e\u304b",
+                "34_QSXxylFgLW",
+                "other"
+            ],
+            [
+                "\u3042\u3041\u3001\u3042\u3041\u3001\u3044\u3066\u3048\u3088\u304a",
+                "34_RRbZv5EKQC",
+                "other"
+            ],
+            [
+                "\u3084\u3081\u306a\u3044\uff1f\u308f\u304b\u3063\u305f",
+                "34_TOikr0wEAJ",
+                "other"
+            ],
+            [
+                "\u30c9\u30af\u30da\u304c\u30d1\u30bd\u30b3\u30f3\u306b\u304b\u304b\u3063\u305f\u305e",
+                "34_TPhAqc11HE",
+                "other"
+            ],
+            [
+                "\u6691\u3059\u304e\u308b\u3001\u3069\u3046\u3057\u3088\u3046",
+                "34_UXMl8bGIem",
+                "other"
+            ],
+            [
+                "\u3088\u3044\u3057\u3087\u3063\u30683",
+                "34_V506kfsxfA",
+                "other"
+            ],
+            [
+                "\u4ffa\u306f\u60b2\u3057\u304f\u306a\u3063\u305f",
+                "34_VD7qPSOLUS",
+                "other"
+            ],
+            [
+                "Shining Line",
+                "34_VHvxnHpZGC",
+                "other"
+            ],
+            [
+                "\u5927\u4e08\u592b\u304b\u306a",
+                "34_VU47AgiIwZ",
+                "other"
+            ],
+            [
+                "\u3071\u304f\u3071\u304f\u3071\u304f\u3001\u3044\u305f\u3060\u304d\u534d",
+                "34_VXueXFLPAN",
+                "other"
+            ],
+            [
+                "\u555c\u308a\u306a\u304c\u3089\u306e\u5598\u304e",
+                "34_Za1QvpsL1u",
+                "other"
+            ],
+            [
+                "\u4ee3\u308f\u308a\u306b\u98df\u3079\u307e\u3059\uff1f\u5148\u8f29\u3044\u3061\u304b\u3089\u5f53\u3066\u306b\u9001\u3063\u3066\u3055",
+                "34_ZleC8hRve8",
+                "other"
+            ],
+            [
+                "\u914d\u4fe1\u4eca\u65e5\u306f\u3084\u3081\u3066\u3088\u3059\u308b\u304b",
+                "34_a0ZdqDPBeb",
+                "other"
+            ],
+            [
+                "\u30cf\u30a4\u30c6\u30af\u3046\u3093\u3061",
+                "34_aQNI7h50lv",
+                "other"
+            ],
+            [
+                "\u3069\u3046\u3057\u3088\u3046\u306a\u3093\u304b\u6c57\u304c\u3059\u3054\u3044",
+                "34_cBTVOFaTaO",
+                "other"
+            ],
+            [
+                "\u3054\u7d39\u4ecb\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059",
+                "34_dUpMJnRnXL",
+                "other"
+            ],
+            [
+                "\u307e\u305f\u982d\u304c\u30d5\u30e9\u30d5\u30e9\u3057\u3066\u304d\u305f",
+                "34_dVjPK0oahD",
+                "other"
+            ],
+            [
+                "\u3060\u3063\u3066\u4ffa\u8f9b\u3044\u306e\u3060\u3081\u306a\u3093\u3060\u3082\u3093",
+                "34_fdkT4VbeSn",
+                "other"
+            ],
+            [
+                "\u30ab\u30c1\u3001\u30ab\u30c1\u3001\u30ab\u30c1\u30ab\u30c12",
+                "34_gJ2k4Zupn4",
+                "other"
+            ],
+            [
+                "\u3044\u305f\u3060\u304d\u534d(\u866b\u306e\u606f)",
+                "34_gQIPpCg1y3",
+                "other"
+            ],
+            [
+                "\u3046\u305d\u3058\u3083\u3093",
+                "34_hUxf8nxpHs",
+                "other"
+            ],
+            [
+                "\u7537\u306b\u3082\u5598\u3044\u3067\u307b\u3057\u3044\u307f\u305f\u3044\u306a\u305d\u3046\u3044\u3046\u30a2\u30ec\u3058\u3083\u306a\u3044\u304b\u3089",
+                "34_iABN8MSh2A",
+                "other"
+            ],
+            [
+                "\u597d\u611f\u5ea6\u4e0b\u3052\u3068\u304f\uff1f",
+                "34_iJ0bcN4dwa",
+                "other"
+            ],
+            [
+                "\u6ce3\u3044\u3061\u3083\u3063\u305f",
+                "34_iQcGM6kMNe",
+                "other"
+            ],
+            [
+                "\u7d50\u5c40\u304b\u308c\u3047\u3001\u4f55\u3057\u3066\u3082\u304b\u3089\u3044\u3001\u7d50\u5c40\u304b\u308c\u3047",
+                "34_iaqWbq4oeL",
+                "other"
+            ],
+            [
+                "\u820c\u304c\u30d2\u30ea\u30d2\u30ea\u3059\u308b",
+                "34_jYP7gtqoDu",
+                "other"
+            ],
+            [
+                "\u3046\u308f\u30fc\u3001\u8f9b\u3044\u3001\u8f9b\u3044\u3088\u304a",
+                "34_kctaTrURpv",
+                "other"
+            ],
+            [
+                "\u53eb\u3073(\u5c0f)",
+                "34_lia4mVmOOI",
+                "other"
+            ],
+            [
+                "\u3075\u30fc\u3001\u3075\u30fc\u3001\u304b\u308c\u3047",
+                "34_lkpLUGs6H1",
+                "other"
+            ],
+            [
+                "\u3061\u3087\u3001\u983c\u3080\u3001\u5618\u3060\u308d",
+                "34_m5vMRYqhS6",
+                "other"
+            ],
+            [
+                "\u3042\u3063\u3001\u2026\u3042\u3063\u3001\u5168\u7136\u5927\u4e08\u592b\u3001\u3041\u3063",
+                "34_ouBSNRWj30",
+                "other"
+            ],
+            [
+                "\u5598\u3044\u3060\u5f8c\u30c6\u30a3\u30c3\u30b7\u30e5\u3092\u5f15\u304d\u629c\u304f\u97f3",
+                "34_s67lW60Gua",
+                "other"
+            ],
+            [
+                "\u5f8c\u8f29\u3078\u306e\u30d1\u30ef\u30cf\u30e9",
+                "34_sPcBNNDx5e",
+                "other"
+            ],
+            [
+                "\u30c9M\u306a\u3093\u3060\u3088",
+                "34_srTT5p37lF",
+                "other"
+            ],
+            [
+                "\u982d\u30d5\u30e9\u30d5\u30e9\u3059\u308b\u3057",
+                "34_tHIaN0HrIH",
+                "other"
+            ],
+            [
+                "\u306f\u3041\u3001\u306f\u3041\u3001\u5f85\u3063\u3066\u304f\u308c",
+                "34_tu3HwLU12J",
+                "other"
+            ],
+            [
+                "\u3046\u3093\u3061\u30ea\u30bb\u30c3\u30c8\u3059\u308b\uff1f",
+                "34_uh7dDrASq3",
+                "other"
+            ],
+            [
+                "\u3072\u3063\u3072\u3063\u3075\u30fc",
+                "34_upurFoxsX6",
+                "other"
+            ],
+            [
+                "\u30ed\u30ea\u30b3\u30f3\u3067\u306f\u306a\u3044\u3093\u3060\u3051\u3069",
+                "34_vZ28VdsFsM",
+                "other"
+            ],
+            [
+                "\u30ab\u30c1\u3001\u30ab\u30c1\u3001\u30ab\u30c1\u30ab\u30c11",
+                "34_x2C5wHn4JX",
+                "other"
+            ],
+            [
+                "\u306a\u3093\u304b\u30d5\u30e9\u30d5\u30e9\u3059\u308b",
+                "34_xKIhPxmJmA",
+                "other"
+            ],
+            [
+                "\u6df1\u5c64WEB\u304b\u3089\u3054\u304d\u3052\u3093\u3088\u3046",
+                "34_xynShRxJwA",
+                "other"
+            ],
+            [
+                "\u30c9\u30f3\u5f15\u304d\u3055\u308c\u3061\u307e\u3063\u305f\u3088\u4ffa",
+                "34_zHIVgVw9tS",
+                "other"
+            ],
+            [
+                "\u30e8\u30fc\u30b0\u30eb\u30c8\u3076\u3063\u304b\u3051\u3066\u98df\u3079\u308b\u304b",
+                "34_zLshHJg7Jg",
+                "other"
+            ],
+            [
+                "\u3044\u3084\u3041\u2026\u3069\u3046\u3057\u3088\u3046\u2026H\u306a\u6f2b\u753b\u307f\u305f\u3044\u306a\u606f\u304c\u6b62\u307e\u3089\u306d\u3048\u2026",
+                "34_zPNX5ga1LC",
+                "other"
+            ],
+            [
+                "\u53e3\u3093\u4e2d\u304c\u30d2\u30ea\u30d2\u30ea\u3059\u308b",
+                "34_zaIxejIy8A",
+                "other"
+            ],
+            [
+                "\u4eca\u307e\u3067\u3042\u308a\u304c\u3068\u306a\u304a\u524d\u3089",
+                "34_zdU38C3fo5",
+                "other"
             ]
         ]
     },
     "35": {
         "id": 35,
         "name": "\u9234\u6728\u52dd",
-        "picPath": "src/member/suzuki_masaru.png",
+        "picPath": "src\/member\/suzuki_masaru.png",
         "channelid": "UCryOPk2GZ1meIDt53tL30Tw",
         "twitterid": "Darkness_Eater",
         "vocabulary": []
@@ -1044,15 +1579,186 @@
     "36": {
         "id": 36,
         "name": "\u7dd1\u4ed9",
-        "picPath": "src/member/ryuusyen.png",
+        "picPath": "src\/member\/ryuusyen.png",
         "channelid": "UCt5-0i4AVHXaWJrL8Wql3mw",
         "twitterid": "midori_2434",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u3053\u306e\u4e16\u3067\u4e0a\u624b\u304f\u751f\u304d\u3089\u308c\u306a\u304b\u3063\u305f\u7d50\u679c\u304c\u914d\u4fe1\u696d\u3060\u304b\u3089\u5bdf\u3057\u3066\u307b\u3057\u3044",
+                "36_5N3Jlt1O9l",
+                "other"
+            ],
+            [
+                "\u65e5\u672c\u4eba\u306a\u3093\u3067\u3059",
+                "36_8SCbDXmBaM",
+                "other"
+            ],
+            [
+                "\u30d9\u30ac\u30eb\u30bf\u4ed9\u53f0\u541b\u3067\u306f\u306a\u3044",
+                "36_8vNUPLVVRj",
+                "other"
+            ],
+            [
+                "\u305d\u308c\u3060\u3051\u50d5\u306f\u5b66\u6821\u3067\u6642\u9593\u304c\u3042\u308b",
+                "36_8xTsJnx8ru",
+                "other"
+            ],
+            [
+                "\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u30de\u30f3",
+                "36_ESg0aZLyHC",
+                "other"
+            ],
+            [
+                "\u30d1\u30d1\u3068\u30de\u30de\u3082\u60b2\u3057\u3093\u3067\u308b",
+                "36_FbC7x6JQHH",
+                "other"
+            ],
+            [
+                "\u30ea\u30d7\u30e9\u30a4\u3092\u8fd4\u3059\u6687\u304c\u3059\u3054\u3044\u3042\u308b\u304b\u3089\u8fd4\u3057\u3066\u308b\u3093\u3060",
+                "36_GEzSUvzK9K",
+                "other"
+            ],
+            [
+                "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u53d6\u308a\u65b9\u77e5\u3089\u306a\u3044\u304b\u3089",
+                "36_GI7LlaBTXw",
+                "other"
+            ],
+            [
+                "\u6027\u5225\u304c\u305d\u3093\u306a\u306b\u5927\u4e8b\u306a\u306e\u304b\uff01\uff1f",
+                "36_KJLxvLvRjk",
+                "other"
+            ],
+            [
+                "\u50d5\u304c\u77e5\u3063\u3066\u308b\u30aa\u30bf\u30af\u3058\u3083\u306a\u3044\u3088",
+                "36_KW1pYmxgvt",
+                "other"
+            ],
+            [
+                "\u8912\u3081\u308b\u3068\u3053\u308d\u306f\u9854\u3057\u304b\u306a\u3044",
+                "36_M0SXheYOxx",
+                "other"
+            ],
+            [
+                "Youtube\u30c7\u30d3\u30e5\u30fc\u306b\u5931\u6557\u3057\u3066\u308b\uff1f\u3053\u308c\u304b\u3089\u3060\u3088\uff01",
+                "36_MAKMKuS3ZZ",
+                "other"
+            ],
+            [
+                "\u4eca\u65e5\u306f\u4f4e\u901f\u30e2\u30fc\u30c9\u3058\u3083\u306a\u304f\u3066\u3044\u3044\u3088\u3063\u3066\u8a00\u3063\u3066",
+                "36_N19fMuOgzF",
+                "other"
+            ],
+            [
+                "\u65b0\u7dd1\u306e\u7dd1\u306b\u30d9\u30ac\u30eb\u30bf\u4ed9\u53f0\u306e\u4ed9",
+                "36_NUdoZIgBRN",
+                "other"
+            ],
+            [
+                "\u7537\u306e\u50d5\u3068\u5973\u306e\u50d5\u3001\u3069\u3063\u3061\u304c\u597d\u304d\uff1f",
+                "36_RNyUfHIsaR",
+                "other"
+            ],
+            [
+                "\u3069\u3053\u304b\u3089\u898b\u3066\u3082\u53ef\u611b\u3044\u7dd1\u4ed9\u3067\u3059",
+                "36_ShrIt6pOV8",
+                "other"
+            ],
+            [
+                "\u53cb\u9054\u305d\u3093\u306a\u306b\u6b32\u3057\u3044\u3060\u308d\uff01",
+                "36_SqgNAI34hu",
+                "other"
+            ],
+            [
+                "SEEDs\u306e\u840c\u58f0\u62c5\u5f53",
+                "36_Su3C8nbPmt",
+                "other"
+            ],
+            [
+                "30\u5206\u9593\u3050\u3089\u3044\u4e00\u4eba\u3067\u90e8\u5c4b\u3067\u305a\u3063\u3068\u558b\u3063\u3066\u305f\u306e",
+                "36_Tj2mfpaxGd",
+                "other"
+            ],
+            [
+                "\u4e00\u4eba\u3067\u8a00\u3063\u3066\u4e00\u4eba\u3067\u30c4\u30c3\u30b3\u3080\u306e\u3084\u3081\u308d\u3088\uff01",
+                "36_VDW6phSUz8",
+                "other"
+            ],
+            [
+                "\u3053\u308c\u304c\u73fe\u5b9f\u3067\u3059",
+                "36_aveWiwA77l",
+                "other"
+            ],
+            [
+                "\u81ea\u5206\u306e\u58f0\u3057\u304b\u8033\u306b\u5165\u3089\u306a\u3044\u6027\u8cea",
+                "36_daQKLASSwx",
+                "other"
+            ],
+            [
+                "\u3081\u3061\u3083\u304f\u3061\u3083\u4eca\u6ce3\u3044\u3066\u308b",
+                "36_e2QgnC9DnR",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u3089\u306f\u4f55\u3082\u8a71\u3059\u306a\u3063\u3066\u3053\u3068\uff1f",
+                "36_eluBNjb5jP",
+                "other"
+            ],
+            [
+                "\u307f\u3093\u306a\u304c\u30b3\u30e1\u30f3\u30c8\u3044\u3063\u3071\u3044\u3067\u304d\u306a\u304f\u306a\u3063\u3061\u3083\u3046\u3058\u3083\u3093\uff01",
+                "36_fCht1jdVaZ",
+                "other"
+            ],
+            [
+                "\u3080\u305b\u308b",
+                "36_grDTwDYzLZ",
+                "other"
+            ],
+            [
+                "\u3059\u3052\u3048\u558b\u308b\u9670\u30ad\u30e3",
+                "36_iWMRHqHEXu",
+                "other"
+            ],
+            [
+                "\u30a2\u30f3\u30c1\u304c\u4e00\u756a\u50d5\u306e\u3053\u3068\u898b\u3066\u304f\u308c\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3058\u3083\u3093",
+                "36_idrJMTUmqw",
+                "other"
+            ],
+            [
+                "\u50d5\u306f\u53cb\u9054\u304c\u5c45\u306a\u3044\u304b\u3089\u5f71\u97ff\u3092\u53d7\u3051\u3066\u306a\u3044\u306e",
+                "36_koniyRaiS9",
+                "other"
+            ],
+            [
+                "\u9ad8\u6821\u30c7\u30d3\u30e5\u30fc\u3092\u5931\u6557\u3057\u305f\u7dd1\u4ed9\u541b",
+                "36_tWlwSfjcuN",
+                "other"
+            ],
+            [
+                "\u4f4e\u901f\u30e2\u30fc\u30c9\u3063\u3066\u306a\u306b\uff1f",
+                "36_uOcmw0dLcV",
+                "other"
+            ],
+            [
+                "\u3069\u3053\u5411\u3044\u3066\u558b\u3063\u3066\u308b\u306e\u50d5",
+                "36_wLFsOQpLMH",
+                "other"
+            ],
+            [
+                "\u666e\u901a\u306b\u9854\u75d9\u6523\u3057\u3066\u308b",
+                "36_wMjl4V9qqv",
+                "other"
+            ],
+            [
+                "\u3070\u3044\u3070\u3044",
+                "36_x3SSUVvVx4",
+                "other"
+            ]
+        ]
     },
     "37": {
         "id": 37,
         "name": "\u795e\u7530\u7b11\u4e00",
-        "picPath": "src/member/kanda_shouichi.png",
+        "picPath": "src\/member\/kanda_shouichi.png",
         "channelid": "UCWz0CSYCxf4MhRKPDm220AQ",
         "twitterid": "Kanda_Shoichi",
         "vocabulary": [
@@ -1066,7 +1772,7 @@
     "38": {
         "id": 38,
         "name": "\u98db\u9ce5\u3072\u306a",
-        "picPath": "src/member/asuka_hina.png",
+        "picPath": "src\/member\/asuka_hina.png",
         "channelid": "UCiSRx1a2k-0tOg-fs6gAolQ",
         "twitterid": "hina__asuka",
         "vocabulary": []
@@ -1074,7 +1780,7 @@
     "39": {
         "id": 39,
         "name": "\u6625\u5d0e\u30a8\u30a2\u30eb",
-        "picPath": "src/member/harusaki_earu.png",
+        "picPath": "src\/member\/harusaki_earu.png",
         "channelid": "UCtAvQ5U0aXyKwm2i4GqFgJg",
         "twitterid": "harusakiair2434",
         "vocabulary": []
@@ -1082,7 +1788,7 @@
     "40": {
         "id": 40,
         "name": "\u96e8\u68ee\u5c0f\u591c",
-        "picPath": "src/member/amemori_sayo.png",
+        "picPath": "src\/member\/amemori_sayo.png",
         "channelid": "UCRWOdwLRsenx2jLaiCAIU4A",
         "twitterid": "Sayo_Amemori",
         "vocabulary": []
@@ -1090,7 +1796,7 @@
     "41": {
         "id": 41,
         "name": "\u9df9\u5bae\u30ea\u30aa\u30f3",
-        "picPath": "src/member/takamiya_rion.png",
+        "picPath": "src\/member\/takamiya_rion.png",
         "channelid": "UCV5ZZlLjk5MKGg3L0n0vbzw",
         "twitterid": "TakamiyaRion",
         "vocabulary": [
@@ -1118,13 +1824,1153 @@
                 "\u8a31\u305b\u306d\u3047\u3088\u306a\u3041\u3041",
                 "41_Yuruseneyonaa",
                 "anger"
+            ],
+            [
+                "\u79c1\u306e\u202680\u500b\u306e\u77f3\u304c\u2026",
+                "41_00P1xh6KqO",
+                "other"
+            ],
+            [
+                "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3",
+                "41_0ByDUs5HIh",
+                "other"
+            ],
+            [
+                "\u52d8\u306e\u3044\u3044\u30ac\u30ad\u306f\u5acc\u3044\u3060\u3088",
+                "41_0PHKfid509",
+                "other"
+            ],
+            [
+                "\u7720\u304f\u306a\u3063\u3066\u304d\u305f",
+                "41_0Pkake4xZw",
+                "other"
+            ],
+            [
+                "\u8aad\u3081\u306a\u304b\u3063\u305f\u3063\u3066\u8a00\u3063\u3066",
+                "41_0RINWKhvsf",
+                "other"
+            ],
+            [
+                "\u5929\u624d\u3060\u304b\u3089\u3055\u30fc\u3059\u3050\u5206\u304b\u3063\u3061\u3083\u3046\u3093\u3060\u3088\u306a",
+                "41_0TB2MrbKcO",
+                "other"
+            ],
+            [
+                "\u3042\u30fc\u30c9\u30ad\u30c9\u30ad\u3059\u308b\u30fc",
+                "41_0Uvevt6rfZ",
+                "other"
+            ],
+            [
+                "\u308a\u3085\u3046\u3057\u3047\u3093\u3057\u3083\u3093",
+                "41_15zp0i5pIC",
+                "other"
+            ],
+            [
+                "\u3054\u304d\u3052\u3093\u3088\u3046",
+                "41_19aqyxELRw",
+                "other"
+            ],
+            [
+                "\u8349\u306f\u8aad\u3081\u308b",
+                "41_1CrTqvoSTi",
+                "other"
+            ],
+            [
+                "\u30d6\u30c1\u6d88\u3057\u307e\u3059\u3088",
+                "41_28XdOdhZ14",
+                "other"
+            ],
+            [
+                "\u79c1\u3068\u306e\u7d04\u675f\u3088",
+                "41_2QSSc40yVW",
+                "other"
+            ],
+            [
+                "\u3053\u308c\u3082\u3001\u3072\u3072\u3072\u4eba\u524d\uff1f",
+                "41_2nJ8XK0glI",
+                "other"
+            ],
+            [
+                "\u30e9\u30a4\u30d0\u30fc\u30c7\u30d3\u30e5\u30fc",
+                "41_2nU8qkox8i",
+                "other"
+            ],
+            [
+                "\u307e\u305f\u304b\u308b\u305f\u306b\u3055\u308c\u308b\u305e\u79c1\u306e",
+                "41_2oqGz72SyC",
+                "other"
+            ],
+            [
+                "\u5b8c\u5168\u306b\u30aa\u30ab\u30f3",
+                "41_2sCOHcMyIN",
+                "other"
+            ],
+            [
+                "\u79c1\u3060\u3051\u304c\u77e5\u3063\u3066\u308b\u3063\u3066\u3053\u3068\u306b\u3057\u3068\u3044\u3066\u3001\u3053\u308c",
+                "41_36M2e3EjdH",
+                "other"
+            ],
+            [
+                "\u5b58\u3058\u4e0a\u3052\u307e\u305b\u3093\u308f",
+                "41_3GhxSv3UwE",
+                "other"
+            ],
+            [
+                "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30aa\u30f3\u30e9\u30a4\u30f3\u304b\u306a\u30fc",
+                "41_4Xav3QgVQw",
+                "other"
+            ],
+            [
+                "\u597d\u304d\u306aRole\u306fADC\u3067\u3059",
+                "41_4ZpTGU5Di1",
+                "other"
+            ],
+            [
+                "\u7121\u99c4\u7121\u99c4\u7121\u99c4\u7121\u99c4\u7121\u99c4\u7121\u99c4\u30a1\u30c3\uff01",
+                "41_4alo2497Xd",
+                "other"
+            ],
+            [
+                "\u30b2\u30fc\u30e0\u306b\u623b\u3063\u3066\u6765\u308c\u306a\u3044",
+                "41_4et9VF7BMP",
+                "other"
+            ],
+            [
+                "\u30ad\u30ea\u30c8\u304b\u306a\u30fc\u3084\u3063\u3071",
+                "41_52ahPCyBkH",
+                "other"
+            ],
+            [
+                "\u30c7\u30a3\u30eb\u30e0\u30c3\u30c9\u30fb\u30aa\u30c7\u30a3\u30ca\u3044\u3089\u306a\u3044\u3093\u3067\u3059\u3051\u3069",
+                "41_5YMTXl9i83",
+                "other"
+            ],
+            [
+                "\u5fae\u30ec\u5b58\uff08\u30f4\u30a3\u30ec\u30c3\u30b8\u30f4\u30a1\u30f3\u30ac\u30fc\u30c9\uff09",
+                "41_5rLWKEZYWw",
+                "other"
+            ],
+            [
+                "\u8ffd\u52a0\u4e88\u7b97\u3001\u304a\u3044\u304f\u3089\u3067\u3059\u306e\uff1f",
+                "41_5z8KzweOjs",
+                "other"
+            ],
+            [
+                "\u5f85\u3063\u305f\u30fc\uff1f",
+                "41_6CQqbkSH0I",
+                "other"
+            ],
+            [
+                "\u7981\u65ad\u306e\u8b00\u53cd\u3067\u3059\uff01",
+                "41_6eLS8UyIOT",
+                "other"
+            ],
+            [
+                "\u5341\u516d\u591c\uff08\u3058\u3085\u3046\u308d\u304f\u3084\uff09",
+                "41_6g5pb9QP8q",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30b3\u30c4",
+                "41_6xbCJ6fQiS",
+                "other"
+            ],
+            [
+                "\u30d1\u30f3\u304c\u306a\u3051\u308c\u3070\u304a\u83d3\u5b50\u3092\u98df\u3079\u308c\u3070\u3044\u3044\u3058\u3083\u306a\u3044",
+                "41_7IYun9cqW4",
+                "other"
+            ],
+            [
+                "\u30d2\u30ca\u3061\u3083\u3093\u306e\u30e2\u30ce\u30de\u30cd",
+                "41_7Ihm9XtryH",
+                "other"
+            ],
+            [
+                "\u3057\u308c\u3063\u3068\u30de\u30c3\u30c1\u30f3\u30b0\u3092\u3059\u308b\u9df9\u5bae\u30ea\u30aa\u30f3",
+                "41_7ck8kLUuqa",
+                "other"
+            ],
+            [
+                "\u3084\u3060\u3084\u3060\u3084\u3060",
+                "41_7iZu45wJ4H",
+                "other"
+            ],
+            [
+                "\u30d5\u30a9\u30ed\u30fc\u3057\u3066\u306a\u3044\u3068\u3044\u3046\u30b6\u30b3\u3069\u3082",
+                "41_89iphJJvEC",
+                "other"
+            ],
+            [
+                "\u6642\u306f\u6e80\u3061\u305f\u2026\u79c1\u304c\u30e9\u30a4\u30c0\u30fc\u3001\u30a4\u30b9\u30ab\u30f3\u30c0\u30eb\u306e\u30de\u30b9\u30bf\u30fc\u306b\u306a\u308b\u6642\u304c",
+                "41_8IMgFqJLRi",
+                "other"
+            ],
+            [
+                "\u30ea\u30aa\u30f3\u25b3\u3058\u3083\u306d\u3048",
+                "41_8c9M5m2qtT",
+                "other"
+            ],
+            [
+                "\u7720\u304f\u306a\u3063\u3061\u3083\u3046\u304b\u3089\u30c0\u30e1\u306a\u3093\u3060\u3088\u306d\u30fc",
+                "41_8hKNjjPI4X",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30b3\u30c4\u3058\u3083\u306a\u3044\u3082\u3093",
+                "41_9tK14tRHVK",
+                "other"
+            ],
+            [
+                "\u4e00\u7dd2\u306b\u5bdd\u3066\u308b\u6c17\u5206\u3060\u306d",
+                "41_AebOW5pd92",
+                "other"
+            ],
+            [
+                "(\u97f3\u91cf\u6ce8\u610f)\u304a\u524d\u3058\u3083\u306d\u3048\u3093\u3060\u3088\u30fc\uff01\u304a\u524d\u3058\u3083\u306a\u3044\u3093\u3060\u3088\u2026\u30c7\u30a3\u30eb\u30e0\u30c3\u30c9\u30fb\u30aa\u30c7\u30a3\u30ca\u304c\u5f53\u305f\u3063\u305f\u3088\u2026",
+                "41_AtVRDBzJif",
+                "other"
+            ],
+            [
+                "\u7720\u3044\u3082\u3093\u306f\u4ed5\u65b9\u306a\u3044\u3093\u3060\u3088\u306a\u3042",
+                "41_B3bqtveYV6",
+                "other"
+            ],
+            [
+                "SEEDs\u306e\u5148\u8f29\u305f\u3061",
+                "41_BBPmwyAMjV",
+                "other"
+            ],
+            [
+                "\u30d3\u30af\u30d3\u30af\u3057\u3066\u5f85\u3063\u3066\u306a\u3055\u3044",
+                "41_BIJN4DpkEp",
+                "other"
+            ],
+            [
+                "\u5be9\u795e\u8005\uff08\u3057\u306f\u3093\u3057\u3057\u3083\uff09",
+                "41_BX1N4rE7kI",
+                "other"
+            ],
+            [
+                "\u30a2\u30fc\u30ab\u30a4\u30d6\u6b8b\u3057\u307e\u305b\u3093",
+                "41_BwUSc3wwBO",
+                "other"
+            ],
+            [
+                "\u5ddd\u539f\u792b\uff08\u304b\u308f\u306f\u3089\u3044\u3055\u304a\uff09",
+                "41_C0EDkR2PsK",
+                "other"
+            ],
+            [
+                "\u3067\u306f\u7686\u69d8\u3001\u3054\u304d\u3052\u3093\u3088\u3046",
+                "41_CTy7l2YEe1",
+                "other"
+            ],
+            [
+                "\u6bba\u3057\u306a\u3093\u3066\u304a\u4e0b\u54c1\u3067\u3059\u308f\uff1f\u305d\u3046\u3044\u3046\u30b2\u30fc\u30e0\u306a\u3093\u3060\u3088\u3001\u3053\u308c\u306f\u6226\u4e89\u3060\u3088\uff01",
+                "41_D4mloqMhYL",
+                "other"
+            ],
+            [
+                "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30aa\u30f3\u30e9\u30a4\u30f3\u304c\u7d42\u308f\u3063\u3066\u3057\u307e\u3063\u305f\u3089",
+                "41_DiEfVzBVaO",
+                "other"
+            ],
+            [
+                "\u30bb\u30df",
+                "41_DsvxGRo5Pt",
+                "other"
+            ],
+            [
+                "\u79c1\u3082\u597d\u304d",
+                "41_E0ZKtVTtEo",
+                "other"
+            ],
+            [
+                "\u4f55\u3067\u3082\u3059\u308b\u3063\u3066\u8a00\u3063\u305f\u3051\u3069\u4f55\u3067\u3082\u3059\u308b\u3068\u306f\u8a00\u3063\u3066\u306a\u3044",
+                "41_E9BBlQ9lMh",
+                "other"
+            ],
+            [
+                "\u305d\u308c\u306f\u305d\u308c\u3068\u3057\u3066",
+                "41_EJ1ubTuHaH",
+                "other"
+            ],
+            [
+                "\u79c1\u306e\u7d75\u6587\u5b57\u304c\u304a\u3067\u3093\u306b\u306a\u3063\u3061\u3083\u3046",
+                "41_EtZTyHgDX5",
+                "other"
+            ],
+            [
+                "\u8ca0\u3051\u3068\u308b\u30fc",
+                "41_FGZQS7U8b9",
+                "other"
+            ],
+            [
+                "\u8db3\u3001\u305d\u3093\u306a\u306b\u898b\u305f\u3044\u306e\uff1f",
+                "41_Fvu4S7gBnF",
+                "other"
+            ],
+            [
+                "\u3042\u306a\u305f\u306f\u30b5\u30a4\u30b3\u30d1\u30b9",
+                "41_FwP5QXGOO2",
+                "other"
+            ],
+            [
+                "\u3082\u3046\u79c1\u4e0d\u8c9e\u5bdd\u3057\u307e\u3059",
+                "41_G215oAklux",
+                "other"
+            ],
+            [
+                "\u79c1\u306f\u30ac\u30e0\u306f\u30af\u25cb\u30ec\u30c3\u30c4\u6d3e\u3067\u3059",
+                "41_G6SWe9CHrE",
+                "other"
+            ],
+            [
+                "\u540d\u524d\u899a\u3048\u305f\u304b\u3089\u306a",
+                "41_Ga7MXgDIvo",
+                "other"
+            ],
+            [
+                "\u9df9\u5bae\u30ea\u30aa\u30f3\u3061\u3083\u3093\u53ef\u611b\u3044",
+                "41_H8En8fVjQm",
+                "other"
+            ],
+            [
+                "\u307f\u3093\u306a\u30aa\u30bf\u30af\u306a\u3093\u3060\u306d",
+                "41_Hbr8BNDfjt",
+                "other"
+            ],
+            [
+                "\u30ad\u30ea\u30c8\u3068\u7d50\u5a5a\u3057\u305f\u3044",
+                "41_I6NeAKy6E9",
+                "other"
+            ],
+            [
+                "\u3048\u3001\u3069\u3046\u3057\u3088\u3046\u79c1\u5f53\u305f\u3093\u306a\u304b\u3063\u305f\u3089\u3053\u306e\u4e16\u3092\u6ec5\u307c\u3059\u3088\u3001\u672c\u5f53\u306b",
+                "41_IUjrF3kEIc",
+                "other"
+            ],
+            [
+                "\u9df2\u5bae\u30ec\u30aa\u30f3",
+                "41_J2gGoTg94k",
+                "other"
+            ],
+            [
+                "\u865a\u7a7a\uff08\u304d\u3087\u304f\u3046\uff09",
+                "41_JZkuJ1V8O6",
+                "other"
+            ],
+            [
+                "\u3084\u3089\u308c\u3066\u559c\u3076\u306a",
+                "41_JqyGA6mwgl",
+                "other"
+            ],
+            [
+                "(PC\u306b\u3064\u3044\u3066)\u7dd1\u4ed9\u3055\u3093\u3044\u308f\u304f\u3001\u300c\u5c0f\u5b66\u6821\u5352\u696d\u3057\u3066\u3093\u3058\u3083\u3093\u305d\u3044\u3064\u300d",
+                "41_K9UtHii4wS",
+                "other"
+            ],
+            [
+                "\u610f\u5916\u3068\u653b\u3081\u304b\u3082\u3057\u308c\u306a\u3044",
+                "41_KV8PdPmj6J",
+                "other"
+            ],
+            [
+                "\u56da\u4eba\u3084\u306a\u3044\u304b\u30fc\u3044",
+                "41_KgwU9PzWAx",
+                "other"
+            ],
+            [
+                "\u305b\u3093\u3079\u3044\u3092\u98df\u3079\u308b\u97f3",
+                "41_LrOanvNVBG",
+                "other"
+            ],
+            [
+                "\u58c1\u306b\u57cb\u307e\u3063\u306615\u5206\u52d5\u3051\u306a\u304f\u306a\u308b",
+                "41_M6ryskz27n",
+                "other"
+            ],
+            [
+                "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059",
+                "41_MPAvXANVvQ",
+                "other"
+            ],
+            [
+                "\u98f4\u3092\u565b\u3080\u79c1",
+                "41_MWCz019OBf",
+                "other"
+            ],
+            [
+                "\u8a18\u61b6\u529b\u3088\u308f\u3088\u308f\u306e\u3088\u308f",
+                "41_Ma8LeJaWC2",
+                "other"
+            ],
+            [
+                "\u96d1\u7a2e\u30a5",
+                "41_MdiHZm8qU4",
+                "other"
+            ],
+            [
+                "\u99b4\u308c\u99b4\u308c\u3057\u304f\u8a71\u3057\u639b\u3051\u308b\u306a\u3053\u306e\u30af\u30bd\u30b4\u30df\u30a3",
+                "41_MeEKrGjexA",
+                "other"
+            ],
+            [
+                "\u792b\uff08\u308c\u304d\uff09",
+                "41_MhNlH9VenJ",
+                "other"
+            ],
+            [
+                "\u96e3\u3057\u3044\u306e\u4f7f\u308f\u306a\u3044\u3067\u3042\u3052\u3066",
+                "41_Ml2Zqggst1",
+                "other"
+            ],
+            [
+                "\u30d6\u30c1\u306e\u3081\u3057\u307e\u3059\u3088",
+                "41_Mmsd23CLwr",
+                "other"
+            ],
+            [
+                "\u6238\u7c4d\u6d88\u3057\u306b\u884c\u304f",
+                "41_Ms432GQjmf",
+                "other"
+            ],
+            [
+                "\u4eca\u304c\u3044\u3044",
+                "41_NHlrdnAI6b",
+                "other"
+            ],
+            [
+                "\u52b4\u50cd\u306f\u56fd\u6c11\u306e\u7fa9\u52d9",
+                "41_NOTjj1U3On",
+                "other"
+            ],
+            [
+                "\u3061\u304f\u308f",
+                "41_NS0LpHOSpz",
+                "other"
+            ],
+            [
+                "\u3069\u3046\u30ad\u30e2",
+                "41_NhyR9EZEeq",
+                "other"
+            ],
+            [
+                "\u30ec\u30aa\u30f3\u304a\u5b22\u69d8",
+                "41_NilJOOaTbR",
+                "other"
+            ],
+            [
+                "\u5acc\u3044\uff01\u3042\u306a\u305f\u9054\u306e\u3053\u3068\u5acc\u3044\u3001\u5acc\u3044\u3088\uff01",
+                "41_O0Exb7CEYx",
+                "other"
+            ],
+            [
+                "\u307f\u306a\u3061\u3083\u3093",
+                "41_O5xyEGrhCY",
+                "other"
+            ],
+            [
+                "\u6d88\u3057\u307e\u3059\u3088",
+                "41_ORVptxLti9",
+                "other"
+            ],
+            [
+                "\u65b0\u3057\u3044\u98f4",
+                "41_Og53WsyrED",
+                "other"
+            ],
+            [
+                "\u30db\u30e9\u30fc\u3068\u79c1",
+                "41_Op8bF0Wfa1",
+                "other"
+            ],
+            [
+                "\u30cf\u30fc\u30d6\u304c\u751f\u3048\u307e\u3057\u305f\u308f\u3088",
+                "41_OsYeuMzpxP",
+                "other"
+            ],
+            [
+                "\u30d6\u30c1\u306e\u3081\u3059\u308f\u3088",
+                "41_P2Cz8CS2zt",
+                "other"
+            ],
+            [
+                "\u547d\u3092\u5208\u308a\u53d6\u308b\u5f62\u3058\u3083\u3093",
+                "41_P8QIYGGEj9",
+                "other"
+            ],
+            [
+                "\u30de\u30a6\u30f3\u30c8\u53d6\u3063\u3066\u6765\u3093\u306a\u3088\u3001\u30aa\u30bf\u30af\u30a5\uff01",
+                "41_QjjkBoVRlh",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30b3\u30c4\u3058\u3083\u306d\u3048\u305e",
+                "41_QtjHIYwkeB",
+                "other"
+            ],
+            [
+                "\u4f55\u8a00\u3063\u3066\u3093\u306e\u30a2\u30f3\u30bf",
+                "41_Quttq4CLdm",
+                "other"
+            ],
+            [
+                "\u3057\u307f\u3057\u307f\u306b\u3057\u3066\u3084\u308b\u304b\u3089\u306a",
+                "41_R1ZNsQcdGe",
+                "other"
+            ],
+            [
+                "\u3075\u3075\u30fc\u3093",
+                "41_R2M99W1fWP",
+                "other"
+            ],
+            [
+                "\u306a\u3093\u3066\uff1f",
+                "41_RD1BilJv5O",
+                "other"
+            ],
+            [
+                "\u611a\u6c11\u5171",
+                "41_RDM7Ps4km2",
+                "other"
+            ],
+            [
+                "\u30ad\u30ea\u30c8\u3068\u7d50\u5a5a\u3057\u305f\u3044",
+                "41_RpYpY493q5",
+                "other"
+            ],
+            [
+                "\u30d1\u30ba\u30c9\u30e9\u306e\u52b9\u679c\u97f3",
+                "41_RsIQ68kW3P",
+                "other"
+            ],
+            [
+                "\u79c1\u306e\u65b9\u304c\u653b\u3081\uff1f",
+                "41_SHeAueYXwa",
+                "other"
+            ],
+            [
+                "\u8133\u304c\u9707\u3048\u308b\u30c3\uff01",
+                "41_SQWLKOnErt",
+                "other"
+            ],
+            [
+                "\u305d\u3046\u3044\u3046\u3053\u3068\u3082\u3042\u308b",
+                "41_ScQ7MM5BXB",
+                "other"
+            ],
+            [
+                "\u30a2\u30b9\u30ca\u3078\u306e\u5411\u4e0a\u5fc3\u304c\u3042\u3093\u307e\u308a\u306a\u3044\u3093\u3060\u3088\u306d",
+                "41_SdXESq9mLK",
+                "other"
+            ],
+            [
+                "\u7f75\u5012\u306b\u306a\u308b\u3068\u6025\u306b\u8a9e\u5f59\u529b\u304c\u5897\u3059\u9df9\u5bae\u30ea\u30aa\u30f3\u306a\u306e\u3067\u3042\u3063\u305f\u2026\u3002",
+                "41_Svi0gY1iLZ",
+                "other"
+            ],
+            [
+                "\u77e5\u3089\u306a\u304b\u3063\u305f\u3063\u3066\u8a00\u3063\u3066",
+                "41_T7Bl1ukJKd",
+                "other"
+            ],
+            [
+                "\u30c8\u30b2\u30d4\u30fc\u306e\u30e2\u30ce\u30de\u30cd",
+                "41_TZBjESK1RB",
+                "other"
+            ],
+            [
+                "\u30af\u30bd\u30de\u30b7\u30e5\u30de\u30ed",
+                "41_TtykMzxKi6",
+                "other"
+            ],
+            [
+                "\u4eca\u3084\u3063\u3066\uff01",
+                "41_U3g95O6Mtt",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u672c\u5f53\u306b\u521d\u898b\u306a\u3093\u3060\u308d\u3046\u306a\u3042\uff01\uff1f",
+                "41_UKKBw4zf1a",
+                "other"
+            ],
+            [
+                "\u5909\u614b",
+                "41_USbxfZxWSV",
+                "other"
+            ],
+            [
+                "\u9df2\u5bae\u3058\u3083\u306d\u3048\u305e",
+                "41_UeqAAgnPfw",
+                "other"
+            ],
+            [
+                "\u30ad\u30b7\u30ea\u30c8\u30fc\u30eb\u306f5\u5206\u3050\u3089\u3044\u3067\u306a\u3093\u304b\u30d1\u30b7\u30e5\u30d1\u30b7\u30e5\u306b\u306a\u308b\u3058\u3083\u3093\uff1f",
+                "41_UsDlrYpQKS",
+                "other"
+            ],
+            [
+                "\u30a2\u30b9\u30ca\u306e\u30e2\u30ce\u30de\u30cd",
+                "41_VBb9N7ywML",
+                "other"
+            ],
+            [
+                "\uff08\u30c7\u30a3\u30eb\u30e0\u30c3\u30c9\u306b\u5bfe\u3057\u3066\uff09\u81ea\u5bb3\u3001\u81ea\u5bb3\u3059\u308b\u305e\u30b3\u30a4\u30c4",
+                "41_VX8dKXVKjJ",
+                "other"
+            ],
+            [
+                "\u30b7\u30e3\u30c3\u30c8\u30c0\u30a6\u30f3\u3082\u3067\u304d\u306a\u3044",
+                "41_Vk6ouZnDy4",
+                "other"
+            ],
+            [
+                "\u30ad\u30ea\u30c8\u3068\u79c1\u306e\u5922\u5c0f\u8aac",
+                "41_Vr0e8xv4If",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30b3\u30c4\u3063\u3066\u306a\u3093\u3060\u3088",
+                "41_VzqvMyMoua",
+                "other"
+            ],
+            [
+                "\u305a\u306e\u3046\u3081\u3044\u304b\u3044",
+                "41_W8G9MMLMO8",
+                "other"
+            ],
+            [
+                "\u97f3\u5272\u308c\u30ea\u30aa\u30f3",
+                "41_X5Gl9BqanW",
+                "other"
+            ],
+            [
+                "\u307e\u3042\u304a\u524d\u305f\u3061\u307f\u305f\u3044\u306a\u30d0\u30ab\u3069\u3082\u306b\u306f\u5206\u304b\u3089\u3093\u3060\u308d\u3046\u306a\u3042",
+                "41_X7dX1p0EIG",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30b3\u30c4\u306b\u3042\u308a\u304c\u3061",
+                "41_XPV67sRsTJ",
+                "other"
+            ],
+            [
+                "\u98df\u3079\u308b\u308f\u3088",
+                "41_XW31rhVpBo",
+                "other"
+            ],
+            [
+                "\u8912\u3081\u3089\u308c\u3066\u5b09\u3057\u3044\u306a\u3042",
+                "41_XylcAP5AaA",
+                "other"
+            ],
+            [
+                "\u5be9\u795e\u8005\uff08\u3055\u306b\u308f\uff09",
+                "41_YEo4487nHU",
+                "other"
+            ],
+            [
+                "\u304b\u3064\u305c\u3061\u3085\u304c\u308f\u308b\u3044",
+                "41_Ygk6lFyal4",
+                "other"
+            ],
+            [
+                "\u79c1\u3001\u6d88\u3057\u307e\u3059\u3002\u3055\u3088\u3046\u306a\u3089",
+                "41_Z2IZHnsgdY",
+                "other"
+            ],
+            [
+                "\u5b89\u5fc3\u3057\u308d\u3001\u304a\u524d\u306b\u306f\u7d76\u5bfe\u5a9a\u3073\u306a\u3044\u308f",
+                "41_ZALTIIQBtv",
+                "other"
+            ],
+            [
+                "\u30eb\u30eb\u306e\u58f0\u771f\u4f3c",
+                "41_ZiAgg5uOrG",
+                "other"
+            ],
+            [
+                "\u30d6\u30ed\u30f3\u30b4",
+                "41_ZnFYo5W1t6",
+                "other"
+            ],
+            [
+                "\u795e\u7530\u5927\u7206\u7b11",
+                "41_ZpPWKGltoT",
+                "other"
+            ],
+            [
+                "\u6307\u5207\u308a\u3052\u3093\u307e\u3093\u3001\u5618\u3064\u3044\u305f\u3089\u91dd\u5343\u672c\u306e\u30fc\u307e\u3059",
+                "41_Zu9DlknkM6",
+                "other"
+            ],
+            [
+                "\u304a\u30cf\u30fc\u30d6\u751f\u3048\u307e\u3059\u308f",
+                "41_aQOFdDONDF",
+                "other"
+            ],
+            [
+                "\u9177\u3044\u3088\u30fc",
+                "41_aRNMjcMRwg",
+                "other"
+            ],
+            [
+                "\u306e\u308a\u7f8e\u5473\u3057\u3044\u2026\u306e\u308a\u3063\u3066\u4f53\u306b\u826f\u3044\u3063\u3066\u77e5\u3063\u3066\u305f\uff1f\u2026\u305d\u308a\u3083\u77e5\u3063\u3066\u308b\u304b",
+                "41_aaSipErNur",
+                "other"
+            ],
+            [
+                "\u305a\u306e\u3046\u3081\u3044\u305b\u304d",
+                "41_bBFeuAXU4k",
+                "other"
+            ],
+            [
+                "\u5927\u6839\u3058\u3083\u306d\u3048\u305e",
+                "41_bDgQp1nYCO",
+                "other"
+            ],
+            [
+                "\u30dc\u30b3\u30dc\u30b3\u306b\u3055\u308c\u308b\u3045",
+                "41_bQOhvkVBhl",
+                "other"
+            ],
+            [
+                "\u30dd\u30f3\u30b3\u30c4\u3058\u3083\u306d\u3048\u305e",
+                "41_bUw5hpiUbm",
+                "other"
+            ],
+            [
+                "\u82fa\u306e\u9999\u308a\u306e\u7d05\u8336\u597d\u304d",
+                "41_bqD9EdBGVh",
+                "other"
+            ],
+            [
+                "\u60b2\u3057\u3044\u8a71\u3060\u3088\u306a\u3001\u30de\u30b8\u3067",
+                "41_c8Gy3BNkNQ",
+                "other"
+            ],
+            [
+                "\u4eca\u306e\u306f\u5207\u308a\u53d6\u3089\u306a\u3044\u3067",
+                "41_cD5NSiHWsr",
+                "other"
+            ],
+            [
+                "\u305a\u306e\u3046\u3081\u3044\u304b\u3044",
+                "41_cHDnD28465",
+                "other"
+            ],
+            [
+                "\u3061\u3083\u3093\u3068\u898b\u3066\u304f\u308c\u3088",
+                "41_cK4KLLkrtE",
+                "other"
+            ],
+            [
+                "\u79c1\u306f\u2026\u3082\u3046\u2026\u3082\u3046\u30c0\u30e1\u2026",
+                "41_cwXa9x7pQI",
+                "other"
+            ],
+            [
+                "\u5fd8\u308c\u307e\u3057\u305f\u3063\u3066\u8a00\u3048",
+                "41_ddBOc1BK7z",
+                "other"
+            ],
+            [
+                "\u897f\u90f7\u306b\u898b\u3048\u3066\u304f\u308b",
+                "41_dt3gid3HOs",
+                "other"
+            ],
+            [
+                "FGO\uff08\u30d5\u30a7\u30a4\u30c8\/\u30b0\u30e9\u30f3\u30aa\u30fc\u30c0\u30fc\uff09",
+                "41_e5blmFufrt",
+                "other"
+            ],
+            [
+                "\u305d\u3093\u306a\u3053\u3068\u306a\u3044\u3082\u3093",
+                "41_e9BT3vyBCF",
+                "other"
+            ],
+            [
+                "\u79c1\u3067\u96a0\u3055\u306a\u3044\u3068\u3063\u3066\u3084\u3064\u3067\u3059\u306d\u3053\u308c\u306f",
+                "41_eEHB3j2A1m",
+                "other"
+            ],
+            [
+                "\u307e\u305f\u30de\u30b7\u30e5\u30de\u30ed\u9001\u3063\u3066\u6765\u306a\u3055\u3044\u3088\u3001\u30d6\u30bf",
+                "41_eNutJpUeKq",
+                "other"
+            ],
+            [
+                "\u3055\u3057\u3055\u3048\u306a\u3051\u308c\u3070",
+                "41_eVGGPKnhNk",
+                "other"
+            ],
+            [
+                "\u9177\u3044\u3088\u2026\u9177\u3044\u3088\u3049\u2026",
+                "41_eZaSr8KbsZ",
+                "other"
+            ],
+            [
+                "\u9df2\u5bae\u30ec\u30aa\u30f3\u3063\u3066\u8ab0\u3084\u306d\u3093\uff01",
+                "41_fUO2eBzdZw",
+                "other"
+            ],
+            [
+                "\u8e0f\u307e\u308c\u305f\u3044\u4eba\u30fc",
+                "41_fWnZG8VErD",
+                "other"
+            ],
+            [
+                "\u8a66\u5408\u306b\u52dd\u3063\u3066\u52dd\u8ca0\u306b\u8ca0\u3051\u305f\u2026",
+                "41_ffodRLgE5Z",
+                "other"
+            ],
+            [
+                "\u82b1\u7551\u30c1\u30e3\u30a4\u30ab\u3055\u3093",
+                "41_fst5fpH0dW",
+                "other"
+            ],
+            [
+                "\u3044\u3089\u306a\u3044\u3088\u30fc\uff01\u8ab0\u3060\u3088\u2026\u30d5\u30a7\u30eb\u30b0\u30b9\u30fb\u30de\u30c3\u30af\u30fb\u30ed\u30a4\u2026\u3044\u3089\u306a\u3044\u3088\u2026",
+                "41_gIuAQ5wi9e",
+                "other"
+            ],
+            [
+                "\u3084\u3093\u306e\u304b\uff1f\u3084\u3093\u306e\u304b\u30b3\u30e9\u30fc",
+                "41_gM3jD8hBDX",
+                "other"
+            ],
+            [
+                "\u30c9\u30ad\u30c9\u30ad\u3057\u3066\u304d\u305f\u308f\u3061\u3087\u3063\u3068",
+                "41_gX2Vh4Iz4S",
+                "other"
+            ],
+            [
+                "\u30d1\u30bd\u30b3\u30f3\u304c\u30cc\u30eb\u30cc\u30eb\u3060\u3063\u305f\u3089\u304a\u524d\u3089\u306a\u3093\u3066\u30d6\u30c1\u30d6\u30c1\u306e\u30d6\u30c1\u3067\u3059\u3088\u672c\u5f53\u306b",
+                "41_gt8dB8pXjH",
+                "other"
+            ],
+            [
+                "\u30c1\u30e7\uff1d\u30ac\u30b9\u306e\u30e2\u30ce\u30de\u30cd",
+                "41_h27JpTm4VN",
+                "other"
+            ],
+            [
+                "\u30ea\u30aa\u30f3\u69d8\u306f\u3068\u3066\u3082\u53ef\u611b\u304f\u3066\u6f22\u5b57\u3082\u8aad\u3081\u3066\u982d\u8133\u660e\u6670\u3067\u30c4\u30a4\u30f3\u30c6\u30fc\u30eb\u3067\u3001\u3042\u3068\u5236\u670d\u3082\u4f3c\u5408\u3063\u3066\u3066\u6b4c\u3082\u4e0a\u624b",
+                "41_hgzPdoFAGe",
+                "other"
+            ],
+            [
+                "\u30d6\u30bf",
+                "41_hokueOHnM2",
+                "other"
+            ],
+            [
+                "\u5929\u624dof\u5929\u624d",
+                "41_htq3pwtFDT",
+                "other"
+            ],
+            [
+                "\u30a2\u30f3\u30bf\u5927\u5acc\u3044\uff01",
+                "41_hzdTLZWBlQ",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u306e\u697d\u3057\u304b\u3063\u305f\u8a18\u61b6\u3092\u5168\u3066\u596a\u3044\u53d6\u3063\u3066\u3084\u308a\u305f\u3044",
+                "41_iLLhkoXg8B",
+                "other"
+            ],
+            [
+                "\u7136\u308a\uff01\u7136\u308a\uff01\u7136\u308a\uff01",
+                "41_j5ZQQQBQFx",
+                "other"
+            ],
+            [
+                "\u9df9\u5bae\u30ea\u30aa\u30f3\u3055\u3093\u69d8\u306f\u672c\u5f53\u306b\u53ef\u611b\u304f\u3066\u7d20\u76f4\u3067\u5929\u624d\u3067\u6c17\u54c1\u304c\u3042\u3063\u3066\u4e0a\u54c1\u3067\u672c\u5f53\u306b\u7d20\u6674\u3089\u3057\u3044\u305f\u3081\u306b\u306a\u308b\u914d\u4fe1\u3092\u3057\u3066\u3044\u308b",
+                "41_j9fJEZDIrn",
+                "other"
+            ],
+            [
+                "\u3042\u306a\u305f\u306e\u5fc3\u306b\u76f4\u63a5\u8a9e\u308a\u304b\u3051\u3066\u3044\u307e\u3059\uff08\u30a8\u30b3\u30fc\uff09",
+                "41_jZzWvPUFJK",
+                "other"
+            ],
+            [
+                "\u9df9\u5bae\u304a\u3067\u3093\u306f\u5acc\u3060",
+                "41_k0PGeQ7YDs",
+                "other"
+            ],
+            [
+                "\u30de\u30b7\u30e5\u30de\u30ed\u306b\u62bc\u3057\u6f70\u3055\u308c\u3066\u6b7b\u306c",
+                "41_k3waH880hQ",
+                "other"
+            ],
+            [
+                "\u3046\u306b\uff01",
+                "41_k7CoKD0SKK",
+                "other"
+            ],
+            [
+                "\u6df1\u6df5\u3092\u8997\u304f\u3068\u304d\u3001\u79c1\u3082\u307e\u305f\u6df1\u6df5\u3092\u8997\u304f",
+                "41_lMzuqCVURw",
+                "other"
+            ],
+            [
+                "\u30af\u30bd\u30de\u30b7\u30e5\u30de\u30ed\u5171\u304c\u3088\u304a",
+                "41_lhK8VIHYLB",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u5927\u6839\u306b\u3059\u308b\u305e",
+                "41_ln9disxeRW",
+                "other"
+            ],
+            [
+                "\u30b6\u30b3\u6ed1\u820c",
+                "41_mG1JB20cQj",
+                "other"
+            ],
+            [
+                "\u534d\u89e3\uff08\u5f01\u89e3\uff09",
+                "41_mOlj1AgYA2",
+                "other"
+            ],
+            [
+                "\u30ab\u30c3\u30d7\u30e9\u30fc\u30e1\u30f3\u306a\u3093\u3066\u98df\u3079\u308b\u308f\u3051\u306a\u3044\u3067\u3057\u3087\u30a2\u30f3\u30bf\u3001\u30b6\u30b3\uff01\u307b\u3093\u3068\u306b\uff01",
+                "41_mPKcGFDc3C",
+                "other"
+            ],
+            [
+                "\u8a18\u61b6\u529b\u304c\u3053\u3044\u3064\u7686\u7121",
+                "41_mYvkzqABkF",
+                "other"
+            ],
+            [
+                "\u792b\u3055\u3093\u3001\u3044\u3055\u304a\u3063\u3066\u547c\u3093\u3067\u3054\u3081\u3093",
+                "41_n72mkjh0TV",
+                "other"
+            ],
+            [
+                "\u9df9\u5bae\u304a\u3067\u3093\u3058\u3083\u306d\u3048",
+                "41_nJea8lpRgw",
+                "other"
+            ],
+            [
+                "\u6c17\u6301\u3061\u60aa\u3044\u306a\u3093\u3066\u601d\u3063\u3066\u308b\u308f\u3051\u306a\u3044\u3058\u3083\u306a\u3044\u3067\u3059\u304b\u3001\u3054\u4e3b\u4eba\u69d8",
+                "41_ndaLSgqSaf",
+                "other"
+            ],
+            [
+                "\u98f4\u3092\u8210\u3081\u3056\u308b\u3092\u5f97\u306a\u304b\u3063\u305f",
+                "41_o79BQWLsoE",
+                "other"
+            ],
+            [
+                "\u30eb\u30eb\u30fc\u30b7\u30e5\u30fb\u30f4\u30a3\u30fb\u30d6\u30ea\u30bf\u30cb\u30a2\u304c\u547d\u3058\u308b\u3002\u30ea\u30b9\u30ca\u30fc\u5171\u3088\u3001\u79c1\u306b\u5a9a\u3073\u308d",
+                "41_oVVIYE4Qhj",
+                "other"
+            ],
+            [
+                "\u5fae\u7c92\u5b50\uff08\u3073\u305e\u3046\u3057\uff09",
+                "41_oZ5YRCmK8l",
+                "other"
+            ],
+            [
+                "\u30d6\u30c1\u306e\u3081\u3055\u308c\u308b\u308f\u3088",
+                "41_ogJ78A2ggA",
+                "other"
+            ],
+            [
+                "\u795e\u7530\u304c\u6d88\u3048\u305f\u3089",
+                "41_pPoCJR3ebX",
+                "other"
+            ],
+            [
+                "\u30a6\u30a3\u30f3\u30af\u3067\u304d\u306a\u3044",
+                "41_pZKvTwqEI7",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u306e\u6238\u7c4d\u306f\u79c1\u304c\u63e1\u3063\u3066\u3044\u308b",
+                "41_pc2mrZqPtf",
+                "other"
+            ],
+            [
+                "\u79c1\u3063\u3066\u8a00\u3048",
+                "41_pe4ZINOZI7",
+                "other"
+            ],
+            [
+                "\u3042\"\u3041\"\u30fc\u3042\"\u30fc\u3001\u7121\u6148\u60b2\u3060\u30fc\uff01",
+                "41_pjvTHyGmSP",
+                "other"
+            ],
+            [
+                "\u30b3\u30d4\u30fc\u672c\uff01\u30b3\u30d4\u30fc\u672c\u306a\u3089\u3001\u307e\u3060\u9593\u306b\u5408\u3046\u308f\u3088\uff01",
+                "41_pvaefa04u3",
+                "other"
+            ],
+            [
+                "\u30c9\u30a2\u304c\u9589\u307e\u308a\u307e\u3059",
+                "41_qLKuSBP3gB",
+                "other"
+            ],
+            [
+                "\u611f\u8b1d\u8304\u5b50",
+                "41_qd2fhdKlJE",
+                "other"
+            ],
+            [
+                "\u30aa\u30fc\u30c3\u30db\u30c3\u30db\u30c3\u30db",
+                "41_qfWttgGmJ7",
+                "other"
+            ],
+            [
+                "\u6f22\u5b57\u8aad\u3081\u3066\u3059\u3054\u3044\u306d\u3058\u3083\u306d\u3048\u3093\u3060\u3088",
+                "41_qibhWKO2us",
+                "other"
+            ],
+            [
+                "\u540d\u8a00\u51fa\u3066\u3057\u307e\u3063\u305f\u306a\u30fc\u3002\u4eba\u306f\u3053\u3046\u3084\u3063\u3066\u4e0a\u9054\u3057\u3066\u3044\u304f\u306e\u3055",
+                "41_rEa1BIDmWA",
+                "other"
+            ],
+            [
+                "\u9ad8\u30b9\u30da\u30c3\u30af\u306ePC\u3067\u3082\u4f7f\u3044\u624b\u304c\u4f4e\u30b9\u30da\u30c3\u30af\u3058\u3083\u610f\u5473\u306d\u3048\u3088\u306a\uff01",
+                "41_rnj7yqGdAa",
+                "other"
+            ],
+            [
+                "\u30ea\u30b9\u30ca\u30fc\u3082\u30dd\u30f3\u30b3\u30c4\u304b\uff1f",
+                "41_s04NhY4aMQ",
+                "other"
+            ],
+            [
+                "\u30d1\u30bd\u30b3\u30f3\u3082\u6301\u3061\u4e3b\u306b\u4f3c\u308b\u3093\u3060\u306a",
+                "41_se59lWR8OV",
+                "other"
+            ],
+            [
+                "\u6700\u4f4eof\u6700\u4f4e",
+                "41_tA0cKKl2yJ",
+                "other"
+            ],
+            [
+                "\u840c\u3048\u840c\u3048\u30ad\u30e5\u30f3",
+                "41_tB8e4V13uN",
+                "other"
+            ],
+            [
+                "\u6765\u3066\u307b\u3057\u3044\uff1f",
+                "41_taNkix0zjh",
+                "other"
+            ],
+            [
+                "\u521d\u898b\u3055\u3093\u5411\u3051\u81ea\u5df1\u7d39\u4ecb",
+                "41_u26RE2rGTU",
+                "other"
+            ],
+            [
+                "\u6765\u3066\u304f\u308c\u308b\u3068\u5b09\u3057\u3044",
+                "41_u76VYFhrB7",
+                "other"
+            ],
+            [
+                "\u79c1\u306e\u8a9e\u5f59\u529b\u306b\u6050\u308c\u6144\u3044\u3066\u307b\u3057\u3044",
+                "41_umPV0yoIR6",
+                "other"
+            ],
+            [
+                "\u30d6\u30c1\u306e\u3081\u3059\u308f\u3088",
+                "41_v0MXJwqM8J",
+                "other"
+            ],
+            [
+                "\u304a\u524d\u5927\u6839\u306b\u3059\u308b\u305e",
+                "41_v8l41lIfxz",
+                "other"
+            ],
+            [
+                "\u98f4\u565b\u3080\u306a",
+                "41_vAkvpBpCF5",
+                "other"
+            ],
+            [
+                "\u30a2\u30b9\u30ca\u304c\u7740\u3066\u3044\u305f\u30cd\u30b0\u30ea\u30b8\u30a7",
+                "41_vFffA3lZv3",
+                "other"
+            ],
+            [
+                "\u306f\u3093\u307a\u3093\u304c\u597d\u304d",
+                "41_vJxxVXga6I",
+                "other"
+            ],
+            [
+                "\u914d\u4fe1\u5207\u308c\u3070\u8efd\u304f\u306a\u308b\u3088\uff1f\u305d\u3093\u306a\u306e\u5206\u304b\u3063\u3066\u3093\u3060\u3088\uff01",
+                "41_vXJeHGwvp6",
+                "other"
+            ],
+            [
+                "\u7f75\u5012\u30dc\u30a4\u30b9",
+                "41_vs9yTVUeIq",
+                "other"
+            ],
+            [
+                "\u30b0\u30e9\u30f3\u30c9\u30aa\u30fc\u30c0\u30fc\u3067\u3059",
+                "41_wJVMXZKTFt",
+                "other"
+            ],
+            [
+                "\u6226\u72af\u2026\u3054\u3081\u3093\u306a\u3055\u3044\u2026",
+                "41_wUDRuK0HtV",
+                "other"
+            ],
+            [
+                "\u89d2\u819c\u30da\u30ea\u30da\u30ea\uff5e",
+                "41_wYwQYI1QxX",
+                "other"
+            ],
+            [
+                "\u91d1\u9aea\u30c4\u30a4\u30f3\u30c6\u30fc\u30eb\u30c4\u30f3\u30c7\u30ec\u5973",
+                "41_x6SxR26JOz",
+                "other"
+            ],
+            [
+                "\u60b2\u3057\u307f\u3092\u80cc\u8ca0\u3046",
+                "41_x8XWrfVAJV",
+                "other"
+            ],
+            [
+                "\u79c1\u306eTwitter\u30d5\u30a9\u30ed\u30fc\u3057\u3066\u306a\u3044\u3068\u304b\u3044\u3046\u30b6\u30b3",
+                "41_xI134nviR1",
+                "other"
+            ],
+            [
+                "\u305f\u30fc\u308b",
+                "41_yyQncs6nGH",
+                "other"
+            ],
+            [
+                "\u79c1\u3060\u3063\u3066\u5929\u624d\u3060\u3082\u3093",
+                "41_zJ0AsylKZv",
+                "other"
+            ],
+            [
+                "\u611f\u8b1d\u611f\u6fc0\u96e8\u3042\u3089\u308c\u3067\u3059\u308f",
+                "41_zKQSAez9w6",
+                "other"
+            ],
+            [
+                "\u4eca\u306e\u306f\u6065\u305a\u304b\u3057\u3044\u304b\u3089\u2026\u3084\u3060",
+                "41_zVOUXIe6JJ",
+                "other"
             ]
         ]
     },
     "42": {
         "id": 42,
         "name": "\u821e\u5143\u5553\u4ecb",
-        "picPath": "src/member/maimoto_keisuke.png",
+        "picPath": "src\/member\/maimoto_keisuke.png",
         "channelid": "UCJubINhCcFXlsBwnHp0wl_g",
         "twitterid": "maimoto_k",
         "vocabulary": [
@@ -1138,7 +2984,7 @@
     "43": {
         "id": 43,
         "name": "\u7adc\u80c6\u5c0a",
-        "picPath": "src/member/rindou_mikoto.png",
+        "picPath": "src\/member\/rindou_mikoto.png",
         "channelid": "UCPvGypSgfDkVe7JG2KygK7A",
         "twitterid": "RindouMikoto",
         "vocabulary": [
@@ -1156,13 +3002,18 @@
                 "UMT\uff01UMT\uff01\u3046\u307e\u3064\u3058\u3083\u306a\u3044\u3088UMT\uff01\uff08\u5e72\u7269\u59b9\u3046\u307e\u308b\u3061\u3083\u3093OP\uff09",
                 "43_Umtumtumatujanaiyo",
                 "other"
+            ],
+            [
+                "\u50d5\u306e\u3053\u3068\u3061\u3083\u3093\u3068\u305a\u3063\u3068\u597d\u304d\u3067\u3044\u3066\u304f\u308c\u308b\u306a\u3089(\u30b7\u30e7\u30bf\u30dc)",
+                "43_Bokunokototyannto",
+                "other"
             ]
         ]
     },
     "44": {
         "id": 44,
         "name": "\u3067\u3073\u3067\u3073\u30fb\u3067\u3073\u308b",
-        "picPath": "src/member/devidevi_devil.png",
+        "picPath": "src\/member\/devidevi_devil.png",
         "channelid": "UCjlmCrq4TP1I4xguOtJ-31w",
         "twitterid": "debidebiru_sama",
         "vocabulary": []
@@ -1170,7 +3021,7 @@
     "45": {
         "id": 45,
         "name": "\u685c\u51db\u6708",
-        "picPath": "src/member/sakura_ritsuki.png",
+        "picPath": "src\/member\/sakura_ritsuki.png",
         "channelid": "UCfQVs_KuXeNAlGa3fb8rlnQ",
         "twitterid": "SAKURA_RITSUKI",
         "vocabulary": []
@@ -1178,7 +3029,7 @@
     "46": {
         "id": 46,
         "name": "\u753a\u7530\u3061\u307e",
-        "picPath": "src/member/machida_chima.png",
+        "picPath": "src\/member\/machida_chima.png",
         "channelid": "UCo7TRj3cS-f_1D9ZDmuTsjw",
         "twitterid": "chima_machita23",
         "vocabulary": []
@@ -1186,7 +3037,7 @@
     "47": {
         "id": 47,
         "name": "\u6708\u898b\u3057\u305a\u304f",
-        "picPath": "src/member/tsukimi_shizuku.png",
+        "picPath": "src\/member\/tsukimi_shizuku.png",
         "channelid": "UCqQV8xEBWd5SVZBLlYrS_5Q",
         "twitterid": "tukimi_sizuku",
         "vocabulary": []
@@ -1194,15 +3045,21 @@
     "48": {
         "id": 48,
         "name": "\u30b8\u30e7\u30fc\u30fb\u529b\u4e00",
-        "picPath": "src/member/jo_rikiichi.png",
+        "picPath": "src\/member\/jo_rikiichi.png",
         "channelid": "UChUJbHiTVeGrSkTdBzVfNCQ",
         "twitterid": "JoeRikiichi",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u9023\u308c\u3066\u884c\u304d\u306a\u3055\u3044",
+                "48_Tsureteikinasai",
+                "snger"
+            ]
+        ]
     },
     "49": {
         "id": 49,
         "name": "\u9060\u5317\u5343\u5357",
-        "picPath": "src/member/achikita_chinami.png",
+        "picPath": "src\/member\/achikita_chinami.png",
         "channelid": "UCuz0vzQgC8LRdS6lVV0UkUg",
         "twitterid": "ac1kt",
         "vocabulary": [
@@ -1216,23 +3073,35 @@
     "50": {
         "id": 50,
         "name": "\u6210\u702c\u9cf4",
-        "picPath": "src/member/naruse_naru.png",
+        "picPath": "src\/member\/naruse_naru.png",
         "channelid": "UCoM_XmK45j504hfUWvN06Qg",
         "twitterid": "narusenaru_2434",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u30cb\u30b8\u30a4\u30ed\u30af\u30ef\u30ac\u30bf\u3063\u3066\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u539f\u7523\u306a\u306e\u3088",
+                "50_minnakuwagatawakattenai",
+                "other"
+            ]
+        ]
     },
     "51": {
         "id": 51,
         "name": "\u30d9\u30eb\u30e2\u30f3\u30c9\u30fb\u30d0\u30f3\u30c7\u30e9\u30b9",
-        "picPath": "src/member/belmondo_banderasu.png",
+        "picPath": "src\/member\/belmondo_banderasu.png",
         "channelid": "UCbc8fwhdUNlqi-J99ISYu4A",
         "twitterid": "belmond_b_2434",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u3082\u3046\u3044\u3044\uff01\u4ffa\u304c\u884c\u304f\uff01",
+                "51_Mouiioregaiku",
+                "other"
+            ]
+        ]
     },
     "52": {
         "id": 52,
         "name": "\u77e2\u8eca\u308a\u306d",
-        "picPath": "src/member/yaguruma_rine.png",
+        "picPath": "src\/member\/yaguruma_rine.png",
         "channelid": "UCvzVB-EYuHFXHZrObB8a_Og",
         "twitterid": "Rine_Yaguruma",
         "vocabulary": []
@@ -1240,7 +3109,7 @@
     "53": {
         "id": 53,
         "name": "\u5922\u8ffd\u7fd4",
-        "picPath": "src/member/yumeoi_kakeru.png",
+        "picPath": "src\/member\/yumeoi_kakeru.png",
         "channelid": "UCTIE7LM5X15NVugV7Krp9Hw",
         "twitterid": "kakeru_yumeoi",
         "vocabulary": []
@@ -1248,7 +3117,7 @@
     "54": {
         "id": 54,
         "name": "\u9ed2\u4e95\u3057\u3070",
-        "picPath": "src/member/kuroi_shiba.png",
+        "picPath": "src\/member\/kuroi_shiba.png",
         "channelid": "UCmeyo5pRj_6PXG-CsGUuWWg",
         "twitterid": "BlackShiba_chan",
         "vocabulary": []
@@ -1256,7 +3125,7 @@
     "55": {
         "id": 55,
         "name": "\u7ae5\u7530\u660e\u6cbb",
-        "picPath": "src/member/warabeda_meiji.png",
+        "picPath": "src\/member\/warabeda_meiji.png",
         "channelid": "UCveZ9Ic1VtcXbsyaBgxPMvg",
         "twitterid": "warabeda_meiji",
         "vocabulary": []
@@ -1264,7 +3133,7 @@
     "56": {
         "id": 56,
         "name": "\u90e1\u9053\u7f8e\u73b2",
-        "picPath": "src/member/gundou_mirei.png",
+        "picPath": "src\/member\/gundou_mirei.png",
         "channelid": "UCeShTCVgZyq2lsBW9QwIJcw",
         "twitterid": "g9v9g_mirei",
         "vocabulary": [
@@ -1309,7 +3178,7 @@
                 "other"
             ],
             [
-                "\u6c17\u5206\u304c\u826f\u304f\u306a\u3063\u3061\u3083\u3044\u307e\u3057\u305f//",
+                "\u6c17\u5206\u304c\u826f\u304f\u306a\u3063\u3061\u3083\u3044\u307e\u3057\u305f\/\/",
                 "56_Kibungayokunattyaimasita",
                 "joy"
             ],
@@ -1319,7 +3188,7 @@
                 "other"
             ],
             [
-                "\u805e\u3044\u3066\u308b\uff1f//",
+                "\u805e\u3044\u3066\u308b\uff1f\/\/",
                 "56_Kiiteru",
                 "other"
             ],
@@ -1359,7 +3228,7 @@
                 "other"
             ],
             [
-                "\u3048\u3078...\u304a\u5e30\u308a//",
+                "\u3048\u3078...\u304a\u5e30\u308a\/\/",
                 "56_Okaeri",
                 "joy"
             ],
@@ -1394,7 +3263,7 @@
                 "other"
             ],
             [
-                "\u6d8e\u5782\u308c\u3061\u3083\u3063\u305f//",
+                "\u6d8e\u5782\u308c\u3061\u3083\u3063\u305f\/\/",
                 "56_Yodaretaretyatta",
                 "other"
             ],
@@ -1412,13 +3281,43 @@
                 "\u690e\u540d\u552f\u83ef\u3068\u30a4\u30c1\u30e3\u30a4\u30c1\u30e3\u3057\u305f\u3044\u3093\u3058\u3083",
                 "56_Shiinayuikatoityaitya",
                 "other"
+            ],
+            [
+                "\u30c9S\u5973\u6559\u5e2b\u305f\u308b\u3082\u306e\u3053\u306e\u304f\u3089\u3044\u306f\u3067\u304d\u306a\u3044\u3068\u306d",
+                "56_Doesukyositarumono",
+                "other"
+            ],
+            [
+                "\u6c17\u6301\u3061\u60aa\u3044\u3093\u3060\u3088\uff01\uff01",
+                "56_Kimotiwaruinndayo",
+                "anger"
+            ],
+            [
+                "\u55b0\u3089\u3044\u306a\u3055\u3044\uff01\u79c1\u306e\u30ad\u30c3\u30af\uff01",
+                "56_Kurainasaiwatashinokikku",
+                "other"
+            ],
+            [
+                "\u30e9\u30d6\u30ea\u30fc\u7f8e\u73b2\u3060\u306b\u3083\u30fc\u3093",
+                "56_Raburiimireidanyann",
+                "joy"
+            ],
+            [
+                "\u3046\u308b\u305b\u3047\u6b62\u307e\u308c\u306d\u3047\u3093\u3060\u3088\uff01",
+                "56_Uruseetomarenendayo",
+                "anger"
+            ],
+            [
+                "\u81ea\u5206\u304c\u4f55\u3067\u751f\u304d\u3066\u3044\u308b\u306e\u304b\u5206\u304b\u3093\u306a\u304f\u306a\u3063\u3066\u304d\u305f",
+                "56_Zibunnganannde",
+                "other"
             ]
         ]
     },
     "57": {
         "id": 57,
         "name": "\u5922\u6708\u30ed\u30a2",
-        "picPath": "src/member/yuzuki_roa.png",
+        "picPath": "src\/member\/yuzuki_roa.png",
         "channelid": "UCCVwhI5trmaSxfcze_Ovzfw",
         "twitterid": "yuzuki_roa",
         "vocabulary": [
@@ -1612,7 +3511,7 @@
     "58": {
         "id": 58,
         "name": "\u5c0f\u91ce\u753a\u6625\u9999",
-        "picPath": "src/member/onomachi_haruka.png",
+        "picPath": "src\/member\/onomachi_haruka.png",
         "channelid": "UCg63a3lk6PNeWhVvMRM_mrQ",
         "twitterid": "onomachi_haruka",
         "vocabulary": [
@@ -1631,7 +3530,7 @@
     "59": {
         "id": 59,
         "name": "\u8a9e\u90e8\u7d21",
-        "picPath": "src/member/kataribe_tumugu.png",
+        "picPath": "src\/member\/kataribe_tumugu.png",
         "channelid": "UCufQu4q65z63IgE4cfKs1BQ",
         "twitterid": "KataribeTsumugu",
         "vocabulary": []
@@ -1639,7 +3538,7 @@
     "60": {
         "id": 60,
         "name": "\u702c\u6238\u7f8e\u591c\u5b50",
-        "picPath": "src/member/seto_miyako.png",
+        "picPath": "src\/member\/seto_miyako.png",
         "channelid": "UCHK5wkevfaGrPr7j3g56Jmw",
         "twitterid": "seto_miyako",
         "vocabulary": []
@@ -1647,7 +3546,7 @@
     "61": {
         "id": 61,
         "name": "\u5fa1\u4f3d\u539f\u6c5f\u826f",
-        "picPath": "src/member/otogibara_era.png",
+        "picPath": "src\/member\/otogibara_era.png",
         "channelid": "UCwQ9Uv-m8xkE5PzRc7Bqx3Q",
         "twitterid": "OtogibaraEra",
         "vocabulary": [
@@ -1686,7 +3585,7 @@
     "62": {
         "id": 62,
         "name": "\u620c\u4ea5\u3068\u3053",
-        "picPath": "src/member/inui_toko.png",
+        "picPath": "src\/member\/inui_toko.png",
         "channelid": "UCXRlIK3Cw_TJIQC5kSJJQMg",
         "twitterid": "inui_toko",
         "vocabulary": [
@@ -1694,13 +3593,18 @@
                 "\u3076\u3044\u3061\u3085\u3063\u3070\u3061\u3063\u3077\u3059",
                 "62_Vtuppatippusu",
                 "other"
+            ],
+            [
+                "\u620c\u4ea5\u3053\u3053\uff01\u30ea\u30bc\u30d2\u30e8\u30b3\uff01\u30a2\u30f3\u30b8\u30e5\u307a\u3063\u305f\u3093\u3053\uff01",
+                "62_Inuidoko",
+                "other"
             ]
         ]
     },
     "63": {
         "id": 63,
         "name": "\u30a2\u30f3\u30b8\u30e5\u30fb\u30ab\u30c8\u30ea\u30fc\u30ca",
-        "picPath": "src/member/ange_katrina.png",
+        "picPath": "src\/member\/ange_katrina.png",
         "channelid": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "twitterid": "Ange_Katrina_",
         "vocabulary": [
@@ -1774,7 +3678,7 @@
     "64": {
         "id": 64,
         "name": "\u30ea\u30bc\u30fb\u30d8\u30eb\u30a8\u30b9\u30bf",
-        "picPath": "src/member/rize_heruesuta.png",
+        "picPath": "src\/member\/rize_heruesuta.png",
         "channelid": "UCZ1xuCK1kNmn5RzPYIZop3w",
         "twitterid": "Lize_Helesta",
         "vocabulary": [
@@ -1782,21 +3686,32 @@
                 "*\u307f\u3068\u307f\u3068\u4e16\u754c\u3067\u4e00\u756a\u611b\u3057\u3066\u308b",
                 "64_Iitaikotogaarundayo",
                 "other"
+            ],
+            [
+                "\u30b9\u30e9\u30e0\u8857\u306b\u6bd2\u3092\u6492\u3051\u3047\uff01",
+                "64_Suramugainidokuwomake",
+                "other"
             ]
         ]
     },
     "65": {
         "id": 65,
         "name": "\u4e09\u679d\u660e\u90a3",
-        "picPath": "src/member/saegusa_akina.png",
+        "picPath": "src\/member\/saegusa_akina.png",
         "channelid": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
         "twitterid": "333akina",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u30ce\u30fc\u30b9\u30ea\u30fc\u30d6\u306e\u30b7\u30e7\u30bf\u3092\u30ef\u30ad\u306e\u90e8\u5206\u304b\u3089\u624b\u3092\u30ac\u30c3\u3066\u5165\u308c\u305f\u3044",
+                "65_Nosleeve",
+                "bad"
+            ]
+        ]
     },
     "66": {
         "id": 66,
         "name": "\u611b\u5712\u611b\u7f8e",
-        "picPath": "src/member/aizono_manami.png",
+        "picPath": "src\/member\/aizono_manami.png",
         "channelid": "UC0WwEfE-jOM2rzjpdfhTzZA",
         "twitterid": "manami_aizono",
         "vocabulary": []
@@ -1804,7 +3719,7 @@
     "67": {
         "id": 67,
         "name": "\u9234\u539f\u308b\u308b",
-        "picPath": "src/member/suzuhara_lulu.png",
+        "picPath": "src\/member\/suzuhara_lulu.png",
         "channelid": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
         "twitterid": "lulu_suzuhara",
         "vocabulary": [
@@ -1822,13 +3737,23 @@
                 "\u3064\u3088\u3044\uff01",
                 "67_Tuyoi",
                 "other"
+            ],
+            [
+                "\u96fb\u8a71\u3059\u308b\u524d\u306b\u96fb\u8a71\u3057\u3066\u6b32\u3057\u3044\u3067\u3059\u3088\u306d",
+                "67_Denwasurumaenidenwasite",
+                "other"
+            ],
+            [
+                "\u4eba\u9593\u3054\u3068\u304d\u304c\uff01",
+                "67_Ningengotokiga",
+                "anger"
             ]
         ]
     },
     "68": {
         "id": 68,
         "name": "\u96ea\u57ce\u771e\u5c0b",
-        "picPath": "src/member/yukishiro_mahiro.png",
+        "picPath": "src\/member\/yukishiro_mahiro.png",
         "channelid": "UCHX7YpFG8rVwhsHCx34xt7w",
         "twitterid": "MahiroYukishiro",
         "vocabulary": []
@@ -1836,7 +3761,7 @@
     "69": {
         "id": 69,
         "name": "\u30a8\u30af\u30b9\u30fb\u30a2\u30eb\u30d3\u30aa",
-        "picPath": "src/member/ex_albio.png",
+        "picPath": "src\/member\/ex_albio.png",
         "channelid": "UCIytNcoz4pWzXfLda0DoULQ",
         "twitterid": "Ex_Albio",
         "vocabulary": [
@@ -1885,7 +3810,7 @@
     "70": {
         "id": 70,
         "name": "\u30ec\u30f4\u30a3\u30fb\u30a8\u30ea\u30d5\u30a1",
-        "picPath": "src/member/levi_elipha.png",
+        "picPath": "src\/member\/levi_elipha.png",
         "channelid": "UCtnO2N4kPTXmyvedjGWdx3Q",
         "twitterid": "Levi_E_2434",
         "vocabulary": [
@@ -1904,7 +3829,7 @@
     "71": {
         "id": 71,
         "name": "\u8449\u5c71\u821e\u9234",
-        "picPath": "src/member/hayama_marin.png",
+        "picPath": "src\/member\/hayama_marin.png",
         "channelid": "UCfipDDn7wY-C-SoUChgxCQQ",
         "twitterid": "Hayama_Marin",
         "vocabulary": [
@@ -1928,7 +3853,7 @@
     "72": {
         "id": 72,
         "name": "\u30cb\u30e5\u30a4\u30fb\u30bd\u30b7\u30a8\u30fc\u30eb",
-        "picPath": "src/member/nui_sociere.png",
+        "picPath": "src\/member\/nui_sociere.png",
         "channelid": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
         "twitterid": "Nui_Sociere",
         "vocabulary": [
@@ -1951,21 +3876,32 @@
                 "\u30ef\u30a2\u309b\u30a2\u309b\u30a2\u309b\u30a2\u309b\uff08\u30bd\u30b7\u3048\u3082\u3093\uff09",
                 "72_Sosiemonn",
                 "surprise"
+            ],
+            [
+                "\u30ef\u30a1\u309b\u30a1\u309b\u30a1\u309b\u30a1\u309b\uff08\u30bd\u30b7\u3048\u3082\u3093\uff09",
+                "72_Sosiemon2",
+                "other"
             ]
         ]
     },
     "73": {
         "id": 73,
         "name": "\u8449\u52a0\u702c\u51ac\u96ea",
-        "picPath": "src/member/hakase_fuyuki.png",
+        "picPath": "src\/member\/hakase_fuyuki.png",
         "channelid": "UCGYAYLDE7TZiiC8U6teciDQ",
         "twitterid": "Hakase_Fuyuki",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u3055\u3042\u884c\u3051\uff01\u3057\u3083\u3061\u3087\uff01",
+                "73_Saaikesyatyo",
+                "other"
+            ]
+        ]
     },
     "74": {
         "id": 74,
         "name": "\u52a0\u8cc0\u7f8e\u30cf\u30e4\u30c8",
-        "picPath": "src/member/kagami_hayato.png",
+        "picPath": "src\/member\/kagami_hayato.png",
         "channelid": "UCmovZ2th3Sqpd00F5RdeigQ",
         "twitterid": "H_KAGAMI2434",
         "vocabulary": []
@@ -1973,7 +3909,7 @@
     "75": {
         "id": 75,
         "name": "\u591c\u898b\u308c\u306a",
-        "picPath": "src/member/yorumi_rena.png",
+        "picPath": "src\/member\/yorumi_rena.png",
         "channelid": "UCL34fAoFim9oHLbVzMKFavQ",
         "twitterid": "rena_yorumi",
         "vocabulary": [
@@ -1992,7 +3928,7 @@
     "76": {
         "id": 76,
         "name": "\u9edb\u7070",
-        "picPath": "src/member/mayuzumi_kai.png",
+        "picPath": "src\/member\/mayuzumi_kai.png",
         "channelid": "UCb5JxV6vKlYVknoJB8TnyYg",
         "twitterid": "mayuzumi_X",
         "vocabulary": [
@@ -2010,13 +3946,18 @@
                 "\u3061\u3087\u3044\u3061\u3087\u3044\u3061\u3087\u30fc\u3044\uff01\u305d...\u308c...\u306f...\u30d5\u30a3\u30c3\u30b7\u30e5\u3067\u3057\u3087\u3046\u304c\u3088\u30fc\uff01",
                 "76_Tyoityoi",
                 "joy"
+            ],
+            [
+                "\u3046\u3044\u306f\u306f\u30d6\u30eb\u30fc\u30ba\u306b\u3066\u6700\u5f37\u3060\u304b\u3089",
+                "76_Uihahabluesnitesaikyo",
+                "other"
             ]
         ]
     },
     "77": {
         "id": 77,
         "name": "\u30a2\u30eb\u30b9\u30fb\u30a2\u30eb\u30de\u30eb",
-        "picPath": "src/member/ars_almal.png",
+        "picPath": "src\/member\/ars_almal.png",
         "channelid": "UCdpUojq0KWZCN9bxXnZwz5w",
         "twitterid": "ars_almal",
         "vocabulary": [
@@ -2165,7 +4106,7 @@
     "78": {
         "id": 78,
         "name": "\u76f8\u7fbd\u3046\u3044\u306f",
-        "picPath": "src/member/aiba_uiha.png",
+        "picPath": "src\/member\/aiba_uiha.png",
         "channelid": "UCnRQYHTnRLSF0cLJwMnedCg",
         "twitterid": "AibaUiha",
         "vocabulary": [
@@ -2189,7 +4130,7 @@
     "79": {
         "id": 79,
         "name": "\u5929\u5bae\u3053\u3053\u308d",
-        "picPath": "src/member/amamiya_kokoro.png",
+        "picPath": "src\/member\/amamiya_kokoro.png",
         "channelid": "UCkIimWZ9gBJRamKF0rmPU8w",
         "twitterid": "amamiya_kokoro",
         "vocabulary": [
@@ -2238,7 +4179,7 @@
     "80": {
         "id": 80,
         "name": "\u30a8\u30ea\u30fc\u30fb\u30b3\u30cb\u30d5\u30a1\u30fc",
-        "picPath": "src/member/eli_conifer.png",
+        "picPath": "src\/member\/eli_conifer.png",
         "channelid": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
         "twitterid": "Eli_Conifer",
         "vocabulary": [
@@ -2262,7 +4203,7 @@
     "81": {
         "id": 81,
         "name": "\u30e9\u30c8\u30ca\u30fb\u30d7\u30c6\u30a3",
-        "picPath": "src/member/ratna_petit.png",
+        "picPath": "src\/member\/ratna_petit.png",
         "channelid": "UCIG9rDtgR45VCZmYnd-4DUw",
         "twitterid": "ratna_petit",
         "vocabulary": []
@@ -2270,7 +4211,7 @@
     "82": {
         "id": 82,
         "name": "\u65e9\u702c\u8d70",
-        "picPath": "src/member/hayase_sou.png",
+        "picPath": "src\/member\/hayase_sou.png",
         "channelid": "UC2OacIzd2UxGHRGhdHl1Rhw",
         "twitterid": "SouHayase",
         "vocabulary": []
@@ -2278,7 +4219,7 @@
     "83": {
         "id": 83,
         "name": "\u5065\u5c4b\u82b1\u90a3",
-        "picPath": "src/member/sukoya_kana.png",
+        "picPath": "src\/member\/sukoya_kana.png",
         "channelid": "UC8C1LLhBhf_E2IBPLSDJXlQ",
         "twitterid": "sukosuko_sukoya",
         "vocabulary": [
@@ -2297,7 +4238,7 @@
     "84": {
         "id": 84,
         "name": "\u30b7\u30a7\u30ea\u30f3\u30fb\u30d0\u30fc\u30ac\u30f3\u30c7\u30a3",
-        "picPath": "src/member/shellin_burgundy.png",
+        "picPath": "src\/member\/shellin_burgundy.png",
         "channelid": "UCHBhnG2G-qN0JrrWmMO2FTA",
         "twitterid": "ShellinBurgundy",
         "vocabulary": [
@@ -2320,13 +4261,18 @@
                 "\u95c7\u3092\u304b\u3051\u308b\u5973\u602a\u76d7\u30c3\uff7d\uff7d\uff01",
                 "84_Yamiwokakeru",
                 "other"
+            ],
+            [
+                "\u4e0b\u4e16\u8a71\u540d\u63a2\u5075\u30b2\u30d2\u30f3\u30fb\u30d0\u30fc\u30ac\u30f3\u30c7\u30a3\u3067\u3054\u3056\u3044\u307e\u3059\uff01",
+                "84_Gesewameitantei",
+                "other"
             ]
         ]
     },
     "85": {
         "id": 85,
         "name": "\u30d5\u30df",
-        "picPath": "src/member/fumi.png",
+        "picPath": "src\/member\/fumi.png",
         "channelid": "UCwrjITPwG4q71HzihV2C7Nw",
         "twitterid": "FumiVirtual",
         "vocabulary": [
@@ -2355,7 +4301,7 @@
     "86": {
         "id": 86,
         "name": "\u5c71\u795e\u30ab\u30eb\u30bf",
-        "picPath": "src/member/yamagami_karuta.png",
+        "picPath": "src\/member\/yamagami_karuta.png",
         "channelid": "UCllKI7VjyANuS1RXatizfLQ",
         "twitterid": "Karuta_Yamagami",
         "vocabulary": [
@@ -2374,7 +4320,7 @@
     "87": {
         "id": 87,
         "name": "\u661f\u5ddd\u30b5\u30e9",
-        "picPath": "src/member/hoshikawa_sara.png",
+        "picPath": "src\/member\/hoshikawa_sara.png",
         "channelid": "UC9V3Y3_uzU5e-usObb6IE1w",
         "twitterid": "Sara_Hoshikawa",
         "vocabulary": [
@@ -2528,7 +4474,7 @@
     "88": {
         "id": 88,
         "name": "\u3048\u307e\u2605\u304a\u3046\u304c\u3059\u3068",
-        "picPath": "src/member/emma_august.png",
+        "picPath": "src\/member\/emma_august.png",
         "channelid": "UCl1oLKcAq93p-pwKfDGhiYQ",
         "twitterid": "emma_august_",
         "vocabulary": [
@@ -2612,7 +4558,7 @@
     "89": {
         "id": 89,
         "name": "\u30eb\u30a4\u30b9\u30fb\u30ad\u30e3\u30df\u30fc",
-        "picPath": "src/member/luis_cammy.png",
+        "picPath": "src\/member\/luis_cammy.png",
         "channelid": "UCb6ObE-XGCctO3WrjRZC-cw",
         "twitterid": "Luis_Cammy",
         "vocabulary": [
@@ -2631,7 +4577,7 @@
     "90": {
         "id": 90,
         "name": "\u9b54\u4f7f\u30de\u30aa",
-        "picPath": "src/member/matsukai_mao.png",
+        "picPath": "src\/member\/matsukai_mao.png",
         "channelid": "UCerkculBD7YLc_vOGrF7tKg",
         "twitterid": "matsukai_mao",
         "vocabulary": [
@@ -2665,7 +4611,7 @@
     "91": {
         "id": 91,
         "name": "\u4e0d\u7834\u6e4a",
-        "picPath": "src/member/minato_fuwa.png",
+        "picPath": "src\/member\/minato_fuwa.png",
         "channelid": "UC6wvdADTJ88OfIbJYIpAaDA",
         "twitterid": "Fuwa_Minato",
         "vocabulary": [
@@ -2688,18 +4634,23 @@
                 "\u304a\u524d\u3089\u306e\u3053\u3068\u597d\u304d\u3060\u3051\u3069 ..\u4ffa\u3001\u30db\u30b9\u30c8\u3060\u304b\u3089 ..",
                 "91_Omaeranokotosukidakedo",
                 "other"
+            ],
+            [
+                "\u6765\u5e74\u4f55\u6708\u304f\u3089\u3044\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u304b\uff1f",
+                "91_Rainennnangatukara",
+                "other"
             ]
         ]
     },
     "92": {
         "id": 92,
         "name": "\u767d\u96ea\u5df4",
-        "picPath": "src/member/tomoe_shirayuki.png",
+        "picPath": "src\/member\/tomoe_shirayuki.png",
         "channelid": "UCuvk5PilcvDECU7dDZhQiEw",
         "twitterid": "Tomoe_Shirayuki",
         "vocabulary": [
             [
-                "\u30a2\u30a1\u30fc\u30c3//\u2661 \u30a2\u30a2\u30fc\u30c3//\u2661",
+                "\u30a2\u30a1\u30fc\u30c3\/\/\u2661 \u30a2\u30a2\u30fc\u30c3\/\/\u2661",
                 "92_Aaaaaaa",
                 "other"
             ],
@@ -2724,7 +4675,7 @@
                 "other"
             ],
             [
-                "\u3061\u3087\u3063\u3068\u4ecaS\u51fa\u3057\u3061\u3083\u3063\u305f// \u30b4\u30e1\u30f3\u306d..",
+                "\u3061\u3087\u3063\u3068\u4ecaS\u51fa\u3057\u3061\u3083\u3063\u305f\/\/ \u30b4\u30e1\u30f3\u306d..",
                 "92_Tyottoimasdashityatta",
                 "other"
             ],
@@ -2738,7 +4689,7 @@
     "93": {
         "id": 93,
         "name": "\u30b0\u30a6\u30a7\u30eb\u30fb\u30aa\u30b9\u30fb\u30ac\u30fc\u30eb",
-        "picPath": "src/member/gwelu_os_gar.png",
+        "picPath": "src\/member\/gwelu_os_gar.png",
         "channelid": "UC1QgXt46-GEvtNjEC1paHnw",
         "twitterid": "Gwelu_os_gar",
         "vocabulary": []
@@ -2746,7 +4697,7 @@
     "94": {
         "id": 94,
         "name": "\u307e\u3057\u308d",
-        "picPath": "src/member/mashiro.png",
+        "picPath": "src\/member\/mashiro.png",
         "channelid": "UCfki3lMEF6SGBFiFfo9kvUA",
         "twitterid": "mashiro2434",
         "vocabulary": []
@@ -2754,7 +4705,7 @@
     "95": {
         "id": 95,
         "name": "\u5948\u7f85\u82b1",
-        "picPath": "src/member/naraka.png",
+        "picPath": "src\/member\/naraka.png",
         "channelid": "UC-o-E6I3IC2q8sAoAuM6Umg",
         "twitterid": "Naraka_2434",
         "vocabulary": []
@@ -2762,7 +4713,7 @@
     "96": {
         "id": 96,
         "name": "\u6765\u6816\u590f\u82bd",
-        "picPath": "src/member/natsume_kurusu.png",
+        "picPath": "src\/member\/natsume_kurusu.png",
         "channelid": "UCRcLAVTbmx2-iNcXSsupdNA",
         "twitterid": "kurusu72me",
         "vocabulary": []
@@ -2770,7 +4721,7 @@
     "97": {
         "id": 97,
         "name": "\u30d5\u30ec\u30f3\u30fbE\u30fb\u30eb\u30b9\u30bf\u30ea\u30aa",
-        "picPath": "src/member/furen_e_lustario.png",
+        "picPath": "src\/member\/furen_e_lustario.png",
         "channelid": "UCuep1JCrMvSxOGgGhBfJuYw",
         "twitterid": "furen_2434",
         "vocabulary": []
@@ -2778,15 +4729,31 @@
     "98": {
         "id": 98,
         "name": "\u30a4\u30d6\u30e9\u30d2\u30e0",
-        "picPath": "src/member/ibrahim.png",
+        "picPath": "src\/member\/ibrahim.png",
         "channelid": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
         "twitterid": "honmono_ibrahim",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u611b\u3057\u3066\u308b\u3088\u3002\u4eca\u591c\u306f\u304a\u524d\u306e\u3053\u3068\u8fd4\u3059\u3064\u3082\u308a\u306d\u30fc\u304b\u3089",
+                "98_Aisiteruyo",
+                "other"
+            ],
+            [
+                "\u304a\u3043\u304a\u3043\u304a\u3043\u304a\u3043\u2191",
+                "98_Oioioi",
+                "surprise"
+            ],
+            [
+                "\u4ffa\u306e\uff71\uff9a\u304c\uff71\uff9a\u3057\u3066\u308b\u3063\u3066\uff01",
+                "98_Orenoarega",
+                "other"
+            ]
+        ]
     },
     "99": {
         "id": 99,
         "name": "\u30e1\u30ea\u30c3\u30b5\u30fb\u30ad\u30f3\u30ec\u30f3\u30ab",
-        "picPath": "src/member/melissa_kinrenka.png",
+        "picPath": "src\/member\/melissa_kinrenka.png",
         "channelid": "UCwcyyxn6h9ex4sMXGtpQE_g",
         "twitterid": "melissa_2434",
         "vocabulary": []
@@ -2794,7 +4761,7 @@
     "100": {
         "id": 100,
         "name": "\u9577\u5c3e\u666f",
-        "picPath": "src/member/kei_nagao.png",
+        "picPath": "src\/member\/kei_nagao.png",
         "channelid": "UCXW4MqCQn-jCaxlX-nn-BYg",
         "twitterid": "kei_nagao2434",
         "vocabulary": []
@@ -2802,7 +4769,7 @@
     "101": {
         "id": 101,
         "name": "\u5f26\u6708\u85e4\u58eb\u90ce",
-        "picPath": "src/member/tojiro_genzuki.png",
+        "picPath": "src\/member\/tojiro_genzuki.png",
         "channelid": "UCGw7lrT-rVZCWHfdG9Frcgg",
         "twitterid": "1O46V",
         "vocabulary": []
@@ -2810,7 +4777,7 @@
     "102": {
         "id": 102,
         "name": "\u7532\u6590\u7530\u6674",
-        "picPath": "src/member/haru_kaida.png",
+        "picPath": "src\/member\/haru_kaida.png",
         "channelid": "UCo2N7C-Z91waaR6lF3LL_jw",
         "twitterid": "Kaida_Haru",
         "vocabulary": []
@@ -2818,7 +4785,7 @@
     "103": {
         "id": 103,
         "name": "\u7a7a\u661f\u304d\u3089\u3081",
-        "picPath": "src/member/kirame_sorahoshi.png",
+        "picPath": "src\/member\/kirame_sorahoshi.png",
         "channelid": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "twitterid": "kirame_2434",
         "vocabulary": []
@@ -2826,7 +4793,7 @@
     "104": {
         "id": 104,
         "name": "\u671d\u65e5\u5357\u30a2\u30ab\u30cd",
-        "picPath": "src/member/akane_asahina.png",
+        "picPath": "src\/member\/akane_asahina.png",
         "channelid": "UCe_p3YEuYJb8Np0Ip9dk-FQ",
         "twitterid": "Akane_Asahina__",
         "vocabulary": []
@@ -2834,7 +4801,7 @@
     "105": {
         "id": 105,
         "name": "\u5468\u592e\u30b5\u30f3\u30b4",
-        "picPath": "src/member/sango_suo.png",
+        "picPath": "src\/member\/sango_suo.png",
         "channelid": "UCL_O_HXgLJx3Auteer0n0pA",
         "twitterid": "Suo_Sango",
         "vocabulary": []
@@ -2842,7 +4809,7 @@
     "106": {
         "id": 106,
         "name": "\u6771\u5802\u30b3\u30cf\u30af",
-        "picPath": "src/member/kohaku_todo.png",
+        "picPath": "src\/member\/kohaku_todo.png",
         "channelid": "UCebT4Aq-3XWb5je1S1FvR_A",
         "twitterid": "kohaku_todo",
         "vocabulary": []
@@ -2850,7 +4817,7 @@
     "107": {
         "id": 107,
         "name": "\u5317\u5c0f\u8def\u30d2\u30b9\u30a4",
-        "picPath": "src/member/hisui_kitakoji.png",
+        "picPath": "src\/member\/hisui_kitakoji.png",
         "channelid": "UCRqBKoKuX30ruKAq05pCeRQ",
         "twitterid": "Hisui_Kitakoji",
         "vocabulary": []
@@ -2858,7 +4825,7 @@
     "108": {
         "id": 108,
         "name": "\u897f\u5712\u30c1\u30b0\u30b5",
-        "picPath": "src/member/chigusa_nishizono.png",
+        "picPath": "src\/member\/chigusa_nishizono.png",
         "channelid": "UCkngxfPbmGyGl_RIq4FA3MQ",
         "twitterid": "Chigusa_24zono",
         "vocabulary": []
@@ -2866,7 +4833,7 @@
     "109": {
         "id": 109,
         "name": "\u30a2\u30af\u30b7\u30a2\u30fb\u30af\u30ed\u30fc\u30cd",
-        "picPath": "src/member/axia_krone.png",
+        "picPath": "src\/member\/axia_krone.png",
         "channelid": "UC8oPnditPSp5lZu45fnXWCA",
         "twitterid": "AXIA_96NE",
         "vocabulary": []
@@ -2874,7 +4841,7 @@
     "110": {
         "id": 110,
         "name": "\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9",
-        "picPath": "src/member/lauren_iroas.png",
+        "picPath": "src\/member\/lauren_iroas.png",
         "channelid": "UCgmFrRcyH7d1zR9sIVQhFow",
         "twitterid": "Lauren_iroas",
         "vocabulary": []
@@ -2882,7 +4849,7 @@
     "111": {
         "id": 111,
         "name": "\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8",
-        "picPath": "src/member/leos_vincent.png",
+        "picPath": "src\/member\/leos_vincent.png",
         "channelid": "UC-6rZgmxZSIbq786j3RD5ow",
         "twitterid": "Leos_Vincent",
         "vocabulary": []
@@ -2890,7 +4857,7 @@
     "112": {
         "id": 112,
         "name": "\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9",
-        "picPath": "src/member/oliver_evans.png",
+        "picPath": "src\/member\/oliver_evans.png",
         "channelid": "UCqjTqdVlvIipZXIKeCkHKUA",
         "twitterid": "oliverD_23",
         "vocabulary": []
@@ -2898,7 +4865,7 @@
     "113": {
         "id": 113,
         "name": "\u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3",
-        "picPath": "src/member/lain_paterson.png",
+        "picPath": "src\/member\/lain_paterson.png",
         "channelid": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
         "twitterid": "Lain_Paterson",
         "vocabulary": []

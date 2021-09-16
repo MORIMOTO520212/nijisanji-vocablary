@@ -25,26 +25,40 @@ if (@$_COOKIE["voice_add"] == True){
 <!doctype html>
 <html lang="ja">
     <head>
-        <title>にじさんじ語録</title>
+    <title>にじさんじ語録</title>
         <link rel="shortcut icon" href="src/logo.jpg">
         <link rel="stylesheet" type="text/css" href="assets/style.css">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="theme-color" content="#323639">
+        <meta name="theme-color" content="#EF7A03">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="にじさんじのライバーの語録をボイス形式としてまとめてます。" />
+        <meta name="keywords" content="にじさんじ, 語録">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@xsusa_vtuber">
+        <meta name="twitter:title" content="VTuber配信巡回">
+        <meta name="twitter:description" content="にじさんじのライバーの語録をボイス形式としてまとめてます。">
+        <meta name="twitter:image" content="src/ogp.png">
+        <meta property="og:title" content="VTuber配信巡回" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="にじさんじのライバーの語録をボイス形式としてまとめてます。" />
+        <meta property="og:url" content="http://xsusa.php.xdomain.jp/nijisanji/" />
+        <meta property="og:site_name" content="にじさんじ語録" />
+        <meta property="og:image" content="src/ogp.png" />
         <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151169093-1"></script>
         <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'UA-151169093-1');
-            var favorites = Cookies.get("favorites"); // cookie取得
-            if (favorites === undefined){
-                console.log("Cookie undefined");
-                Cookies.set("favorites", JSON.stringify(["PS","PS","PS"]));
+            if('localhost' != location.hostname){
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'UA-151169093-1');
+                var favorites = Cookies.get("favorites"); // cookie取得
+                if (favorites === undefined){
+                    console.log("Cookie undefined");
+                    Cookies.set("favorites", JSON.stringify(["PS","PS","PS"]));
+                }
             }
         </script>
         <script>
@@ -91,7 +105,6 @@ if (@$_COOKIE["voice_add"] == True){
                 }
             });
         </script>
-    </head>
     <NOSCRIPT>
         <body>
     </NOSCRIPT>      
@@ -99,8 +112,7 @@ if (@$_COOKIE["voice_add"] == True){
         <div class="header">
             <a href="#"><img src="src/homelogo.png"></a>
         </div>
-        <p class="text">ここでいう語録とは個人的観点に基づく面白い発言や名言などとする。</p>
-        <p class="text">※モバイル端末専用</p>
+        <p class="text">語録は個人的観点に基づいて作成しています。</p>
         <a href="about.html"><p class="text">ツールについての説明</p></a>
         <a href="news.html"><p class="text">ツール新規情報</p></a>
         <a href="favorite.php"><p class="text">お気に入りリスト</p></a>

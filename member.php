@@ -21,7 +21,7 @@ if (@$_COOKIE["favorites"] == True){
 <!DOCTYPE html>
 <html lang="ja">
     <head>
-        <title>にじさんじ語録ｽﾞ</title>
+        <title>にじさんじ語録</title>
         <link rel="shortcut icon" href="src/logo.jpg">
         <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
         <script type="text/javascript" src="assets/choice.js"></script>
