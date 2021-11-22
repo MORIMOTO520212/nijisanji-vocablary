@@ -115,6 +115,7 @@ if (@$_COOKIE["voice_add"] == True){
         <p class="text">語録は個人的観点に基づいて作成しています。</p>
         <a href="about.html"><p class="text">ツールについての説明</p></a>
         <a href="news.html"><p class="text">ツール新規情報</p></a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwytL1F2Axx059OVwpS6Y-zQOeL6aPYRS5C3qFh1GeiXQA1w/viewform?usp=sf_link"><p class="text">語録 募集フォーム</p></a>
         <a href="favorite.php"><p class="text">お気に入りリスト</p></a>
         <a href="#" onclick='displaymode();return false;'><p class="text">ダークモード変更</p></a>
         <p class="text">
