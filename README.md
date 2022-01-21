@@ -53,7 +53,8 @@ developer.php用のファイルでjsonに記録する。
 
 # ボイス追加手順
 ## 1. ボイスをmp3ファイルにする。  
-動画から取得した音声をmp3に変更し、詳細情報の「タイトル」に語録のテキスト、「参加アーティスト」にカテゴリ：greeting | joy | anger | sad | surprize | laugh | bad | dialect | nativeの中から1つを入れる。　　
+1.1. 動画から取得した音声をmp3に変更し、詳細情報の「タイトル」に語録のテキスト、「参加アーティスト」にカテゴリ：greeting | joy | anger | sad | surprize | laugh | bad | dialect | nativeの中から1つを入れる。　　
+1.2. タイトルに語録テキストを入れる。
 
 ## 2. mp3ファイルをsrc/newvoiceに移動する。
 ## 3. NewVoiceAdd.phpを実行して登録する。
@@ -62,6 +63,5 @@ developer.php用のファイルでjsonに記録する。
 
 
 # TODO
-・GoogleFormsから語録の追加申請をできるようにする。  
  ライバー名（必須）, 語録テキスト（必須）, 該当する動画リンク（任意）, その他要望
 ・ライバーの画像を更新する。

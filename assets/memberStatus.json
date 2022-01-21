@@ -3951,6 +3951,11 @@
                 "\u3046\u3044\u306f\u306f\u30d6\u30eb\u30fc\u30ba\u306b\u3066\u6700\u5f37\u3060\u304b\u3089",
                 "76_Uihahabluesnitesaikyo",
                 "other"
+            ],
+            [
+                "\u3069\u30fc\u3082\u3002",
+                "76_Domo",
+                "greeting"
             ]
         ]
     },
@@ -4804,7 +4809,28 @@
         "picPath": "src\/member\/sango_suo.png",
         "channelid": "UCL_O_HXgLJx3Auteer0n0pA",
         "twitterid": "Suo_Sango",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\uff78\uff9e\uff99\uff93\uff7a\uff8f\uff8c\uff8f\uff8c\uff92\uff9b\uff92\uff9b\uff9d\uff7a\uff9e\uff9d\uff7a\uff9e\u3060\u308f\u3053\u3093\u306a\u3093",
+                "105_Gurumokomafumafumeromerongongo",
+                "other"
+            ],
+            [
+                "\u3053\u3093\u306a\u3053\u3068\u3092\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\uff01",
+                "105_Konnakotowo",
+                "anger"
+            ],
+            [
+                "\u306d\uff5e\u3047\u2661\u30c1\u30e5\u30fc\u3057\u3088\uff1f",
+                "105_Neechusiyo",
+                "other"
+            ],
+            [
+                "\u3088\u304f\u9811\u5f35\u308a\u307e\u3057\u305f\uff01\u2661",
+                "105_Yokuganbarimashita",
+                "other"
+            ]
+        ]
     },
     "106": {
         "id": 106,
@@ -4852,7 +4878,13 @@
         "picPath": "src\/member\/leos_vincent.png",
         "channelid": "UC-6rZgmxZSIbq786j3RD5ow",
         "twitterid": "Leos_Vincent",
-        "vocabulary": []
+        "vocabulary": [
+            [
+                "\u8af8\u541b\uff01\u672c\u65e5\u306f\u304a\u96c6\u307e\u308a\u3044\u305f\u3060\u304d\u8aa0\u306b\u611f\u8b1d\u3059\u308b\u3002\u79c1\u3053\u305d\u304c\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8\u3060",
+                "111_Shokunhonjituha",
+                "greeting"
+            ]
+        ]
     },
     "112": {
         "id": 112,
