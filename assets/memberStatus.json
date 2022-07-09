@@ -2,7 +2,7 @@
     "1": {
         "id": 1,
         "name": "\u6708\u30ce\u7f8e\u514e",
-        "picPath": "src\/member\/tsukino_mito.png",
+        "picPath": "src/member/tsukino_mito.png",
         "channelid": "UCD-miitqNY3nyukJ4Fnf4_A",
         "twitterid": "MitoTsukino",
         "vocabulary": [
@@ -111,7 +111,7 @@
     "2": {
         "id": 2,
         "name": "\u52c7\u6c17\u3061\u3072\u308d",
-        "picPath": "src\/member\/yuuki_chihiro.png",
+        "picPath": "src/member/yuuki_chihiro.png",
         "channelid": "UCLO9QDxVL4bnvRRsz6K4bsQ",
         "twitterid": "Chihiro_yuki23",
         "vocabulary": [
@@ -195,7 +195,7 @@
     "3": {
         "id": 3,
         "name": "\u3048\u308b",
-        "picPath": "src\/member\/elu.png",
+        "picPath": "src/member/elu.png",
         "channelid": "UCYKP16oMX9KKPbrNgo_Kgag",
         "twitterid": "Elu_World",
         "vocabulary": [
@@ -234,7 +234,7 @@
     "4": {
         "id": 4,
         "name": "\u6a0b\u53e3\u6953",
-        "picPath": "src\/member\/higuchi_kaede.png",
+        "picPath": "src/member/higuchi_kaede.png",
         "channelid": "UCsg-YqdqQ-KFF0LNk23BY4A",
         "twitterid": "HiguchiKaede",
         "vocabulary": [
@@ -268,7 +268,7 @@
     "5": {
         "id": 5,
         "name": "\u9759\u51db",
-        "picPath": "src\/member\/shizuka_rin.png",
+        "picPath": "src/member/shizuka_rin.png",
         "channelid": "UC6oDys1BGgBsIC3WhG1BovQ",
         "twitterid": "ShizuRin23",
         "vocabulary": [
@@ -292,7 +292,7 @@
     "6": {
         "id": 6,
         "name": "\u6e0b\u8c37\u30cf\u30b8\u30e1",
-        "picPath": "src\/member\/shibuya_hajime.png",
+        "picPath": "src/member/shibuya_hajime.png",
         "channelid": "UCeK9HFcRZoTrvqcUCtccMoQ",
         "twitterid": "sibuya_hajime",
         "vocabulary": [
@@ -316,7 +316,7 @@
     "7": {
         "id": 7,
         "name": "\u9234\u8c37\u30a2\u30ad",
-        "picPath": "src\/member\/suzuya_aki.png",
+        "picPath": "src/member/suzuya_aki.png",
         "channelid": "UCpnvhOIJ6BN-vPkYU9ls-Eg",
         "twitterid": "aki_suzuya",
         "vocabulary": [
@@ -330,7 +330,7 @@
     "8": {
         "id": 8,
         "name": "\u30e2\u30a4\u30e9",
-        "picPath": "src\/member\/moira.png",
+        "picPath": "src/member/moira.png",
         "channelid": "UCvmppcdYf4HOv-tFQhHHJMA",
         "twitterid": "Moiramoimoimoi",
         "vocabulary": [
@@ -344,7 +344,7 @@
     "9": {
         "id": 9,
         "name": "\u9234\u9e7f\u8a69\u5b50",
-        "picPath": "src\/member\/suzuka_utako.png",
+        "picPath": "src/member/suzuka_utako.png",
         "channelid": "UCwokZsOK_uEre70XayaFnzA",
         "twitterid": "suzukautako",
         "vocabulary": [
@@ -373,7 +373,7 @@
     "10": {
         "id": 10,
         "name": "\u5bb6\u9577\u3080\u304e",
-        "picPath": "src\/member\/ienaga_mugi.png",
+        "picPath": "src/member/ienaga_mugi.png",
         "channelid": "UC_GCs6GARLxEHxy1w40d6VQ",
         "twitterid": "ienaga_mugi23",
         "vocabulary": [
@@ -402,7 +402,7 @@
     "11": {
         "id": 11,
         "name": "\u5b87\u5fd7\u6d77\u3044\u3061\u3054",
-        "picPath": "src\/member\/ushimi_ichigo.png",
+        "picPath": "src/member/ushimi_ichigo.png",
         "channelid": "UCmUjjW5zF1MMOhYUwwwQv9Q",
         "twitterid": "ushimi_ichigo",
         "vocabulary": [
@@ -441,7 +441,7 @@
     "12": {
         "id": 12,
         "name": "\u5915\u967d\u30ea\u30ea",
-        "picPath": "src\/member\/yuuhi_riri.png",
+        "picPath": "src/member/yuuhi_riri.png",
         "channelid": "UC48jH1ul-6HOrcSSfoR02fQ",
         "twitterid": "Yuuhi_Riri",
         "vocabulary": []
@@ -449,7 +449,7 @@
     "13": {
         "id": 13,
         "name": "\u7269\u8ff0\u6709\u6816",
-        "picPath": "src\/member\/mononobe_arisu.png",
+        "picPath": "src/member/mononobe_arisu.png",
         "channelid": "UCt0clH12Xk1-Ej5PXKGfdPA",
         "twitterid": "AliceMononobe",
         "vocabulary": [
@@ -463,7 +463,7 @@
     "14": {
         "id": 14,
         "name": "\u6587\u91ce\u74b0",
-        "picPath": "src\/member\/humino_tamaki.png",
+        "picPath": "src/member/humino_tamaki.png",
         "channelid": "UCBiqkFJljoxAj10SoP2w2Cg",
         "twitterid": "nekokan_chu",
         "vocabulary": []
@@ -471,7 +471,7 @@
     "15": {
         "id": 15,
         "name": "\u4f0f\u898b\u30ac\u30af",
-        "picPath": "src\/member\/hushimi_gaku.png",
+        "picPath": "src/member/hushimi_gaku.png",
         "channelid": "UCXU7YYxy_iQd3ulXyO-zC2w",
         "twitterid": "gaku_fushimi",
         "vocabulary": []
@@ -479,7 +479,7 @@
     "16": {
         "id": 16,
         "name": "\u30ae\u30eb\u30b6\u30ec\u30f3\u2162\u4e16",
-        "picPath": "src\/member\/giruzaren_sansei.png",
+        "picPath": "src/member/giruzaren_sansei.png",
         "channelid": "UCUzJ90o1EjqUbk2pBAy0_aw",
         "twitterid": "Gilzaren_III",
         "vocabulary": [
@@ -493,7 +493,7 @@
     "17": {
         "id": 17,
         "name": "\u5263\u6301\u5200\u4e5f",
-        "picPath": "src\/member\/kenmoti_touya.png",
+        "picPath": "src/member/kenmoti_touya.png",
         "channelid": "UCv1fFr156jc65EMiLbaLImw",
         "twitterid": "rei_Toya_rei",
         "vocabulary": [
@@ -512,7 +512,7 @@
     "18": {
         "id": 18,
         "name": "\u68ee\u4e2d\u82b1\u54b2",
-        "picPath": "src\/member\/morinaka_kazaki.png",
+        "picPath": "src/member/morinaka_kazaki.png",
         "channelid": "UCtpB6Bvhs1Um93ziEDACQ8g",
         "twitterid": "KazakiMorinaka",
         "vocabulary": [
@@ -526,7 +526,7 @@
     "19": {
         "id": 19,
         "name": "\u53f6",
-        "picPath": "src\/member\/kanae.png",
+        "picPath": "src/member/kanae.png",
         "channelid": "UCspv01oxUFf_MTSipURRhkA",
         "twitterid": "Kanae_2434",
         "vocabulary": []
@@ -534,7 +534,7 @@
     "20": {
         "id": 20,
         "name": "\u8d64\u7fbd\u8449\u5b50",
-        "picPath": "src\/member\/akabane_youko.png",
+        "picPath": "src/member/akabane_youko.png",
         "channelid": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
         "twitterid": "Youko_Akabane",
         "vocabulary": [
@@ -553,7 +553,7 @@
     "21": {
         "id": 21,
         "name": "\u7b39\u6728\u54b2",
-        "picPath": "src\/member\/sasaki_saku.png",
+        "picPath": "src/member/sasaki_saku.png",
         "channelid": "UCoztvTULBYd3WmStqYeoHcA",
         "twitterid": "saku_sasaki",
         "vocabulary": [
@@ -702,7 +702,7 @@
     "22": {
         "id": 22,
         "name": "\u672c\u9593\u3072\u307e\u308f\u308a",
-        "picPath": "src\/member\/honma_himawari.png",
+        "picPath": "src/member/honma_himawari.png",
         "channelid": "UC0g1AE0DOjBYnLhkgoRWN1w",
         "twitterid": "honmahimawari",
         "vocabulary": [
@@ -756,7 +756,7 @@
     "23": {
         "id": 23,
         "name": "\u9b54\u754c\u30ce\u308a\u308a\u3080",
-        "picPath": "src\/member\/makainoririmu.png",
+        "picPath": "src/member/makainoririmu.png",
         "channelid": "UC9EjSJ8pvxtvPdxLOElv73w",
         "twitterid": "makaino_ririmu",
         "vocabulary": [
@@ -785,7 +785,7 @@
     "24": {
         "id": 24,
         "name": "\u845b\u8449",
-        "picPath": "src\/member\/kuzuha.png",
+        "picPath": "src/member/kuzuha.png",
         "channelid": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "twitterid": "Vamp_Kuzu",
         "vocabulary": [
@@ -809,7 +809,7 @@
     "25": {
         "id": 25,
         "name": "\u96ea\u6c5d",
-        "picPath": "src\/member\/setsuna.png",
+        "picPath": "src/member/setsuna.png",
         "channelid": "UCfM_A7lE6LkGrzx6_mOtI4g",
         "twitterid": "setsuna2434",
         "vocabulary": []
@@ -817,7 +817,7 @@
     "26": {
         "id": 26,
         "name": "\u690e\u540d\u552f\u83ef",
-        "picPath": "src\/member\/shiina_yuika.png",
+        "picPath": "src/member/shiina_yuika.png",
         "channelid": "UC_4tXjqecqox5Uc05ncxpxg",
         "twitterid": "yuika_siina",
         "vocabulary": [
@@ -891,7 +891,7 @@
     "27": {
         "id": 27,
         "name": "\u30c9\u30fc\u30e9",
-        "picPath": "src\/member\/doora.png",
+        "picPath": "src/member/doora.png",
         "channelid": "UC53UDnhAAYwvNO7j_2Ju1cQ",
         "twitterid": "___Dola",
         "vocabulary": [
@@ -910,7 +910,7 @@
     "28": {
         "id": 28,
         "name": "\u51fa\u96f2\u971e",
-        "picPath": "src\/member\/izumo_kasumi.png",
+        "picPath": "src/member/izumo_kasumi.png",
         "channelid": "UCLpYMk5h1bq8_GAFVBgXhPQ",
         "twitterid": "ikasumi_zzz",
         "vocabulary": []
@@ -918,7 +918,7 @@
     "29": {
         "id": 29,
         "name": "\u8f5f\u4eac\u5b50",
-        "picPath": "src\/member\/todoro_kyouko.png",
+        "picPath": "src/member/todoro_kyouko.png",
         "channelid": "UCRV9d6YCYIMUszK-83TwxVA",
         "twitterid": "KT_seeds",
         "vocabulary": [
@@ -937,7 +937,7 @@
     "30": {
         "id": 30,
         "name": "\u30b7\u30b9\u30bf\u30fc\u30fb\u30af\u30ec\u30a2",
-        "picPath": "src\/member\/sister_claire.png",
+        "picPath": "src/member/sister_claire.png",
         "channelid": "UC1zFJrfEKvCixhsjNSb1toQ",
         "twitterid": "SisterCleaire",
         "vocabulary": [
@@ -971,7 +971,7 @@
     "31": {
         "id": 31,
         "name": "\u82b1\u7551\u30c1\u30e3\u30a4\u30ab",
-        "picPath": "src\/member\/hanabatake_chaika.png",
+        "picPath": "src/member/hanabatake_chaika.png",
         "channelid": "UCsFn_ueskBkMCEyzCEqAOvg",
         "twitterid": "ZulmIhP1nlMOT5y",
         "vocabulary": [
@@ -1005,7 +1005,7 @@
     "32": {
         "id": 32,
         "name": "\u793e\u7bc9",
-        "picPath": "src\/member\/yashiro_kizuku.png",
+        "picPath": "src/member/yashiro_kizuku.png",
         "channelid": "UCKMYISTJAQ8xTplUPHiABlA",
         "twitterid": "846kizuQ",
         "vocabulary": [
@@ -1034,7 +1034,7 @@
     "33": {
         "id": 33,
         "name": "\u5b89\u571f\u6843",
-        "picPath": "src\/member\/aduti_momo.png",
+        "picPath": "src/member/aduti_momo.png",
         "channelid": "UC6TfqY40Xt1Y0J-N18c85qQ",
         "twitterid": "momo_aduchi",
         "vocabulary": []
@@ -1042,7 +1042,7 @@
     "34": {
         "id": 34,
         "name": "\u536f\u6708\u30b3\u30a6",
-        "picPath": "src\/member\/uduki_kou.png",
+        "picPath": "src/member/uduki_kou.png",
         "channelid": "UC3lNFeJiTq6L3UWoz4g1e-A",
         "twitterid": "udukikohh",
         "vocabulary": [
@@ -1571,7 +1571,7 @@
     "35": {
         "id": 35,
         "name": "\u9234\u6728\u52dd",
-        "picPath": "src\/member\/suzuki_masaru.png",
+        "picPath": "src/member/suzuki_masaru.png",
         "channelid": "UCryOPk2GZ1meIDt53tL30Tw",
         "twitterid": "Darkness_Eater",
         "vocabulary": []
@@ -1579,7 +1579,7 @@
     "36": {
         "id": 36,
         "name": "\u7dd1\u4ed9",
-        "picPath": "src\/member\/ryuusyen.png",
+        "picPath": "src/member/ryuusyen.png",
         "channelid": "UCt5-0i4AVHXaWJrL8Wql3mw",
         "twitterid": "midori_2434",
         "vocabulary": [
@@ -1758,7 +1758,7 @@
     "37": {
         "id": 37,
         "name": "\u795e\u7530\u7b11\u4e00",
-        "picPath": "src\/member\/kanda_shouichi.png",
+        "picPath": "src/member/kanda_shouichi.png",
         "channelid": "UCWz0CSYCxf4MhRKPDm220AQ",
         "twitterid": "Kanda_Shoichi",
         "vocabulary": [
@@ -1772,7 +1772,7 @@
     "38": {
         "id": 38,
         "name": "\u98db\u9ce5\u3072\u306a",
-        "picPath": "src\/member\/asuka_hina.png",
+        "picPath": "src/member/asuka_hina.png",
         "channelid": "UCiSRx1a2k-0tOg-fs6gAolQ",
         "twitterid": "hina__asuka",
         "vocabulary": []
@@ -1780,7 +1780,7 @@
     "39": {
         "id": 39,
         "name": "\u6625\u5d0e\u30a8\u30a2\u30eb",
-        "picPath": "src\/member\/harusaki_earu.png",
+        "picPath": "src/member/harusaki_earu.png",
         "channelid": "UCtAvQ5U0aXyKwm2i4GqFgJg",
         "twitterid": "harusakiair2434",
         "vocabulary": []
@@ -1788,7 +1788,7 @@
     "40": {
         "id": 40,
         "name": "\u96e8\u68ee\u5c0f\u591c",
-        "picPath": "src\/member\/amemori_sayo.png",
+        "picPath": "src/member/amemori_sayo.png",
         "channelid": "UCRWOdwLRsenx2jLaiCAIU4A",
         "twitterid": "Sayo_Amemori",
         "vocabulary": []
@@ -1796,7 +1796,7 @@
     "41": {
         "id": 41,
         "name": "\u9df9\u5bae\u30ea\u30aa\u30f3",
-        "picPath": "src\/member\/takamiya_rion.png",
+        "picPath": "src/member/takamiya_rion.png",
         "channelid": "UCV5ZZlLjk5MKGg3L0n0vbzw",
         "twitterid": "TakamiyaRion",
         "vocabulary": [
@@ -2581,7 +2581,7 @@
                 "other"
             ],
             [
-                "FGO\uff08\u30d5\u30a7\u30a4\u30c8\/\u30b0\u30e9\u30f3\u30aa\u30fc\u30c0\u30fc\uff09",
+                "FGO\uff08\u30d5\u30a7\u30a4\u30c8/\u30b0\u30e9\u30f3\u30aa\u30fc\u30c0\u30fc\uff09",
                 "41_e5blmFufrt",
                 "other"
             ],
@@ -2970,7 +2970,7 @@
     "42": {
         "id": 42,
         "name": "\u821e\u5143\u5553\u4ecb",
-        "picPath": "src\/member\/maimoto_keisuke.png",
+        "picPath": "src/member/maimoto_keisuke.png",
         "channelid": "UCJubINhCcFXlsBwnHp0wl_g",
         "twitterid": "maimoto_k",
         "vocabulary": [
@@ -2984,7 +2984,7 @@
     "43": {
         "id": 43,
         "name": "\u7adc\u80c6\u5c0a",
-        "picPath": "src\/member\/rindou_mikoto.png",
+        "picPath": "src/member/rindou_mikoto.png",
         "channelid": "UCPvGypSgfDkVe7JG2KygK7A",
         "twitterid": "RindouMikoto",
         "vocabulary": [
@@ -3013,7 +3013,7 @@
     "44": {
         "id": 44,
         "name": "\u3067\u3073\u3067\u3073\u30fb\u3067\u3073\u308b",
-        "picPath": "src\/member\/devidevi_devil.png",
+        "picPath": "src/member/devidevi_devil.png",
         "channelid": "UCjlmCrq4TP1I4xguOtJ-31w",
         "twitterid": "debidebiru_sama",
         "vocabulary": []
@@ -3021,7 +3021,7 @@
     "45": {
         "id": 45,
         "name": "\u685c\u51db\u6708",
-        "picPath": "src\/member\/sakura_ritsuki.png",
+        "picPath": "src/member/sakura_ritsuki.png",
         "channelid": "UCfQVs_KuXeNAlGa3fb8rlnQ",
         "twitterid": "SAKURA_RITSUKI",
         "vocabulary": []
@@ -3029,7 +3029,7 @@
     "46": {
         "id": 46,
         "name": "\u753a\u7530\u3061\u307e",
-        "picPath": "src\/member\/machida_chima.png",
+        "picPath": "src/member/machida_chima.png",
         "channelid": "UCo7TRj3cS-f_1D9ZDmuTsjw",
         "twitterid": "chima_machita23",
         "vocabulary": []
@@ -3037,7 +3037,7 @@
     "47": {
         "id": 47,
         "name": "\u6708\u898b\u3057\u305a\u304f",
-        "picPath": "src\/member\/tsukimi_shizuku.png",
+        "picPath": "src/member/tsukimi_shizuku.png",
         "channelid": "UCqQV8xEBWd5SVZBLlYrS_5Q",
         "twitterid": "tukimi_sizuku",
         "vocabulary": []
@@ -3045,7 +3045,7 @@
     "48": {
         "id": 48,
         "name": "\u30b8\u30e7\u30fc\u30fb\u529b\u4e00",
-        "picPath": "src\/member\/jo_rikiichi.png",
+        "picPath": "src/member/jo_rikiichi.png",
         "channelid": "UChUJbHiTVeGrSkTdBzVfNCQ",
         "twitterid": "JoeRikiichi",
         "vocabulary": [
@@ -3059,7 +3059,7 @@
     "49": {
         "id": 49,
         "name": "\u9060\u5317\u5343\u5357",
-        "picPath": "src\/member\/achikita_chinami.png",
+        "picPath": "src/member/achikita_chinami.png",
         "channelid": "UCuz0vzQgC8LRdS6lVV0UkUg",
         "twitterid": "ac1kt",
         "vocabulary": [
@@ -3073,7 +3073,7 @@
     "50": {
         "id": 50,
         "name": "\u6210\u702c\u9cf4",
-        "picPath": "src\/member\/naruse_naru.png",
+        "picPath": "src/member/naruse_naru.png",
         "channelid": "UCoM_XmK45j504hfUWvN06Qg",
         "twitterid": "narusenaru_2434",
         "vocabulary": [
@@ -3087,7 +3087,7 @@
     "51": {
         "id": 51,
         "name": "\u30d9\u30eb\u30e2\u30f3\u30c9\u30fb\u30d0\u30f3\u30c7\u30e9\u30b9",
-        "picPath": "src\/member\/belmondo_banderasu.png",
+        "picPath": "src/member/belmondo_banderasu.png",
         "channelid": "UCbc8fwhdUNlqi-J99ISYu4A",
         "twitterid": "belmond_b_2434",
         "vocabulary": [
@@ -3101,7 +3101,7 @@
     "52": {
         "id": 52,
         "name": "\u77e2\u8eca\u308a\u306d",
-        "picPath": "src\/member\/yaguruma_rine.png",
+        "picPath": "src/member/yaguruma_rine.png",
         "channelid": "UCvzVB-EYuHFXHZrObB8a_Og",
         "twitterid": "Rine_Yaguruma",
         "vocabulary": []
@@ -3109,7 +3109,7 @@
     "53": {
         "id": 53,
         "name": "\u5922\u8ffd\u7fd4",
-        "picPath": "src\/member\/yumeoi_kakeru.png",
+        "picPath": "src/member/yumeoi_kakeru.png",
         "channelid": "UCTIE7LM5X15NVugV7Krp9Hw",
         "twitterid": "kakeru_yumeoi",
         "vocabulary": []
@@ -3117,7 +3117,7 @@
     "54": {
         "id": 54,
         "name": "\u9ed2\u4e95\u3057\u3070",
-        "picPath": "src\/member\/kuroi_shiba.png",
+        "picPath": "src/member/kuroi_shiba.png",
         "channelid": "UCmeyo5pRj_6PXG-CsGUuWWg",
         "twitterid": "BlackShiba_chan",
         "vocabulary": []
@@ -3125,7 +3125,7 @@
     "55": {
         "id": 55,
         "name": "\u7ae5\u7530\u660e\u6cbb",
-        "picPath": "src\/member\/warabeda_meiji.png",
+        "picPath": "src/member/warabeda_meiji.png",
         "channelid": "UCveZ9Ic1VtcXbsyaBgxPMvg",
         "twitterid": "warabeda_meiji",
         "vocabulary": []
@@ -3133,7 +3133,7 @@
     "56": {
         "id": 56,
         "name": "\u90e1\u9053\u7f8e\u73b2",
-        "picPath": "src\/member\/gundou_mirei.png",
+        "picPath": "src/member/gundou_mirei.png",
         "channelid": "UCeShTCVgZyq2lsBW9QwIJcw",
         "twitterid": "g9v9g_mirei",
         "vocabulary": [
@@ -3178,7 +3178,7 @@
                 "other"
             ],
             [
-                "\u6c17\u5206\u304c\u826f\u304f\u306a\u3063\u3061\u3083\u3044\u307e\u3057\u305f\/\/",
+                "\u6c17\u5206\u304c\u826f\u304f\u306a\u3063\u3061\u3083\u3044\u307e\u3057\u305f//",
                 "56_Kibungayokunattyaimasita",
                 "joy"
             ],
@@ -3188,7 +3188,7 @@
                 "other"
             ],
             [
-                "\u805e\u3044\u3066\u308b\uff1f\/\/",
+                "\u805e\u3044\u3066\u308b\uff1f//",
                 "56_Kiiteru",
                 "other"
             ],
@@ -3228,7 +3228,7 @@
                 "other"
             ],
             [
-                "\u3048\u3078...\u304a\u5e30\u308a\/\/",
+                "\u3048\u3078...\u304a\u5e30\u308a//",
                 "56_Okaeri",
                 "joy"
             ],
@@ -3263,7 +3263,7 @@
                 "other"
             ],
             [
-                "\u6d8e\u5782\u308c\u3061\u3083\u3063\u305f\/\/",
+                "\u6d8e\u5782\u308c\u3061\u3083\u3063\u305f//",
                 "56_Yodaretaretyatta",
                 "other"
             ],
@@ -3317,7 +3317,7 @@
     "57": {
         "id": 57,
         "name": "\u5922\u6708\u30ed\u30a2",
-        "picPath": "src\/member\/yuzuki_roa.png",
+        "picPath": "src/member/yuzuki_roa.png",
         "channelid": "UCCVwhI5trmaSxfcze_Ovzfw",
         "twitterid": "yuzuki_roa",
         "vocabulary": [
@@ -3511,7 +3511,7 @@
     "58": {
         "id": 58,
         "name": "\u5c0f\u91ce\u753a\u6625\u9999",
-        "picPath": "src\/member\/onomachi_haruka.png",
+        "picPath": "src/member/onomachi_haruka.png",
         "channelid": "UCg63a3lk6PNeWhVvMRM_mrQ",
         "twitterid": "onomachi_haruka",
         "vocabulary": [
@@ -3530,7 +3530,7 @@
     "59": {
         "id": 59,
         "name": "\u8a9e\u90e8\u7d21",
-        "picPath": "src\/member\/kataribe_tumugu.png",
+        "picPath": "src/member/kataribe_tumugu.png",
         "channelid": "UCufQu4q65z63IgE4cfKs1BQ",
         "twitterid": "KataribeTsumugu",
         "vocabulary": []
@@ -3538,7 +3538,7 @@
     "60": {
         "id": 60,
         "name": "\u702c\u6238\u7f8e\u591c\u5b50",
-        "picPath": "src\/member\/seto_miyako.png",
+        "picPath": "src/member/seto_miyako.png",
         "channelid": "UCHK5wkevfaGrPr7j3g56Jmw",
         "twitterid": "seto_miyako",
         "vocabulary": []
@@ -3546,7 +3546,7 @@
     "61": {
         "id": 61,
         "name": "\u5fa1\u4f3d\u539f\u6c5f\u826f",
-        "picPath": "src\/member\/otogibara_era.png",
+        "picPath": "src/member/otogibara_era.png",
         "channelid": "UCwQ9Uv-m8xkE5PzRc7Bqx3Q",
         "twitterid": "OtogibaraEra",
         "vocabulary": [
@@ -3585,7 +3585,7 @@
     "62": {
         "id": 62,
         "name": "\u620c\u4ea5\u3068\u3053",
-        "picPath": "src\/member\/inui_toko.png",
+        "picPath": "src/member/inui_toko.png",
         "channelid": "UCXRlIK3Cw_TJIQC5kSJJQMg",
         "twitterid": "inui_toko",
         "vocabulary": [
@@ -3604,7 +3604,7 @@
     "63": {
         "id": 63,
         "name": "\u30a2\u30f3\u30b8\u30e5\u30fb\u30ab\u30c8\u30ea\u30fc\u30ca",
-        "picPath": "src\/member\/ange_katrina.png",
+        "picPath": "src/member/ange_katrina.png",
         "channelid": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "twitterid": "Ange_Katrina_",
         "vocabulary": [
@@ -3678,7 +3678,7 @@
     "64": {
         "id": 64,
         "name": "\u30ea\u30bc\u30fb\u30d8\u30eb\u30a8\u30b9\u30bf",
-        "picPath": "src\/member\/rize_heruesuta.png",
+        "picPath": "src/member/rize_heruesuta.png",
         "channelid": "UCZ1xuCK1kNmn5RzPYIZop3w",
         "twitterid": "Lize_Helesta",
         "vocabulary": [
@@ -3697,7 +3697,7 @@
     "65": {
         "id": 65,
         "name": "\u4e09\u679d\u660e\u90a3",
-        "picPath": "src\/member\/saegusa_akina.png",
+        "picPath": "src/member/saegusa_akina.png",
         "channelid": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
         "twitterid": "333akina",
         "vocabulary": [
@@ -3711,7 +3711,7 @@
     "66": {
         "id": 66,
         "name": "\u611b\u5712\u611b\u7f8e",
-        "picPath": "src\/member\/aizono_manami.png",
+        "picPath": "src/member/aizono_manami.png",
         "channelid": "UC0WwEfE-jOM2rzjpdfhTzZA",
         "twitterid": "manami_aizono",
         "vocabulary": []
@@ -3719,7 +3719,7 @@
     "67": {
         "id": 67,
         "name": "\u9234\u539f\u308b\u308b",
-        "picPath": "src\/member\/suzuhara_lulu.png",
+        "picPath": "src/member/suzuhara_lulu.png",
         "channelid": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
         "twitterid": "lulu_suzuhara",
         "vocabulary": [
@@ -3753,7 +3753,7 @@
     "68": {
         "id": 68,
         "name": "\u96ea\u57ce\u771e\u5c0b",
-        "picPath": "src\/member\/yukishiro_mahiro.png",
+        "picPath": "src/member/yukishiro_mahiro.png",
         "channelid": "UCHX7YpFG8rVwhsHCx34xt7w",
         "twitterid": "MahiroYukishiro",
         "vocabulary": []
@@ -3761,7 +3761,7 @@
     "69": {
         "id": 69,
         "name": "\u30a8\u30af\u30b9\u30fb\u30a2\u30eb\u30d3\u30aa",
-        "picPath": "src\/member\/ex_albio.png",
+        "picPath": "src/member/ex_albio.png",
         "channelid": "UCIytNcoz4pWzXfLda0DoULQ",
         "twitterid": "Ex_Albio",
         "vocabulary": [
@@ -3810,7 +3810,7 @@
     "70": {
         "id": 70,
         "name": "\u30ec\u30f4\u30a3\u30fb\u30a8\u30ea\u30d5\u30a1",
-        "picPath": "src\/member\/levi_elipha.png",
+        "picPath": "src/member/levi_elipha.png",
         "channelid": "UCtnO2N4kPTXmyvedjGWdx3Q",
         "twitterid": "Levi_E_2434",
         "vocabulary": [
@@ -3829,7 +3829,7 @@
     "71": {
         "id": 71,
         "name": "\u8449\u5c71\u821e\u9234",
-        "picPath": "src\/member\/hayama_marin.png",
+        "picPath": "src/member/hayama_marin.png",
         "channelid": "UCfipDDn7wY-C-SoUChgxCQQ",
         "twitterid": "Hayama_Marin",
         "vocabulary": [
@@ -3853,7 +3853,7 @@
     "72": {
         "id": 72,
         "name": "\u30cb\u30e5\u30a4\u30fb\u30bd\u30b7\u30a8\u30fc\u30eb",
-        "picPath": "src\/member\/nui_sociere.png",
+        "picPath": "src/member/nui_sociere.png",
         "channelid": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
         "twitterid": "Nui_Sociere",
         "vocabulary": [
@@ -3887,7 +3887,7 @@
     "73": {
         "id": 73,
         "name": "\u8449\u52a0\u702c\u51ac\u96ea",
-        "picPath": "src\/member\/hakase_fuyuki.png",
+        "picPath": "src/member/hakase_fuyuki.png",
         "channelid": "UCGYAYLDE7TZiiC8U6teciDQ",
         "twitterid": "Hakase_Fuyuki",
         "vocabulary": [
@@ -3901,7 +3901,7 @@
     "74": {
         "id": 74,
         "name": "\u52a0\u8cc0\u7f8e\u30cf\u30e4\u30c8",
-        "picPath": "src\/member\/kagami_hayato.png",
+        "picPath": "src/member/kagami_hayato.png",
         "channelid": "UCmovZ2th3Sqpd00F5RdeigQ",
         "twitterid": "H_KAGAMI2434",
         "vocabulary": []
@@ -3909,7 +3909,7 @@
     "75": {
         "id": 75,
         "name": "\u591c\u898b\u308c\u306a",
-        "picPath": "src\/member\/yorumi_rena.png",
+        "picPath": "src/member/yorumi_rena.png",
         "channelid": "UCL34fAoFim9oHLbVzMKFavQ",
         "twitterid": "rena_yorumi",
         "vocabulary": [
@@ -3928,7 +3928,7 @@
     "76": {
         "id": 76,
         "name": "\u9edb\u7070",
-        "picPath": "src\/member\/mayuzumi_kai.png",
+        "picPath": "src/member/mayuzumi_kai.png",
         "channelid": "UCb5JxV6vKlYVknoJB8TnyYg",
         "twitterid": "mayuzumi_X",
         "vocabulary": [
@@ -3962,7 +3962,7 @@
     "77": {
         "id": 77,
         "name": "\u30a2\u30eb\u30b9\u30fb\u30a2\u30eb\u30de\u30eb",
-        "picPath": "src\/member\/ars_almal.png",
+        "picPath": "src/member/ars_almal.png",
         "channelid": "UCdpUojq0KWZCN9bxXnZwz5w",
         "twitterid": "ars_almal",
         "vocabulary": [
@@ -4111,7 +4111,7 @@
     "78": {
         "id": 78,
         "name": "\u76f8\u7fbd\u3046\u3044\u306f",
-        "picPath": "src\/member\/aiba_uiha.png",
+        "picPath": "src/member/aiba_uiha.png",
         "channelid": "UCnRQYHTnRLSF0cLJwMnedCg",
         "twitterid": "AibaUiha",
         "vocabulary": [
@@ -4135,7 +4135,7 @@
     "79": {
         "id": 79,
         "name": "\u5929\u5bae\u3053\u3053\u308d",
-        "picPath": "src\/member\/amamiya_kokoro.png",
+        "picPath": "src/member/amamiya_kokoro.png",
         "channelid": "UCkIimWZ9gBJRamKF0rmPU8w",
         "twitterid": "amamiya_kokoro",
         "vocabulary": [
@@ -4184,7 +4184,7 @@
     "80": {
         "id": 80,
         "name": "\u30a8\u30ea\u30fc\u30fb\u30b3\u30cb\u30d5\u30a1\u30fc",
-        "picPath": "src\/member\/eli_conifer.png",
+        "picPath": "src/member/eli_conifer.png",
         "channelid": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
         "twitterid": "Eli_Conifer",
         "vocabulary": [
@@ -4208,7 +4208,7 @@
     "81": {
         "id": 81,
         "name": "\u30e9\u30c8\u30ca\u30fb\u30d7\u30c6\u30a3",
-        "picPath": "src\/member\/ratna_petit.png",
+        "picPath": "src/member/ratna_petit.png",
         "channelid": "UCIG9rDtgR45VCZmYnd-4DUw",
         "twitterid": "ratna_petit",
         "vocabulary": []
@@ -4216,7 +4216,7 @@
     "82": {
         "id": 82,
         "name": "\u65e9\u702c\u8d70",
-        "picPath": "src\/member\/hayase_sou.png",
+        "picPath": "src/member/hayase_sou.png",
         "channelid": "UC2OacIzd2UxGHRGhdHl1Rhw",
         "twitterid": "SouHayase",
         "vocabulary": []
@@ -4224,7 +4224,7 @@
     "83": {
         "id": 83,
         "name": "\u5065\u5c4b\u82b1\u90a3",
-        "picPath": "src\/member\/sukoya_kana.png",
+        "picPath": "src/member/sukoya_kana.png",
         "channelid": "UC8C1LLhBhf_E2IBPLSDJXlQ",
         "twitterid": "sukosuko_sukoya",
         "vocabulary": [
@@ -4243,7 +4243,7 @@
     "84": {
         "id": 84,
         "name": "\u30b7\u30a7\u30ea\u30f3\u30fb\u30d0\u30fc\u30ac\u30f3\u30c7\u30a3",
-        "picPath": "src\/member\/shellin_burgundy.png",
+        "picPath": "src/member/shellin_burgundy.png",
         "channelid": "UCHBhnG2G-qN0JrrWmMO2FTA",
         "twitterid": "ShellinBurgundy",
         "vocabulary": [
@@ -4277,7 +4277,7 @@
     "85": {
         "id": 85,
         "name": "\u30d5\u30df",
-        "picPath": "src\/member\/fumi.png",
+        "picPath": "src/member/fumi.png",
         "channelid": "UCwrjITPwG4q71HzihV2C7Nw",
         "twitterid": "FumiVirtual",
         "vocabulary": [
@@ -4306,7 +4306,7 @@
     "86": {
         "id": 86,
         "name": "\u5c71\u795e\u30ab\u30eb\u30bf",
-        "picPath": "src\/member\/yamagami_karuta.png",
+        "picPath": "src/member/yamagami_karuta.png",
         "channelid": "UCllKI7VjyANuS1RXatizfLQ",
         "twitterid": "Karuta_Yamagami",
         "vocabulary": [
@@ -4325,7 +4325,7 @@
     "87": {
         "id": 87,
         "name": "\u661f\u5ddd\u30b5\u30e9",
-        "picPath": "src\/member\/hoshikawa_sara.png",
+        "picPath": "src/member/hoshikawa_sara.png",
         "channelid": "UC9V3Y3_uzU5e-usObb6IE1w",
         "twitterid": "Sara_Hoshikawa",
         "vocabulary": [
@@ -4479,7 +4479,7 @@
     "88": {
         "id": 88,
         "name": "\u3048\u307e\u2605\u304a\u3046\u304c\u3059\u3068",
-        "picPath": "src\/member\/emma_august.png",
+        "picPath": "src/member/emma_august.png",
         "channelid": "UCl1oLKcAq93p-pwKfDGhiYQ",
         "twitterid": "emma_august_",
         "vocabulary": [
@@ -4563,7 +4563,7 @@
     "89": {
         "id": 89,
         "name": "\u30eb\u30a4\u30b9\u30fb\u30ad\u30e3\u30df\u30fc",
-        "picPath": "src\/member\/luis_cammy.png",
+        "picPath": "src/member/luis_cammy.png",
         "channelid": "UCb6ObE-XGCctO3WrjRZC-cw",
         "twitterid": "Luis_Cammy",
         "vocabulary": [
@@ -4582,7 +4582,7 @@
     "90": {
         "id": 90,
         "name": "\u9b54\u4f7f\u30de\u30aa",
-        "picPath": "src\/member\/matsukai_mao.png",
+        "picPath": "src/member/matsukai_mao.png",
         "channelid": "UCerkculBD7YLc_vOGrF7tKg",
         "twitterid": "matsukai_mao",
         "vocabulary": [
@@ -4616,7 +4616,7 @@
     "91": {
         "id": 91,
         "name": "\u4e0d\u7834\u6e4a",
-        "picPath": "src\/member\/minato_fuwa.png",
+        "picPath": "src/member/minato_fuwa.png",
         "channelid": "UC6wvdADTJ88OfIbJYIpAaDA",
         "twitterid": "Fuwa_Minato",
         "vocabulary": [
@@ -4650,12 +4650,12 @@
     "92": {
         "id": 92,
         "name": "\u767d\u96ea\u5df4",
-        "picPath": "src\/member\/tomoe_shirayuki.png",
+        "picPath": "src/member/tomoe_shirayuki.png",
         "channelid": "UCuvk5PilcvDECU7dDZhQiEw",
         "twitterid": "Tomoe_Shirayuki",
         "vocabulary": [
             [
-                "\u30a2\u30a1\u30fc\u30c3\/\/\u2661 \u30a2\u30a2\u30fc\u30c3\/\/\u2661",
+                "\u30a2\u30a1\u30fc\u30c3//\u2661 \u30a2\u30a2\u30fc\u30c3//\u2661",
                 "92_Aaaaaaa",
                 "other"
             ],
@@ -4680,7 +4680,7 @@
                 "other"
             ],
             [
-                "\u3061\u3087\u3063\u3068\u4ecaS\u51fa\u3057\u3061\u3083\u3063\u305f\/\/ \u30b4\u30e1\u30f3\u306d..",
+                "\u3061\u3087\u3063\u3068\u4ecaS\u51fa\u3057\u3061\u3083\u3063\u305f// \u30b4\u30e1\u30f3\u306d..",
                 "92_Tyottoimasdashityatta",
                 "other"
             ],
@@ -4694,7 +4694,7 @@
     "93": {
         "id": 93,
         "name": "\u30b0\u30a6\u30a7\u30eb\u30fb\u30aa\u30b9\u30fb\u30ac\u30fc\u30eb",
-        "picPath": "src\/member\/gwelu_os_gar.png",
+        "picPath": "src/member/gwelu_os_gar.png",
         "channelid": "UC1QgXt46-GEvtNjEC1paHnw",
         "twitterid": "Gwelu_os_gar",
         "vocabulary": []
@@ -4702,7 +4702,7 @@
     "94": {
         "id": 94,
         "name": "\u307e\u3057\u308d",
-        "picPath": "src\/member\/mashiro.png",
+        "picPath": "src/member/mashiro.png",
         "channelid": "UCfki3lMEF6SGBFiFfo9kvUA",
         "twitterid": "mashiro2434",
         "vocabulary": []
@@ -4710,7 +4710,7 @@
     "95": {
         "id": 95,
         "name": "\u5948\u7f85\u82b1",
-        "picPath": "src\/member\/naraka.png",
+        "picPath": "src/member/naraka.png",
         "channelid": "UC-o-E6I3IC2q8sAoAuM6Umg",
         "twitterid": "Naraka_2434",
         "vocabulary": []
@@ -4718,7 +4718,7 @@
     "96": {
         "id": 96,
         "name": "\u6765\u6816\u590f\u82bd",
-        "picPath": "src\/member\/natsume_kurusu.png",
+        "picPath": "src/member/natsume_kurusu.png",
         "channelid": "UCRcLAVTbmx2-iNcXSsupdNA",
         "twitterid": "kurusu72me",
         "vocabulary": []
@@ -4726,7 +4726,7 @@
     "97": {
         "id": 97,
         "name": "\u30d5\u30ec\u30f3\u30fbE\u30fb\u30eb\u30b9\u30bf\u30ea\u30aa",
-        "picPath": "src\/member\/furen_e_lustario.png",
+        "picPath": "src/member/furen_e_lustario.png",
         "channelid": "UCuep1JCrMvSxOGgGhBfJuYw",
         "twitterid": "furen_2434",
         "vocabulary": []
@@ -4734,7 +4734,7 @@
     "98": {
         "id": 98,
         "name": "\u30a4\u30d6\u30e9\u30d2\u30e0",
-        "picPath": "src\/member\/ibrahim.png",
+        "picPath": "src/member/ibrahim.png",
         "channelid": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
         "twitterid": "honmono_ibrahim",
         "vocabulary": [
@@ -4758,7 +4758,7 @@
     "99": {
         "id": 99,
         "name": "\u30e1\u30ea\u30c3\u30b5\u30fb\u30ad\u30f3\u30ec\u30f3\u30ab",
-        "picPath": "src\/member\/melissa_kinrenka.png",
+        "picPath": "src/member/melissa_kinrenka.png",
         "channelid": "UCwcyyxn6h9ex4sMXGtpQE_g",
         "twitterid": "melissa_2434",
         "vocabulary": []
@@ -4766,7 +4766,7 @@
     "100": {
         "id": 100,
         "name": "\u9577\u5c3e\u666f",
-        "picPath": "src\/member\/kei_nagao.png",
+        "picPath": "src/member/kei_nagao.png",
         "channelid": "UCXW4MqCQn-jCaxlX-nn-BYg",
         "twitterid": "kei_nagao2434",
         "vocabulary": []
@@ -4774,7 +4774,7 @@
     "101": {
         "id": 101,
         "name": "\u5f26\u6708\u85e4\u58eb\u90ce",
-        "picPath": "src\/member\/tojiro_genzuki.png",
+        "picPath": "src/member/tojiro_genzuki.png",
         "channelid": "UCGw7lrT-rVZCWHfdG9Frcgg",
         "twitterid": "1O46V",
         "vocabulary": []
@@ -4782,7 +4782,7 @@
     "102": {
         "id": 102,
         "name": "\u7532\u6590\u7530\u6674",
-        "picPath": "src\/member\/haru_kaida.png",
+        "picPath": "src/member/haru_kaida.png",
         "channelid": "UCo2N7C-Z91waaR6lF3LL_jw",
         "twitterid": "Kaida_Haru",
         "vocabulary": []
@@ -4790,7 +4790,7 @@
     "103": {
         "id": 103,
         "name": "\u7a7a\u661f\u304d\u3089\u3081",
-        "picPath": "src\/member\/kirame_sorahoshi.png",
+        "picPath": "src/member/kirame_sorahoshi.png",
         "channelid": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "twitterid": "kirame_2434",
         "vocabulary": []
@@ -4798,7 +4798,7 @@
     "104": {
         "id": 104,
         "name": "\u671d\u65e5\u5357\u30a2\u30ab\u30cd",
-        "picPath": "src\/member\/akane_asahina.png",
+        "picPath": "src/member/akane_asahina.png",
         "channelid": "UCe_p3YEuYJb8Np0Ip9dk-FQ",
         "twitterid": "Akane_Asahina__",
         "vocabulary": []
@@ -4806,7 +4806,7 @@
     "105": {
         "id": 105,
         "name": "\u5468\u592e\u30b5\u30f3\u30b4",
-        "picPath": "src\/member\/sango_suo.png",
+        "picPath": "src/member/sango_suo.png",
         "channelid": "UCL_O_HXgLJx3Auteer0n0pA",
         "twitterid": "Suo_Sango",
         "vocabulary": [
@@ -4835,7 +4835,7 @@
     "106": {
         "id": 106,
         "name": "\u6771\u5802\u30b3\u30cf\u30af",
-        "picPath": "src\/member\/kohaku_todo.png",
+        "picPath": "src/member/kohaku_todo.png",
         "channelid": "UCebT4Aq-3XWb5je1S1FvR_A",
         "twitterid": "kohaku_todo",
         "vocabulary": []
@@ -4843,7 +4843,7 @@
     "107": {
         "id": 107,
         "name": "\u5317\u5c0f\u8def\u30d2\u30b9\u30a4",
-        "picPath": "src\/member\/hisui_kitakoji.png",
+        "picPath": "src/member/hisui_kitakoji.png",
         "channelid": "UCRqBKoKuX30ruKAq05pCeRQ",
         "twitterid": "Hisui_Kitakoji",
         "vocabulary": []
@@ -4851,7 +4851,7 @@
     "108": {
         "id": 108,
         "name": "\u897f\u5712\u30c1\u30b0\u30b5",
-        "picPath": "src\/member\/chigusa_nishizono.png",
+        "picPath": "src/member/chigusa_nishizono.png",
         "channelid": "UCkngxfPbmGyGl_RIq4FA3MQ",
         "twitterid": "Chigusa_24zono",
         "vocabulary": []
@@ -4859,7 +4859,7 @@
     "109": {
         "id": 109,
         "name": "\u30a2\u30af\u30b7\u30a2\u30fb\u30af\u30ed\u30fc\u30cd",
-        "picPath": "src\/member\/axia_krone.png",
+        "picPath": "src/member/axia_krone.png",
         "channelid": "UC8oPnditPSp5lZu45fnXWCA",
         "twitterid": "AXIA_96NE",
         "vocabulary": []
@@ -4867,7 +4867,7 @@
     "110": {
         "id": 110,
         "name": "\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9",
-        "picPath": "src\/member\/lauren_iroas.png",
+        "picPath": "src/member/lauren_iroas.png",
         "channelid": "UCgmFrRcyH7d1zR9sIVQhFow",
         "twitterid": "Lauren_iroas",
         "vocabulary": []
@@ -4875,7 +4875,7 @@
     "111": {
         "id": 111,
         "name": "\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8",
-        "picPath": "src\/member\/leos_vincent.png",
+        "picPath": "src/member/leos_vincent.png",
         "channelid": "UC-6rZgmxZSIbq786j3RD5ow",
         "twitterid": "Leos_Vincent",
         "vocabulary": [
@@ -4889,7 +4889,7 @@
     "112": {
         "id": 112,
         "name": "\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9",
-        "picPath": "src\/member\/oliver_evans.png",
+        "picPath": "src/member/oliver_evans.png",
         "channelid": "UCqjTqdVlvIipZXIKeCkHKUA",
         "twitterid": "oliverD_23",
         "vocabulary": []
@@ -4897,9 +4897,41 @@
     "113": {
         "id": 113,
         "name": "\u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3",
-        "picPath": "src\/member\/lain_paterson.png",
+        "picPath": "src/member/lain_paterson.png",
         "channelid": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
         "twitterid": "Lain_Paterson",
+        "vocabulary": []
+    },
+    "114": {
+        "id": 114,
+        "name": "\u5929\u30f6\u702c\u3080\u3086",
+        "picPath": "src/member/muyu_amagase.png",
+        "channelid": "UCAQDFeCTVdx90GtwohwjHzQ",
+        "twitterid": "Muyu_Amagase",
+        "vocabulary": []
+    },
+    "115": {
+        "id": 115,
+        "name": "\u5148\u6597\u5be7",
+        "picPath": "src/member/nei_ponto.png",
+        "channelid": "UCe22Bcwd_GCpTjLxn83zl7A",
+        "twitterid": "ponto_nei",
+        "vocabulary": []
+    },
+    "116": {
+        "id": 116,
+        "name": "\u6d77\u59b9\u56db\u8449",
+        "picPath": "src/member/yotsuha_umise.png",
+        "channelid": "UCtHY-tP0dyykhTRMmnfPs_g",
+        "twitterid": "Yotsuha_Umise",
+        "vocabulary": []
+    },
+    "117": {
+        "id": 117,
+        "name": "\u58f1\u767e\u6e80\u5929\u539f\u30b5\u30ed\u30e1",
+        "picPath": "src/member/salome_hyakumantenbara.png",
+        "channelid": "UCgIfLpQvelloDi8I0Ycbwpg",
+        "twitterid": "1000000lome",
         "vocabulary": []
     }
 }

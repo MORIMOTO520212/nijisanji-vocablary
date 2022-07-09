@@ -112,10 +112,13 @@ if (@$_COOKIE["voice_add"] == True){
         <div class="header">
             <a href="#"><img src="src/homelogo.png"></a>
         </div>
-        <p class="text">語録は個人的観点に基づいて作成しています。</p>
+        <p class="text">
+            にじさんじライバーの語録をボイス形式としてまとめているサイトです。<br>
+            今までは、制作者が語録を追加していましたが、新たに登録フォームを設けて誰でも追加申請できるようにしました。
+        </p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwytL1F2Axx059OVwpS6Y-zQOeL6aPYRS5C3qFh1GeiXQA1w/viewform?usp=sf_link"><p class="text">語録を新規登録する</p></a>
         <a href="about.html"><p class="text">ツールについての説明</p></a>
         <a href="news.html"><p class="text">ツール新規情報</p></a>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwytL1F2Axx059OVwpS6Y-zQOeL6aPYRS5C3qFh1GeiXQA1w/viewform?usp=sf_link"><p class="text">語録 募集フォーム</p></a>
         <a href="favorite.php"><p class="text">お気に入りリスト</p></a>
         <a href="#" onclick='displaymode();return false;'><p class="text">ダークモード変更</p></a>
         <p class="text">
@@ -139,8 +142,8 @@ if (@$_COOKIE["voice_add"] == True){
         <script>
             /*************************************************************
                           Thank you for looking at the source
-               Create by NIJISANJI vocabularies - inspiration of MEDAKA. 
-                                   UPDATE 2020 02 15 
+               Create by NIJISANJI vocabularies - Yuma Morimoto. 
+                                   UPDATE 22022 07 09
              *************************************************************/
 
             // mode check
