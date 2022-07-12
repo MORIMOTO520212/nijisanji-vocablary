@@ -54,11 +54,11 @@ if (@$_COOKIE["voice_add"] == True){
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
                 gtag('config', 'UA-151169093-1');
-                var favorites = Cookies.get("favorites"); // cookie取得
-                if (favorites === undefined){
-                    console.log("Cookie undefined");
-                    Cookies.set("favorites", JSON.stringify(["PS","PS","PS"]));
-                }
+            }
+            var favorites = Cookies.get("favorites"); // cookie取得
+            if (favorites === undefined){
+                console.log("Cookie undefined");
+                Cookies.set("favorites", JSON.stringify(["PS","PS","PS"]));
             }
         </script>
         <script>
