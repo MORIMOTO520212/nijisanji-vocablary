@@ -114,7 +114,8 @@ if (@$_COOKIE["voice_add"] == True){
         </div>
         <p class="text">
             にじさんじライバーの語録をボイス形式としてまとめているサイトです。<br>
-            今までは、制作者が語録を追加していましたが、新たに登録フォームを設けて誰でも追加申請できるようにしました。
+            今までは、制作者が語録を追加していましたが、新たに登録フォームを設けて誰でも追加申請できるようにしました。<br>
+            総ボイス数：800個
         </p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwytL1F2Axx059OVwpS6Y-zQOeL6aPYRS5C3qFh1GeiXQA1w/viewform?usp=sf_link"><p class="text">語録を新規登録する</p></a>
         <a href="about.html"><p class="text">ツールについての説明</p></a>
@@ -177,7 +178,7 @@ if (@$_COOKIE["voice_add"] == True){
             }else{
                 activeorder(); // fast
             }
-            // activity start order
+            // 活動開始順ソート
             function activeorder(){
                 console.log("function: activeorder");
                 lagyLoad=true;
@@ -195,7 +196,7 @@ if (@$_COOKIE["voice_add"] == True){
                 sessionStorage.setItem('activsubscs', 'activeorder'); // Add sessionStorage
             }
 
-            // number of subscribers
+            // 登録者数順ソート
             function subscribers(){
                 console.log("function: subscribers");
                 lagyLoad=true;
