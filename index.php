@@ -32,7 +32,7 @@ if (@$_COOKIE["voice_add"] == True){
         <meta name="theme-color" content="#EF7A03">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="にじさんじのライバーの語録をボイス形式としてまとめてます。" />
-        <meta name="keywords" content="にじさんじ, 語録">
+        <meta name="keywords" content="にじさんじ, 語録, 名言">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@xsusa_vtuber">
         <meta name="twitter:title" content="VTuber配信巡回">

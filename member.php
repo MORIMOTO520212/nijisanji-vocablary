@@ -83,12 +83,12 @@ if (@$_COOKIE["favorites"] == True){
                             }
                             echo "<li id=\"".$vocaData[2]."\" class=\"is-none\"><a href=\"#\" onclick='favorite(\"".$vocaData[1]."\");return false;'><img class=\"favorite\" src=\"src/".$favoriteStatus."\" id=\"".$vocaData[1]."+\"></a><a href=\"#\" class=\"btn\" onclick=\"document.getElementById('".$vocaData[1]."').play();return false;\"><p>".$vocaData[0]."</p></a><audio src=\"src/voice/".$vocaData[1].".mp3\" id=\"".$vocaData[1]."\"></audio></li>";
                         }
-                        if ($count == 0){
-                            echo "
-                            <p>まだ語録がありません。※有志の方語録募集中</p>
-                            <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdwytL1F2Axx059OVwpS6Y-zQOeL6aPYRS5C3qFh1GeiXQA1w/viewform?usp=sf_link\"><p>語録を新規登録する</p></a>";
+                        if($count==0){
+                            echo "<p>まだ語録がありません。※有志の方語録募集中</p>";
                         }
                     ?>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwytL1F2Axx059OVwpS6Y-zQOeL6aPYRS5C3qFh1GeiXQA1w/viewform?usp=sf_link" style="text-align:center;"><p>語録を新規登録する</p></a>
+
                     <!-- not such -->
                     <li id="joy" class="is-none"><a href="#" class="btn"><p></p></a></li>
                     <li id="anger" class="is-none"><a href="#" class="btn"><p></p></a></li>
